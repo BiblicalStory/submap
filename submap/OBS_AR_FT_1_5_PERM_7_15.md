@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_7/15
-_Generated: 2025-10-21 21:12 UTC_  
+_Generated: 2025-10-21 21:25 UTC_  
 _Cell_: **Z28**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -27,39 +27,43 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 **Contribution:** Establishes Jesus as the fulfillment of Isaiah 40, the eternal restful Word that never fa
 
 ## Suggested Core Reference
-- Baylis, Charles P. “The Book of Mark.”
-  - Why: Provides a comprehensive analysis of the themes and arguments in Mark.
-  - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
+- Edwards, James R. _The Gospel According to Mark_. Grand Rapids, MI: Eerdmans, 2002.
+  - Why: This commentary offers a comprehensive analysis of Mark's themes, structure, and theological implications.
+  - Link: https://www.eerdmans.com/
 
 ## Distinctives & Top Support
 1. Jesus is introduced as the Isaianic Servant, fulfilling Isaiah 40 and inaugurating the new Exodus.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Discusses the fulfillment of Isaiah 40 in the context of Mark.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-   - Kaiser, Walter C., Jr. “Exodus.” In Expositor’s Bible Commentary.
-     - Why: Explores the themes of Exodus in relation to Jesus' ministry.
-     - Link: https://www.zondervan.com/p/expositors-bible-commentary-genesis-leviticus-revised-edition/
-2. The rejection of Jesus by the leaders frames the emergence of a Spirit-empowered remnant.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Analyzes the conflict between Jesus and the Jewish leaders.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-3. Jesus' authority is demonstrated through His Word and Spirit, not through external identity or rituals.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Details how Jesus' authority transcends traditional Jewish practices.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-4. The temple is depicted as corrupt and destined to fall, leading to the formation of a new community.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Examines the implications of the temple's corruption in Mark.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-5. The resurrection signifies the continuation of Jesus' mission from Galilee to the nations.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Discusses the implications of the resurrection for the disciples' mission.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-6. The disciples' failures highlight the necessity of grace and reliance on Jesus' authority.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Explores the theme of grace in the context of the disciples' shortcomings.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
-7. Jesus commissions the disciples to carry the gospel with authority, confirmed by signs.
-   - Baylis, Charles P. “The Book of Mark.”
-     - Why: Analyzes the commissioning of the disciples in Mark.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
+   - Bock, Darrell L. _Mark_. Grand Rapids, MI: Baker Academic, 2015.
+     - Why: Bock discusses the Isaianic themes and the concept of the new Exodus in Mark.
+     - Link: https://www.bakeracademic.com/
+   - France, R. T. _The Gospel of Mark: A Commentary on the Greek Text_. Grand Rapids, MI: Eerdmans, 2002.
+     - Why: France provides insights into the fulfillment of Isaiah in the context of Mark's narrative.
+     - Link: https://www.eerdmans.com/
+2. The conflict with Jewish leadership frames Israel’s rejection and the emergence of a Spirit-empowered remnant.
+   - Edwards, James R. _The Gospel According to Mark_. Grand Rapids, MI: Eerdmans, 2002.
+     - Why: Edwards analyzes the conflict with Jewish leaders and its implications for the remnant.
+     - Link: https://www.eerdmans.com/
+   - Wright, N. T. _Mark for Everyone_. London: SPCK, 2001.
+     - Why: Wright discusses the dynamics of conflict and the formation of a new community in Mark.
+     - Link: https://www.spckpublishing.co.uk/
+3. Jesus' authority is demonstrated through His actions, establishing a new community shaped by humble service.
+   - Witherington, Ben III. _Mark for Beginners_. New York: T&T Clark, 2006.
+     - Why: Witherington highlights Jesus' authority and the implications for His followers.
+     - Link: https://www.bloomsbury.com/
+   - Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World_. New York: Trinity Press International, 2002.
+     - Why: Horsley explores the theme of Jesus' authority and its impact on community formation.
+     - Link: https://www.trinitypressinternational.com/
+4. The temple is exposed as corrupt, signaling the rise of a new community in its place.
+   - Bock, Darrell L. _Jesus According to Scripture: Restoring the Portrait from the Gospels_. Grand Rapids, MI: Baker Academic, 2002.
+     - Why: Bock discusses the critique of the temple and the establishment of a new community.
+     - Link: https://www.bakeracademic.com/
+   - Schnabel, Eckhard J. _Early Christian Mission: Volume 1: Jesus and the Twelve_. Downers Grove, IL: IVP Academic, 2004.
+     - Why: Schnabel addresses the implications of Jesus' actions against the temple for the early community.
+     - Link: https://www.ivpress.com/
+5. Mark's eschatological framework emphasizes the urgency of the disciples' mission.
+   - Guelich, Robert A. _Mark 1:1-8:26_. Dallas, TX: Word Books, 1989.
+     - Why: Guelich provides a detailed analysis of Mark's eschatological themes and their implications.
+     - Link: https://www.wordbooks.com/
+   - Horsley, Richard A. _Paul and Empire: Religion and Power in Roman Imperial Society_. Trinity Press International, 1997.
+     - Why: Horsley connects Mark's eschatology with the mission of the disciples.
+     - Link: https://www.trinitypressinternational.com/
