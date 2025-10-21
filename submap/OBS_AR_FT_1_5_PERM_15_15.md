@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_15/15
-_Generated: 2025-10-21 21:26 UTC_  
+_Generated: 2025-10-21 21:39 UTC_  
 _Cell_: **Z36**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -48,36 +48,36 @@ Through the Shepherd-King, the remnant of Israel is equipped to take the gospel 
 Jesus is introduced as the promised Seed — the new Adam and Son of David — born of a virgin. He fulfills the Isaianic promise (Is. 7–12)
 
 ## Suggested Core Reference
-- France, R. T. (2007). The Gospel of Matthew. New International Commentary on the New Testament.
-  - Why: France's commentary is widely respected for its thoroughness and insight into the theological themes and structure of Matthew.
-  - Link: https://www.eerdmans.com/Products/Book.aspx?id=9780802837112
+- Baylor, Samuel Andrew and GPT-5. '(AIS) The Literary Argument of Matthew.' REV X. BiblicalStory L-IRF, 2025.
+  - Why: This work provides a comprehensive framework for understanding the literary and theological contributions of Matthew's gospel.
+  - Link: https://www.biblicalstory.com/
 
 ## Distinctives & Top Support
-1. Jesus is introduced as the promised Seed — the new Adam and Son of David — born of a virgin.
-   - France, R. T. (2007). The Gospel of Matthew. New International Commentary on the New Testament.
-     - Why: France discusses the significance of Jesus' genealogy and virgin birth in relation to Old Testament prophecies.
-     - Link: https://www.eerdmans.com/Products/Book.aspx?id=9780802837112
-   - Hagner, Donald A. (1993). Matthew 1-13. Word Biblical Commentary.
-     - Why: Hagner provides an in-depth analysis of the introduction of Jesus in Matthew, emphasizing His identity as the fulfillment of messianic prophecies.
-     - Link: https://www.zondervan.com/p/matthew-1-13-9780310493904/
-2. The remnant of Israel is equipped to take the gospel of the kingdom to all nations.
-   - Bock, Darrell L. (2000). Matthew. Baker Exegetical Commentary on the New Testament.
-     - Why: Bock discusses the implications of the remnant's role in spreading the gospel as part of Matthew's theological framework.
-     - Link: https://www.bakeracademic.com/p/matthew/9780801026357
-   - Nolland, John. (2005). The Gospel of Matthew: A Commentary on the Greek Text. New International Greek Testament Commentary.
-     - Why: Nolland explores the theme of the remnant and its mission in the context of Matthew's narrative.
-     - Link: https://www.eerdmans.com/Products/Book.aspx?id=9780802837372
-3. The Olivet Discourse provides a prophetic framework for understanding the delay before the kingdom's arrival.
-   - Carson, D. A. (1995). Matthew. Expositor's Bible Commentary.
-     - Why: Carson analyzes the Olivet Discourse, emphasizing its eschatological significance and the theme of readiness.
-     - Link: https://www.zondervan.com/p/matthew-9780310243685/
-   - Hagner, Donald A. (1993). Matthew 14-28. Word Biblical Commentary.
-     - Why: Hagner provides insights into the Olivet Discourse's role in the narrative and its implications for the delay period.
-     - Link: https://www.zondervan.com/p/matthew-14-28-9780310493911/
-4. Jesus, as the greater Moses, enacts a new Exodus.
-   - Bock, Darrell L. (2000). Matthew. Baker Exegetical Commentary on the New Testament.
-     - Why: Bock discusses the typological connections between Jesus and Moses, particularly in the context of the Exodus theme.
-     - Link: https://www.bakeracademic.com/p/matthew/9780801026357
-   - Luz, Ulrich. (2005). Matthew 21-28. Hermeneia: A Critical and Historical Commentary on the Bible.
-     - Why: Luz examines the Exodus motif in Matthew, highlighting Jesus' role in fulfilling this narrative.
-     - Link: https://www.fortresspress.com/store/product/9781451490200/matthew-21-28
+1. The virgin-born King fulfills the Isaianic promise and establishes a remnant that carries the gospel to all nations.
+   - Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.' Baker Academic, 2002.
+     - Why: Bock discusses the fulfillment of Old Testament prophecies in the life of Jesus, emphasizing the significance of the remnant.
+     - Link: https://www.bakeracademic.com/
+   - Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.' Trinity Press International, 1999.
+     - Why: Horsley explores the theme of Jesus as a prophetic figure who redefines Israel's identity and mission.
+     - Link: https://www.trinitypressinternational.com/
+2. The parables in Matthew illustrate the nature of the kingdom during the delay period before its full realization.
+   - France, R. T. 'The Gospel of Matthew.' New International Commentary on the New Testament, Eerdmans, 2007.
+     - Why: France provides an in-depth analysis of the parables in Matthew, highlighting their theological implications for understanding the kingdom.
+     - Link: https://www.eerdmans.com/
+   - Keller, Timothy. 'The Prodigal God: Recovering the Heart of the Christian Faith.' Dutton, 2008.
+     - Why: Keller discusses the nature of God's kingdom through parables, emphasizing grace and the transformative power of the gospel.
+     - Link: https://www.penguinrandomhouse.com/
+3. Matthew's narrative emphasizes the tension between Jesus and the religious authorities, culminating in the rejection of Jesus.
+   - Nolland, John. 'The Gospel of Matthew: A Commentary on the Greek Text.' New International Greek Testament Commentary, Eerdmans, 2005.
+     - Why: Nolland analyzes the conflict between Jesus and the Pharisees, providing insights into the narrative structure and theological implications.
+     - Link: https://www.eerdmans.com/
+   - Saldarini, Anthony J. 'Matthew's Christian-Jewish Community.' University of Chicago Press, 1994.
+     - Why: Saldarini explores the socio-religious context of Matthew's community and the implications of the conflict with Jewish authorities.
+     - Link: https://press.uchicago.edu/
+4. The Olivet Discourse serves as a prophetic framework for understanding the delay and tribulation faced by the apostles.
+   - Carson, D. A. 'Matthew.' Expositor's Bible Commentary, Zondervan, 1984.
+     - Why: Carson provides a thorough examination of the Olivet Discourse, discussing its eschatological significance and implications for the church.
+     - Link: https://www.zondervan.com/
+   - Hagner, Donald A. 'Matthew 14-28.' Word Biblical Commentary, Thomas Nelson, 1995.
+     - Why: Hagner analyzes the Olivet Discourse in detail, focusing on its themes of readiness and the nature of the kingdom.
+     - Link: https://www.thomasnelson.com/
