@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2025-10-21 21:26 UTC_  
+_Generated: 2025-10-21 21:38 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -25,36 +25,36 @@ To Theophilus: In accordance with the OT Scriptures and the “sign of Jonah,”
   The temple leaders and Jews resist this new Temple, becoming jealous as Gentiles are dr
 
 ## Suggested Core Reference
-- Bock, Darrell L. *Acts.* Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2007.
-  - Why: Bock provides a comprehensive and scholarly analysis of Acts, addressing key themes and the narrative structure.
-  - Link: https://www.bakeracademic.com/
+- Bock, Darrell L. *Acts.* Baker Academic, 2007.
+  - Why: This comprehensive commentary provides a detailed analysis of the theological themes in Acts, including the transition from the old Temple to the new community and the inclusion of Gentiles.
+  - Link: https://bakerpublishinggroup.com/books/acts/285060
 
 ## Distinctives & Top Support
-1. The narrative of Acts emphasizes the transition from a Jewish-centric faith to a Gentile-inclusive community, symbolized by the new Temple.
-   - Bock, Darrell L. *Acts.* Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2007.
-     - Why: Bock discusses the expansion of the church to include Gentiles and the implications for the Jewish faith.
-     - Link: https://www.bakeracademic.com/
-   - Keener, Craig S. *Acts: An Exegetical Commentary.* Volume 1: 1:1–2:47. Grand Rapids: Baker Academic, 2012.
-     - Why: Keener provides a detailed analysis of the Gentile mission and its significance in the early church.
-     - Link: https://www.bakeracademic.com/
-2. The theme of divine vindication is central, particularly in Paul's trials and his eventual journey to Rome.
-   - Witherington III, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Grand Rapids: Eerdmans, 1998.
-     - Why: Witherington explores the rhetorical elements of Paul's defense and the theme of vindication throughout Acts.
-     - Link: https://www.eerdmans.com/
-   - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* New Haven: Yale University Press, 1998.
-     - Why: Fitzmyer examines the legal proceedings against Paul and the implications of his vindication.
-     - Link: https://yalebooks.yale.edu/
-3. The narrative structure of Acts employs a cyclical pattern of conflict and resolution, reflecting the ongoing struggle between the apostles and Jewish authorities.
-   - Tannehill, Robert C. *The Narrative Unity of Luke-Acts: A Literary Interpretation.* Volume 2: The Acts of the Apostles. Minneapolis: Fortress Press, 1990.
-     - Why: Tannehill analyzes the narrative structure and its implications for understanding the conflict in Acts.
-     - Link: https://www.fortresspress.com/
+1. The rejection of the unbelieving Jews facilitates the inclusion of Gentiles into the new Temple community.
    - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
-     - Why: Horsley discusses the socio-political context of the conflicts in Acts, particularly regarding Jewish authority.
-     - Link: https://www.trinitypressinternational.com/
-4. The concept of 'The Way' signifies a new movement within Judaism that emphasizes grace and faith over the law.
-   - Longenecker, Richard N. *The Acts of the Apostles.* New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1995.
-     - Why: Longenecker discusses the theological implications of 'The Way' in relation to Jewish law and grace.
-     - Link: https://www.eerdmans.com/
-   - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* Downers Grove: InterVarsity Press, 1990.
-     - Why: Stott highlights the significance of 'The Way' as a new understanding of faith in the context of Acts.
-     - Link: https://www.ivpress.com/
+     - Why: This work discusses the socio-political dynamics of early Christianity, including the implications of Jewish rejection for Gentile inclusion.
+     - Link: https://www.amazon.com/Paul-Empire-Religion-Imperial-Society/dp/1563381861
+   - Stowers, Stanley K. *A Rereading of Romans: Justice, Jews, and Gentiles.* Yale University Press, 1994.
+     - Why: Stowers examines the theological implications of Jewish and Gentile relations in the context of early Christian texts.
+     - Link: https://yalebooks.yale.edu/book/9780300058714/rereading-romans
+2. The narrative framework of Acts illustrates the transition from the old Temple to the new Temple community.
+   - Bock, Darrell L. *Acts.* Baker Academic, 2007.
+     - Why: Bock provides a comprehensive commentary on Acts, emphasizing the theological significance of the new Temple concept.
+     - Link: https://bakerpublishinggroup.com/books/acts/285060
+   - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke.* Trinity Press International, 1997.
+     - Why: This book explores the implications of the new community formed in Acts, contrasting it with the old Temple.
+     - Link: https://www.amazon.com/Liberation-Christmas-Infancy-Narratives-Gospels/dp/1563382159
+3. Paul's missionary journeys signify the fulfillment of God's plan to include Gentiles in salvation.
+   - Witherington III, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
+     - Why: Witherington discusses the socio-rhetorical context of Paul's journeys and their significance for Gentile inclusion.
+     - Link: https://www.eerdmans.com/Products/ActsofApostles.aspx
+   - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.
+     - Why: Fitzmyer provides an in-depth analysis of the text, focusing on the implications of Paul's mission.
+     - Link: https://yalebooks.yale.edu/book/9780300140161/acts-apostles
+4. The concept of the 'sign of Jonah' is pivotal in understanding the rejection of the Jewish leaders and the inclusion of Gentiles.
+   - Bock, Darrell L. *Luke.* Baker Academic, 1996.
+     - Why: Bock's commentary provides insights into the significance of the 'sign of Jonah' in the narrative.
+     - Link: https://bakerpublishinggroup.com/books/luke/285059
+   - Nolland, John. *Luke 1-9:20.* Word Books, 1989.
+     - Why: Nolland discusses the theological implications of the 'sign of Jonah' in the context of Luke and Acts.
+     - Link: https://www.amazon.com/Luke-1-9-20-Word-Bible-Commentary/dp/0849903531
