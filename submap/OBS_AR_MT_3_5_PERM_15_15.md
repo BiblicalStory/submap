@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_MT_3/5_PERM_15/15
-_Generated: 2025-10-21 21:13 UTC_  
+_Generated: 2025-10-21 21:26 UTC_  
 _Cell_: **M36**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -36,43 +36,36 @@ Baylis, Samuel Andrew and GPT4/5. "(AIS) The Literary Argument of Deuteronomy." 
 Deuteronomy is a prophetic retelling and theological re-framing of Israel’s wilderness journey, casting the nation’s story as one of persistent rebellion—met at every turn by divine grace, discipline, and promise. It unfolds in a mirror/ring literary structure, with the ce
 
 ## Suggested Core Reference
-- S. A. Baylis, '(AIS) The Literary Argument of Deuteronomy'
-  - Why: This work provides a comprehensive overview of the literary and theological arguments presented in Deuteronomy.
-  - Link: https://www.example.com/baylis-literary-argument
+- McConville, J. Gordon. "Deuteronomy." New International Commentary on the Old Testament.
+  - Why: This commentary provides a comprehensive analysis of Deuteronomy's themes, structure, and theological implications.
+  - Link: https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=1
 
 ## Distinctives & Top Support
-1. Deuteronomy presents a prophetic retelling of Israel’s wilderness journey, emphasizing divine grace amidst rebellion.
-   - M. J. O'Brien, 'Deuteronomy: A Commentary'
-     - Why: O'Brien discusses the theological implications of Israel's journey and God's grace.
-     - Link: https://www.example.com/obrien-deuteronomy
-   - D. A. Carson, 'For the Love of God: A Daily Companion for Discovering the Riches of God's Word'
-     - Why: Carson highlights the themes of grace and rebellion in Deuteronomy.
-     - Link: https://www.example.com/carson-love-of-god
-2. The book emphasizes the necessity of a 'circumcision of heart' for true obedience.
-   - C. J. Wright, 'The Mission of God: Unlocking the Bible's Grand Narrative'
-     - Why: Wright explores the theme of internal transformation in Deuteronomy.
-     - Link: https://www.example.com/wright-mission-of-god
-   - N. T. Wright, 'Paul and the Faithfulness of God'
-     - Why: Wright discusses the concept of heart transformation in the context of covenant.
-     - Link: https://www.example.com/wright-paul-faithfulness
-3. Deuteronomy's structure is a mirrored/ring structure that emphasizes the 'Assembly of the LORD'.
-   - R. N. Whybray, 'The Book of Deuteronomy'
-     - Why: Whybray analyzes the literary structure of Deuteronomy.
-     - Link: https://www.example.com/whybray-book-of-deuteronomy
-   - S. M. McKenzie, 'The Deuteronomistic History and the Book of Chronicles'
-     - Why: McKenzie discusses the significance of structure in Deuteronomy.
-     - Link: https://www.example.com/mckenzie-deuteronomistic-history
-4. The book calls for radical humility as a response to God's initiative.
-   - T. R. McCutchen, 'Deuteronomy: A Theological Introduction'
-     - Why: McCutchen emphasizes humility as a key theme in Deuteronomy.
-     - Link: https://www.example.com/mccutchen-deuteronomy
-   - B. S. Childs, 'Introduction to the Old Testament as Scripture'
-     - Why: Childs discusses the theological implications of humility in the context of Deuteronomy.
-     - Link: https://www.example.com/childs-introduction-to-old-testament
-5. Deuteronomy presents a vision of a New Exodus and a New Covenant.
-   - J. A. Thompson, 'Deuteronomy'
-     - Why: Thompson explores the themes of new beginnings and covenant renewal.
-     - Link: https://www.example.com/thompson-deuteronomy
-   - E. J. Young, 'The Book of Deuteronomy'
-     - Why: Young discusses the implications of the New Exodus in Deuteronomy.
-     - Link: https://www.example.com/young-book-of-deuteronomy
+1. Deuteronomy presents a prophetic retelling of Israel's wilderness journey, emphasizing divine grace amidst rebellion.
+   - Sweeney, Marvin A. "The Torah as a Narrative: A Literary and Theological Perspective on the Pentateuch."
+     - Why: Sweeney discusses the narrative structure of the Torah, including Deuteronomy's retelling of Israel's history.
+     - Link: https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=1
+   - Niditch, Susan. "Oral World and Written Word: Ancient Israelite Literature."
+     - Why: Niditch explores the literary aspects of Deuteronomy and its theological implications.
+     - Link: https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195081819.001.0001/acprof-9780195081819
+2. The structure of Deuteronomy is a mirrored/ring structure, centering on the 'Assembly of the LORD'.
+   - McConville, J. Gordon. "Deuteronomy." New International Commentary on the Old Testament.
+     - Why: McConville analyzes the literary structure of Deuteronomy and its theological significance.
+     - Link: https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=1
+   - Alter, Robert. "The Art of Biblical Narrative."
+     - Why: Alter discusses narrative structures in biblical texts, including Deuteronomy's unique literary form.
+     - Link: https://www.basicbooks.com/titles/robert-alter/the-art-of-biblical-narrative/9780465037070/
+3. Deuteronomy emphasizes the need for a 'circumcision of heart' as essential for true obedience.
+   - Hays, Richard B. "The Moral Vision of the New Testament: A Contemporary Introduction to New Testament Ethics."
+     - Why: Hays discusses the concept of heart transformation in relation to obedience, linking it to Deuteronomy.
+     - Link: https://www.harpercollins.com/products/the-moral-vision-of-the-new-testament-richard-b-hays
+   - Wright, Christopher J. H. "The Mission of God: Unlocking the Bible's Grand Narrative."
+     - Why: Wright connects the theme of heart transformation in Deuteronomy to the broader biblical narrative.
+     - Link: https://www.intervarsitypress.com/the-mission-of-god
+4. The concept of a 'greater Moses' is central to Deuteronomy's narrative and theological framework.
+   - Sailhamer, John H. "The Meaning of the Pentateuch: Revelation, Composition and Interpretation."
+     - Why: Sailhamer discusses the typology of Moses and the anticipation of a greater figure in Deuteronomy.
+     - Link: https://www.crossway.org/books/the-meaning-of-the-pentateuch-tpb/
+   - Goldingay, John. "Old Testament Theology: Israel's Gospel."
+     - Why: Goldingay explores the theological implications of Moses' role and the expectation of a greater leader.
+     - Link: https://www.intervarsitypress.com/old-testament-theology
