@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_7/15
-_Generated: 2025-10-21 21:25 UTC_  
+_Generated: 2025-10-21 21:37 UTC_  
 _Cell_: **Z28**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -27,43 +27,35 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 **Contribution:** Establishes Jesus as the fulfillment of Isaiah 40, the eternal restful Word that never fa
 
 ## Suggested Core Reference
-- Edwards, James R. _The Gospel According to Mark_. Grand Rapids, MI: Eerdmans, 2002.
-  - Why: This commentary offers a comprehensive analysis of Mark's themes, structure, and theological implications.
-  - Link: https://www.eerdmans.com/
+- Baylis, Charles P. “The Book of Mark.” BiblicalStory. 2015.
+  - Why: This work provides a comprehensive analysis of the themes and theological implications of the Gospel of Mark, making it essential for understanding the distinctives outlined.
+  - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
 
 ## Distinctives & Top Support
-1. Jesus is introduced as the Isaianic Servant, fulfilling Isaiah 40 and inaugurating the new Exodus.
-   - Bock, Darrell L. _Mark_. Grand Rapids, MI: Baker Academic, 2015.
-     - Why: Bock discusses the Isaianic themes and the concept of the new Exodus in Mark.
-     - Link: https://www.bakeracademic.com/
-   - France, R. T. _The Gospel of Mark: A Commentary on the Greek Text_. Grand Rapids, MI: Eerdmans, 2002.
-     - Why: France provides insights into the fulfillment of Isaiah in the context of Mark's narrative.
-     - Link: https://www.eerdmans.com/
-2. The conflict with Jewish leadership frames Israel’s rejection and the emergence of a Spirit-empowered remnant.
-   - Edwards, James R. _The Gospel According to Mark_. Grand Rapids, MI: Eerdmans, 2002.
-     - Why: Edwards analyzes the conflict with Jewish leaders and its implications for the remnant.
-     - Link: https://www.eerdmans.com/
-   - Wright, N. T. _Mark for Everyone_. London: SPCK, 2001.
-     - Why: Wright discusses the dynamics of conflict and the formation of a new community in Mark.
-     - Link: https://www.spckpublishing.co.uk/
-3. Jesus' authority is demonstrated through His actions, establishing a new community shaped by humble service.
-   - Witherington, Ben III. _Mark for Beginners_. New York: T&T Clark, 2006.
-     - Why: Witherington highlights Jesus' authority and the implications for His followers.
-     - Link: https://www.bloomsbury.com/
-   - Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World_. New York: Trinity Press International, 2002.
-     - Why: Horsley explores the theme of Jesus' authority and its impact on community formation.
-     - Link: https://www.trinitypressinternational.com/
-4. The temple is exposed as corrupt, signaling the rise of a new community in its place.
-   - Bock, Darrell L. _Jesus According to Scripture: Restoring the Portrait from the Gospels_. Grand Rapids, MI: Baker Academic, 2002.
-     - Why: Bock discusses the critique of the temple and the establishment of a new community.
-     - Link: https://www.bakeracademic.com/
-   - Schnabel, Eckhard J. _Early Christian Mission: Volume 1: Jesus and the Twelve_. Downers Grove, IL: IVP Academic, 2004.
-     - Why: Schnabel addresses the implications of Jesus' actions against the temple for the early community.
-     - Link: https://www.ivpress.com/
-5. Mark's eschatological framework emphasizes the urgency of the disciples' mission.
-   - Guelich, Robert A. _Mark 1:1-8:26_. Dallas, TX: Word Books, 1989.
-     - Why: Guelich provides a detailed analysis of Mark's eschatological themes and their implications.
-     - Link: https://www.wordbooks.com/
-   - Horsley, Richard A. _Paul and Empire: Religion and Power in Roman Imperial Society_. Trinity Press International, 1997.
-     - Why: Horsley connects Mark's eschatology with the mission of the disciples.
-     - Link: https://www.trinitypressinternational.com/
+1. Jesus is established as the fulfillment of Isaiah 40, embodying the eternal restful Word.
+   - Kaiser, Walter C., Jr. “Exodus.” In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.
+     - Why: This work discusses the theological implications of the Exodus narrative and its fulfillment in Jesus.
+   - Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.
+     - Why: Provides geographical and historical context for the themes of Exodus and their relation to Jesus' ministry.
+2. The rejection of Jesus by the leaders frames the emergence of a Spirit-empowered remnant.
+   - Kraeger, S. M. “Gerasenes.” In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.
+     - Why: Explores themes of community and identity in the context of Jesus' ministry.
+   - Baylis, Charles P. “The Book of Mark.” BiblicalStory. 2015.
+     - Why: Discusses the implications of Israel's rejection and the formation of a new community.
+     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
+3. Jesus' mission is accomplished through His Word and Spirit, not through external identities or rituals.
+   - Kaiser, Walter C., Jr. “Exodus.” In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.
+     - Why: Analyzes the transition from the old covenant rituals to the new covenant established by Jesus.
+   - Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.
+     - Why: Provides insights into the cultural and religious context of Jesus' teachings.
+4. The decisive act of Jesus' death and resurrection secures salvation and initiates a new community.
+   - Kaiser, Walter C., Jr. “Exodus.” In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.
+     - Why: Discusses the significance of Jesus' sacrificial role in the context of the Exodus narrative.
+   - Baylis, Charles P. “The Book of Mark.” BiblicalStory. 2015.
+     - Why: Explores the implications of Jesus' resurrection for the formation of the church.
+     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
+5. The mission of the disciples is confirmed by signs and is rooted in Jesus' authority.
+   - Kraeger, S. M. “Gerasenes.” In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.
+     - Why: Examines the empowerment of the disciples and the signs accompanying their mission.
+   - Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.
+     - Why: Provides context for the geographical and cultural aspects of the disciples' mission.
