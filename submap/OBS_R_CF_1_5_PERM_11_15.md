@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2025-10-21 21:13 UTC_  
+_Generated: 2025-10-21 21:26 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -25,36 +25,36 @@ To Theophilus: In accordance with the OT Scriptures and the “sign of Jonah,”
   The temple leaders and Jews resist this new Temple, becoming jealous as Gentiles are dr
 
 ## Suggested Core Reference
-- Baylis, Charles P. 'The Book of Acts.' BiblicalStory, 2015.
-  - Why: This source comprehensively covers the themes and arguments presented in the book of Acts.
-  - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/08/actslec081315Web.pdf
+- Bock, Darrell L. *Acts.* Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2007.
+  - Why: Bock provides a comprehensive and scholarly analysis of Acts, addressing key themes and the narrative structure.
+  - Link: https://www.bakeracademic.com/
 
 ## Distinctives & Top Support
-1. The rejection of the unbelieving Jews is used by God to bring a harvest of Gentiles into the new Temple.
-   - Baylis, Charles P. 'The Book of Acts.' BiblicalStory, 2015.
-     - Why: This source discusses the theme of Gentile inclusion and the rejection of Jewish leaders in Acts.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/08/actslec081315Web.pdf
-   - Dicken, Frank E. 'Agrippa II.' In The Lexham Bible Dictionary.
-     - Why: Provides context on Jewish leadership's rejection and its implications for Gentile inclusion.
-     - Link: https://lexhampress.com
-2. Pentecost fulfills the Feast of Harvest, marking the birth of the new Temple community.
-   - Baylis, Charles P. 'Creation of the Nation, Israel (Jacob) to Represent God (27—50).' BiblicalStory.org, 2013.
-     - Why: Explores the significance of Pentecost and its connection to the new Temple.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/02/11SettingCreationNationJacob110713.pdf
-   - Baylis, Samuel A. 'The Argument of the Book of Luke.' Dallas Theological Seminary, 2023.
-     - Why: Discusses the thematic connections between Luke and Acts regarding harvest imagery.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/08/actslec081315Web.pdf
-3. Paul's missionary journeys emphasize salvation by grace through faith, not law.
-   - Baylis, Charles P. 'Luke Commentary: Luke 3:24–9:50.' BiblicalStory.
-     - Why: Analyzes the theological implications of grace in the context of Paul's ministry.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/LukeLec4to9060915.pdf
-   - Baylis, Samuel A. 'The Argument of the Book of Romans.' Dallas Theological Seminary, 2022.
-     - Why: Examines the doctrine of grace as it relates to Paul's teachings.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/07/ROMFRMlec071615Webch5to8.pdf
-4. Paul's trials before Roman officials demonstrate his innocence and God's vindication.
-   - Baylis, Charles P. 'The Book of Acts.' BiblicalStory, 2015.
-     - Why: Details the narrative of Paul's trials and the theme of divine vindication.
-     - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/08/actslec081315Web.pdf
-   - Dicken, Frank E. 'Agrippa II.' In The Lexham Bible Dictionary.
-     - Why: Provides insights into the political context of Paul's trials.
-     - Link: https://lexhampress.com
+1. The narrative of Acts emphasizes the transition from a Jewish-centric faith to a Gentile-inclusive community, symbolized by the new Temple.
+   - Bock, Darrell L. *Acts.* Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2007.
+     - Why: Bock discusses the expansion of the church to include Gentiles and the implications for the Jewish faith.
+     - Link: https://www.bakeracademic.com/
+   - Keener, Craig S. *Acts: An Exegetical Commentary.* Volume 1: 1:1–2:47. Grand Rapids: Baker Academic, 2012.
+     - Why: Keener provides a detailed analysis of the Gentile mission and its significance in the early church.
+     - Link: https://www.bakeracademic.com/
+2. The theme of divine vindication is central, particularly in Paul's trials and his eventual journey to Rome.
+   - Witherington III, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Grand Rapids: Eerdmans, 1998.
+     - Why: Witherington explores the rhetorical elements of Paul's defense and the theme of vindication throughout Acts.
+     - Link: https://www.eerdmans.com/
+   - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* New Haven: Yale University Press, 1998.
+     - Why: Fitzmyer examines the legal proceedings against Paul and the implications of his vindication.
+     - Link: https://yalebooks.yale.edu/
+3. The narrative structure of Acts employs a cyclical pattern of conflict and resolution, reflecting the ongoing struggle between the apostles and Jewish authorities.
+   - Tannehill, Robert C. *The Narrative Unity of Luke-Acts: A Literary Interpretation.* Volume 2: The Acts of the Apostles. Minneapolis: Fortress Press, 1990.
+     - Why: Tannehill analyzes the narrative structure and its implications for understanding the conflict in Acts.
+     - Link: https://www.fortresspress.com/
+   - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
+     - Why: Horsley discusses the socio-political context of the conflicts in Acts, particularly regarding Jewish authority.
+     - Link: https://www.trinitypressinternational.com/
+4. The concept of 'The Way' signifies a new movement within Judaism that emphasizes grace and faith over the law.
+   - Longenecker, Richard N. *The Acts of the Apostles.* New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1995.
+     - Why: Longenecker discusses the theological implications of 'The Way' in relation to Jewish law and grace.
+     - Link: https://www.eerdmans.com/
+   - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* Downers Grove: InterVarsity Press, 1990.
+     - Why: Stott highlights the significance of 'The Way' as a new understanding of faith in the context of Acts.
+     - Link: https://www.ivpress.com/
