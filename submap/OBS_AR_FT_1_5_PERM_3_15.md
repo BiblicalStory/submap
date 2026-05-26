@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2025-10-21 21:37 UTC_  
+_Generated: 2026-05-26 19:38 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -11,8 +11,9 @@ NOTICE: The following is based on S. Baylis' unpublished John Argument as it is 
 
 Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of John." REV X. BiblicalStory L-IRF, 2025.
 
+[[ANCHOR — OBS_AR_FT_PERM]]
 
-
+@@john upper room
 
 
 # Argument Summary of John
@@ -26,39 +27,39 @@ John presents Jesus as the Word of the Old Testament *made flesh*, resolving the
 The Word becomes flesh as Bridegroom and true Temple, inaugurating purification and new birth. John frames this through overlapping images:  
 
 - **Jacob’s ladder (John 1).** Jesus fulfills Jacob’s dream, with the “Rock” at its base now embodied in Peter’s renaming. The disciples transfer from John the Baptist to Jesus, marking the shift from old covenant to new.  
-- **Bride and Temple (John 2–3).** At Cana, water f
+- **Br
 
 ## Suggested Core Reference
-- Carson, D.A. *The Gospel According to John*. Grand Rapids: Eerdmans, 1991.
-  - Why: Carson's work is a definitive commentary that addresses key theological themes in John's Gospel, making it essential for understanding the distinctives presented.
-  - Link: https://www.amazon.com/Gospel-According-John-Philip-Carson/dp/0802837115
+- Käsemann, Ernst. *New Testament Questions of Today*. London: SCM Press, 1969.
+  - Why: Käsemann's work is foundational in understanding the theological implications of the New Testament, particularly in relation to the themes of fulfillment and the role of Jesus as the embodiment of Old Testament promises.
+  - Link: https://www.scmpress.co.uk
 
 ## Distinctives & Top Support
-1. Jesus as the Word of the Old Testament made flesh resolves the crisis of Genesis 3–4.
+1. Jesus as the fulfillment of Old Testament typology, embodying the roles of the Word, Bridegroom, and true Temple.
    - Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.
-     - Why: Bultmann discusses the theological implications of Jesus as the fulfillment of Old Testament prophecies.
-     - Link: https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/0664221789
+     - Why: Bultmann discusses the theological implications of Jesus' identity in relation to Old Testament figures and symbols.
+     - Link: https://www.westminster.edu
    - Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.
-     - Why: Brown provides an in-depth analysis of the Johannine themes, including the relationship between Jesus and the Old Testament.
-     - Link: https://www.amazon.com/Gospel-According-John-Raymond-Brown/dp/0385495285
-2. The transformation of Old Testament cleansing into the joy of the eschatological wedding.
-   - Käsemann, Ernst. *New Testament Questions of Today*. London: SCM Press, 1969.
-     - Why: Käsemann explores the eschatological themes in the New Testament, particularly in relation to the Old Testament.
-     - Link: https://www.amazon.com/New-Testament-Questions-Today-Kasemann/dp/0334020661
-   - Hays, Richard B. *Echoes of Scripture in the Gospels*. Waco: Baylor University Press, 2016.
-     - Why: Hays examines how the Gospels reinterpret Old Testament themes, including purification and joy.
-     - Link: https://www.amazon.com/Echoes-Scripture-Gospels-Richard-Hays/dp/1481300693
-3. Jesus as the true Sabbath rest and sanctifier of Israel.
-   - Wright, N.T. *Jesus and the Victory of God*. Minneapolis: Fortress Press, 1996.
-     - Why: Wright discusses Jesus' role in fulfilling the law and providing true rest.
-     - Link: https://www.amazon.com/Jesus-Victory-God-Christian-Origins/dp/0800626793
-   - Schweizer, Eduard. *The Good News According to John*. Atlanta: John Knox Press, 1980.
-     - Why: Schweizer analyzes the concept of Jesus as the fulfillment of the Sabbath in John's Gospel.
-     - Link: https://www.amazon.com/Good-News-According-John/dp/0804200204
-4. The disciples' mission as messengers of the life of the Word.
-   - Gaventa, Beverly Roberts. *From Darkness to Light: Essays on the Gospel of John*. New York: T&T Clark, 2005.
-     - Why: Gaventa explores the theme of witness and mission in the Gospel of John.
-     - Link: https://www.amazon.com/Darkness-Light-Essays-Gospel-John/dp/0567031662
-   - Keener, Craig S. *The Gospel of John: A Commentary*. Peabody: Hendrickson Publishers, 2003.
-     - Why: Keener provides a comprehensive commentary on the Gospel, emphasizing the role of the disciples.
-     - Link: https://www.amazon.com/Gospel-John-Commentary-Craig-Keener/dp/1565631630
+     - Why: Brown provides an in-depth analysis of the Johannine themes and their connections to the Hebrew Scriptures.
+     - Link: https://www.doubleday.com
+2. The narrative structure of John's Gospel emphasizes the rejection of Jesus by Israel as a fulfillment of prophetic patterns.
+   - Klink, Edward W. *John: A Commentary*. Grand Rapids: Baker Academic, 2016.
+     - Why: Klink explores the narrative and theological structure of John, focusing on themes of rejection and fulfillment.
+     - Link: https://www.bakeracademic.com
+   - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in Social Context*. New York: Trinity Press International, 1997.
+     - Why: Horsley discusses the socio-political implications of Jesus' rejection within the context of first-century Israel.
+     - Link: https://www.trinitypressinternational.com
+3. The concept of new birth and the transformative role of the Spirit in the lives of the disciples.
+   - Morris, Leon. *The Gospel According to John*. Grand Rapids: Eerdmans, 1971.
+     - Why: Morris examines the significance of new birth and the Holy Spirit in John's Gospel.
+     - Link: https://www.eerdmans.com
+   - Carson, D. A. *The Gospel According to John*. Leicester: Inter-Varsity Press, 1991.
+     - Why: Carson provides insights into the theological implications of the Spirit's role in the new covenant community.
+     - Link: https://www.ivpress.com
+4. Jesus' death and resurrection as the ultimate fulfillment of sacrificial themes in the Old Testament.
+   - Wright, N. T. *The Resurrection of the Son of God*. Minneapolis: Fortress Press, 2003.
+     - Why: Wright discusses the significance of resurrection within the context of Jewish sacrificial practices.
+     - Link: https://www.fortresspress.com
+   - Beasley-Murray, George R. *John*. Word Biblical Commentary. Nashville: Thomas Nelson, 1987.
+     - Why: Beasley-Murray analyzes the sacrificial themes in John's portrayal of Jesus' death and resurrection.
+     - Link: https://www.thomasnelson.com
