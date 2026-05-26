@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-05-26 19:38 UTC_  
+_Generated: 2026-05-26 19:45 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## Core Thesis (AIS Excerpt)
@@ -30,36 +30,36 @@ The Word becomes flesh as Bridegroom and true Temple, inaugurating purification 
 - **Br
 
 ## Suggested Core Reference
-- Käsemann, Ernst. *New Testament Questions of Today*. London: SCM Press, 1969.
-  - Why: Käsemann's work is foundational in understanding the theological implications of the New Testament, particularly in relation to the themes of fulfillment and the role of Jesus as the embodiment of Old Testament promises.
-  - Link: https://www.scmpress.co.uk
+- Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.
+  - Why: Brown's work is a definitive commentary on the Gospel of John, providing deep insights into its theological themes and narrative structure.
+  - Link: https://www.doubleday.com
 
 ## Distinctives & Top Support
-1. Jesus as the fulfillment of Old Testament typology, embodying the roles of the Word, Bridegroom, and true Temple.
+1. Jesus as the Word of the Old Testament made flesh resolves the crisis of Genesis 3–4.
    - Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.
-     - Why: Bultmann discusses the theological implications of Jesus' identity in relation to Old Testament figures and symbols.
+     - Why: Bultmann discusses the theological implications of Jesus as the fulfillment of Old Testament themes.
      - Link: https://www.westminster.edu
-   - Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.
-     - Why: Brown provides an in-depth analysis of the Johannine themes and their connections to the Hebrew Scriptures.
-     - Link: https://www.doubleday.com
-2. The narrative structure of John's Gospel emphasizes the rejection of Jesus by Israel as a fulfillment of prophetic patterns.
-   - Klink, Edward W. *John: A Commentary*. Grand Rapids: Baker Academic, 2016.
-     - Why: Klink explores the narrative and theological structure of John, focusing on themes of rejection and fulfillment.
-     - Link: https://www.bakeracademic.com
-   - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in Social Context*. New York: Trinity Press International, 1997.
-     - Why: Horsley discusses the socio-political implications of Jesus' rejection within the context of first-century Israel.
-     - Link: https://www.trinitypressinternational.com
-3. The concept of new birth and the transformative role of the Spirit in the lives of the disciples.
-   - Morris, Leon. *The Gospel According to John*. Grand Rapids: Eerdmans, 1971.
-     - Why: Morris examines the significance of new birth and the Holy Spirit in John's Gospel.
-     - Link: https://www.eerdmans.com
-   - Carson, D. A. *The Gospel According to John*. Leicester: Inter-Varsity Press, 1991.
-     - Why: Carson provides insights into the theological implications of the Spirit's role in the new covenant community.
-     - Link: https://www.ivpress.com
-4. Jesus' death and resurrection as the ultimate fulfillment of sacrificial themes in the Old Testament.
-   - Wright, N. T. *The Resurrection of the Son of God*. Minneapolis: Fortress Press, 2003.
-     - Why: Wright discusses the significance of resurrection within the context of Jewish sacrificial practices.
+   - Barth, Karl. *Church Dogmatics, Volume I: The Doctrine of the Word of God*. Edinburgh: T&T Clark, 1956.
+     - Why: Barth elaborates on the concept of the Word becoming flesh and its significance in Christian theology.
+     - Link: https://www.tandtclark.com
+2. The transformation of Old Testament purification into the joy of the eschatological wedding.
+   - Gaffin, Richard B. *Resurrection and Redemption: A Theological Introduction to the New Testament*. Phillipsburg: P&R Publishing, 1987.
+     - Why: Gaffin explores the themes of resurrection and new creation in the context of biblical weddings.
+     - Link: https://www.prpbooks.com
+   - Käsemann, Ernst. *New Testament Theology*. London: SCM Press, 1964.
+     - Why: Käsemann provides insights into the eschatological themes present in the New Testament, including the wedding imagery.
+     - Link: https://www.scmpress.co.uk
+3. Jesus as the true Sabbath rest and sanctifier of Israel.
+   - Wright, N.T. *Jesus and the Victory of God*. Minneapolis: Fortress Press, 1996.
+     - Why: Wright discusses Jesus' role in fulfilling the law and providing true rest.
      - Link: https://www.fortresspress.com
-   - Beasley-Murray, George R. *John*. Word Biblical Commentary. Nashville: Thomas Nelson, 1987.
-     - Why: Beasley-Murray analyzes the sacrificial themes in John's portrayal of Jesus' death and resurrection.
-     - Link: https://www.thomasnelson.com
+   - Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel*. New York: Trinity Press International, 1996.
+     - Why: Horsley examines Jesus' identity in relation to Israel's expectations of the Messiah.
+     - Link: https://www.trinitypress.com
+4. The disciples' mission as messengers of the Word after Jesus' departure.
+   - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Grand Rapids: Baker Academic, 2002.
+     - Why: Bock provides a comprehensive view of the Gospels and the mission of the disciples.
+     - Link: https://www.bakeracademic.com
+   - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society*. Trinity Press International, 1997.
+     - Why: Horsley discusses the implications of the disciples' mission in the context of the Roman Empire.
+     - Link: https://www.trinitypress.com
