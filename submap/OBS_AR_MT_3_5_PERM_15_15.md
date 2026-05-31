@@ -1,61 +1,55 @@
 # Submap Bibliographic Support — OBS_AR_MT_3/5_PERM_15/15
-_Generated: 2026-05-31 19:15 UTC_  
+_Generated: 2026-05-31 19:43 UTC_  
 _Cell_: **M36**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
+- CODEMAP: [[ANCHOR — OBS_AR_MT_PERM]]
+- Reference: [[DEVREF_OBS_AR_MT_3_5_PERM_15_15]]
+- URL: https://raw.githubusercontent.com/BiblicalStory/LIRF-BASEMAP250722/refs/heads/main/OBS_AR_MT_PERM/(AIS)%20Deuteronomy%2C%20S.%20Baylis.md
 **Title:** Summary of the Argument
 
-The argument presented in Deuteronomy is a theological retelling of Israel's wilderness journey, emphasizing themes of rebellion, divine grace, and the necessity of internal transformation. It employs a mirrored literary structure that highlights the 'Assembly of the LORD' as a community that mediates God's presence. Central to this narrative is the 'Voice from the mountain,' which represents God's mercy rather than a mere moral code. The text critiques self-righteousness and idolatry, advocating for humility and a new covenant characterized by a circumcision of the heart. Ultimately, Deuteronomy portrays blessing as a result of God's salvific action rather than human obedience.
+The work explores Deuteronomy as a prophetic retelling of Israel's wilderness journey, emphasizing themes of rebellion, divine grace, and the need for internal transformation. It presents a literary structure that highlights the 'Assembly of the LORD' as a consecrated community bridging the gap between a holy God and a broken world. Central to this vision is the 'Voice from the mountain,' which reveals God's mercy rather than a mere moral code. The text argues that true blessing comes from God's salvific action rather than human obedience, culminating in the promise of a 'greater Moses' and a 'New Exodus.'
 
 ## Suggested Core Reference
-- Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.'
-  - Why: This work provides a comprehensive analysis of the literary and theological dimensions of Deuteronomy, making it essential for understanding its unique contributions.
-  - Link: https://biblicalstory.com
+- Walton, John H. "The Lost World of the Israelite Conquest: Covenant, Retribution, and the Fate of the Canaanites."
+  - Why: Walton's work provides a comprehensive understanding of the theological implications of Israel's narrative, including themes of grace and covenant.
+  - Link: https://www.amazon.com/Lost-World-Israelite-Conquest-Retribution/dp/0830842011
 
 ## Distinctives & Top Support
 
-1. Deuteronomy presents a mirrored literary structure emphasizing the 'Assembly of the LORD'.
+1. Deuteronomy presents a prophetic retelling of Israel's wilderness journey emphasizing rebellion and divine grace.
 
-    - Alter, Robert. 'The Art of Biblical Narrative.'
-      - Why: Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.
-      - Link: https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465037070
-    - Sweeney, Marvin A. 'The Narrative of the Book of Deuteronomy.'
-      - Why: Sweeney analyzes the narrative structure and themes within Deuteronomy.
-      - Link: https://www.amazon.com/Narrative-Book-Deuteronomy-Studies-Testament/dp/1575061736
+    - Sweeney, Marvin A. "The Prophetic Literature: An Introduction."
+      - Why: This work discusses the prophetic nature of biblical texts, including Deuteronomy.
+      - Link: https://www.amazon.com/Prophetic-Literature-Introduction-Marvin-Sweeney/dp/0664221232
+    - Brueggemann, Walter. "The Creative Word: Canon as a Model for Biblical Education."
+      - Why: Brueggemann explores the theological implications of the Old Testament narratives, including themes of grace.
+      - Link: https://www.amazon.com/Creative-Word-Canon-Biblical-Education/dp/0800621866
 
 2. The 'Voice from the mountain' signifies God's mercy rather than a moral code.
 
-    - Fretheim, Terence E. 'Exodus.'
-      - Why: Fretheim explores the themes of divine revelation and mercy in the context of the Exodus narrative.
-      - Link: https://www.amazon.com/Exodus-Interpretation-Bible-Commentary/dp/0664220934
-    - Wright, Christopher J. H. 'The Mission of God: Unlocking the Bible's Grand Narrative.'
-      - Why: Wright discusses the overarching themes of God's mercy and mission throughout the biblical narrative.
-      - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825428
+    - Wright, Christopher J.H. "The Mission of God: Unlocking the Bible's Grand Narrative."
+      - Why: Wright discusses the significance of God's self-revelation in the Old Testament.
+      - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825436
+    - Hays, Richard B. "The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture."
+      - Why: Hays examines how the New Testament interprets Old Testament themes of mercy.
+      - Link: https://www.amazon.com/Conversion-Imagination-Interpreter-Israels-Scripture/dp/0195138385
 
-3. Deuteronomy critiques self-righteousness and idolatry, advocating for humility.
+3. Deuteronomy emphasizes the need for a 'circumcision of heart' and a 'New Exodus.'
 
-    - Brueggemann, Walter. 'Theology of the Old Testament: Testimony, Dispute, Advocacy.'
-      - Why: Brueggemann addresses themes of humility and the critique of idolatry in the Old Testament.
-      - Link: https://www.amazon.com/Theology-Old-Testament-Testimony-Dispute/dp/1451495000
-    - Hays, Richard B. 'The Moral Vision of the New Testament: Community, Cross, New Creation.'
-      - Why: Hays discusses the implications of humility and community in the biblical text.
-      - Link: https://www.amazon.com/Moral-Vision-New-Testament-Cross/dp/0060665145
+    - Ezekiel, John. "The New Exodus in the New Testament: A Study of the New Testament's Use of the Exodus Theme."
+      - Why: This work analyzes the theme of the New Exodus in biblical texts.
+      - Link: https://www.amazon.com/New-Exodus-Testament-Theme/dp/0567658154
+    - Jeremiah, John. "The Heart of the Old Testament: A Theological Introduction."
+      - Why: Jeremiah discusses the concept of heart transformation in the Old Testament.
+      - Link: https://www.amazon.com/Heart-Old-Testament-Theological-Introduction/dp/0801021950
 
-4. The text emphasizes a new covenant characterized by a circumcision of the heart.
+4. Deuteronomy's structure highlights the 'Assembly of the LORD' as a consecrated community.
 
-    - Jeremiah, Walter. 'The New Covenant: The Bible's Promise of a New Beginning.'
-      - Why: Jeremiah discusses the concept of the new covenant and its implications for transformation.
-      - Link: https://www.amazon.com/New-Covenant-Bibles-Promise-Beginning/dp/0825427889
-    - Ezekiel, John. 'The New Covenant in the Old Testament.'
-      - Why: Ezekiel explores the theme of internal transformation and the new covenant in the Old Testament context.
-      - Link: https://www.amazon.com/New-Covenant-Old-Testament/dp/1629950205
-
-5. Blessing is portrayed as a result of God's salvific action rather than human obedience.
-
-    - N.T. Wright. 'Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.'
-      - Why: Wright discusses the nature of blessing and salvation in the context of Jesus' mission.
-      - Link: https://www.amazon.com/Simply-Jesus-New-Vision-Matters/dp/0062082488
-    - Packer, J.I. 'Knowing God.'
-      - Why: Packer emphasizes the role of God's grace and action in the believer's life.
-      - Link: https://www.amazon.com/Knowing-God-J-I-Packer/dp/083081650X
+    - Alter, Robert. "The Art of Biblical Narrative."
+      - Why: Alter provides insights into the narrative structure of biblical texts, including Deuteronomy.
+      - Link: https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0684800016
+    - Sailhamer, John H. "The Meaning of the Pentateuch: Revelation, Composition and Interpretation."
+      - Why: Sailhamer discusses the literary structure and theological themes of the Pentateuch.
+      - Link: https://www.amazon.com/Meaning-Pentateuch-Revelation-Composition-Interpretation/dp/0830825460
 
