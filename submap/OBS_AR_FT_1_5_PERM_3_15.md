@@ -1,64 +1,45 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-05-31 19:47 UTC_  
+_Generated: 2026-05-31 20:01 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
 - CODEMAP: [[ANCHOR — OBS_AR_FT_PERM]]
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_3_15]]
-- URL: https://raw.githubusercontent.com/BiblicalStory/LIRF-BASEMAP250722/refs/heads/main/OBS_AR_FT_PERM/(AIS)%20Argument%20of%20John.md
 **Title:** Argument Summary of John
 
-The argument presented in John’s Gospel portrays Jesus as the embodiment of the Word from the Old Testament, addressing the crisis of Genesis by fulfilling prophetic patterns. It illustrates Israel's rejection of Jesus, who is depicted as the greater Moses and the true source of life, culminating in His sacrificial death and resurrection. The narrative emphasizes the transition from Jesus' physical presence to a Spirit-mediated existence, preparing the disciples to spread His message. Ultimately, the Gospel concludes with the commissioning of Peter, highlighting the continuity of God's covenant through the disciples as they embody the Word made flesh.
+The argument presented in John emphasizes the incarnation of Jesus as the fulfillment of Old Testament prophecies, particularly in resolving the crisis introduced in Genesis. It portrays Israel as a collective figure that rejects Jesus, the greater Moses and Abel, while simultaneously fulfilling scriptural prophecies through this rejection. The narrative unfolds through various symbolic images and events, illustrating the transition from the old covenant to the new, culminating in Jesus' death and resurrection, which establishes a new relationship between God and humanity. The disciples are prepared to carry forth this message, embodying the Word made flesh and emphasizing belief and love as the new markers of God's covenant people.
 
 ## Suggested Core Reference
-- Carson, D.A. *The Gospel According to John*.
-  - Why: Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing in-depth theological insights and contextual analysis.
-  - Link: https://www.amazon.com/Gospel-According-John-Philip-Commentary/dp/0830824960
+- Carson, D.A. *The Gospel According to John*. Pillar New Testament Commentary. Eerdmans, 1991.
+  - Why: Carson's commentary is widely regarded as a definitive scholarly resource on the Gospel of John, addressing its theological themes and narrative structure comprehensively.
 
 ## Distinctives & Top Support
 
 1. Jesus as the fulfillment of Old Testament prophecies.
 
-    - Beasley-Murray, George R. *John*.
-      - Why: This commentary discusses how John's Gospel presents Jesus as the fulfillment of Old Testament expectations.
-      - Link: https://www.amazon.com/John-Word-Biblical-Commentary/dp/0310493937
-    - Bultmann, Rudolf. *The Gospel of John: A Commentary*.
-      - Why: Bultmann analyzes the theological implications of Jesus' role as the fulfillment of the law and prophets.
-      - Link: https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451411675
+    - Beasley-Murray, George R. *John*. Word Biblical Commentary. Thomas Nelson, 1999.
+      - Why: This work discusses the theological implications of Jesus' role as the fulfillment of Old Testament expectations.
+    - Brown, Raymond E. *The Gospel According to John (I-XII)*. Anchor Bible Series. Doubleday, 1966.
+      - Why: Brown's commentary provides insights into how John's narrative aligns with Old Testament themes.
 
-2. The narrative structure emphasizes Israel's rejection of Jesus.
+2. Israel's rejection of Jesus as a fulfillment of prophetic patterns.
 
-    - Brown, Raymond E. *The Gospel According to John (I-XII)*.
-      - Why: Brown provides a detailed analysis of the themes of rejection and misunderstanding in John's Gospel.
-      - Link: https://www.amazon.com/Gospel-According-John-I-XII/dp/0300140167
-    - Klink, Edward W. *John: A Commentary*.
-      - Why: Klink discusses the implications of Israel's rejection of Jesus within the narrative framework.
-      - Link: https://www.amazon.com/John-Commentary-Edward-W-Klink/dp/0801049714
+    - Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel*. Trinity Press International, 1996.
+      - Why: This book explores the prophetic dimensions of Jesus' mission and Israel's response.
+    - Neyrey, Jerome H. *The Gospel of John in Cultural and Rhetorical Perspective*. Trinity Press International, 2009.
+      - Why: Neyrey examines the cultural context of John's Gospel, including themes of rejection.
 
-3. Jesus' death and resurrection as the true fulfillment of sacrificial systems.
+3. The transition from the old covenant to the new through Jesus' actions.
 
-    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in Social Context*.
-      - Why: Horsley explores the significance of Jesus' death in the context of Jewish sacrificial practices.
-      - Link: https://www.amazon.com/Liberation-Christmas-Infancy-Narratives-Context/dp/1598150012
-    - Wright, N.T. *The Resurrection of the Son of God*.
-      - Why: Wright provides a comprehensive examination of the theological implications of the resurrection.
-      - Link: https://www.amazon.com/Resurrection-Son-God-Christian-Origin/dp/0802864042
+    - Wright, N.T. *Jesus and the Victory of God*. Fortress Press, 1996.
+      - Why: Wright discusses the implications of Jesus' ministry as a new covenant.
+    - Käsemann, Ernst. *New Testament Theology*. SCM Press, 1964.
+      - Why: Käsemann provides a foundational understanding of the new covenant theology.
 
-4. The transition from Jesus' physical presence to a Spirit-mediated existence.
+4. The significance of the Upper Room Discourse in establishing new markers of covenant.
 
-    - Gaventa, Beverly Roberts. *Our Mother Saint Paul*.
-      - Why: Gaventa discusses the implications of the Spirit's role in the early Christian community.
-      - Link: https://www.amazon.com/Our-Mother-Saint-Paul/dp/0664239492
-    - Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit*.
-      - Why: Pinnock explores the role of the Holy Spirit in the life of believers post-resurrection.
-      - Link: https://www.amazon.com/Flame-Love-Theology-Holy-Spirit/dp/0830815792
-
-5. The commissioning of Peter as a continuation of Jesus' mission.
-
-    - Bock, Darrell L. *Acts*.
-      - Why: Bock discusses the role of the apostles in continuing Jesus' mission after His ascension.
-      - Link: https://www.amazon.com/Acts-Baker-Exegetical-New-Testament/dp/0801026170
-    - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society*.
-      - Why: Horsley examines the implications of apostolic authority and mission in the early church.
-      - Link: https://www.amazon.com/Paul-Empire-Religion-Imperial-Society/dp/1598150012
+    - Morris, Leon. *The Gospel According to John*. Eerdmans, 1995.
+      - Why: Morris analyzes the theological significance of the Upper Room Discourse.
+    - Bultmann, Rudolf. *The Gospel of John: A Commentary*. Westminster John Knox Press, 1971.
+      - Why: Bultmann's commentary delves into the implications of Jesus' teachings in the Upper Room.
 
