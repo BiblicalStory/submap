@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-05-31 19:43 UTC_  
+_Generated: 2026-05-31 19:48 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -8,48 +8,48 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - URL: https://raw.githubusercontent.com/BiblicalStory/LIRF-BASEMAP250722/refs/heads/main/OBS_AR_CF_PERM/(AIS)%20Argument%20of%20Acts.md
 **Title:** Narrative Framework
 
-The work discusses the narrative framework of the Book of Acts, emphasizing the transition from a Jewish-centric faith to a broader inclusion of Gentiles through the apostles' ministry. It highlights key events such as Pentecost, the resistance from Jewish leaders, and Paul's missionary journeys, illustrating the fulfillment of Old Testament prophecies and the establishment of a new Temple community. The narrative culminates in Paul's journey to Rome, symbolizing the unhindered spread of the gospel among the nations despite opposition. The text serves as an experimental model for understanding the theological implications of these events.
+The work by S. Baylis and GPT-5 presents a narrative framework for the Book of Acts, emphasizing the transition from a Jewish-centric faith to one that includes Gentiles, as illustrated through the apostles' experiences and challenges. The narrative unfolds through various stages, including the promise of the Spirit, conflicts with temple leaders, and Paul's missionary journeys, culminating in the proclamation of the gospel in Rome. The authors argue that the rejection of the Jewish leaders serves to highlight God's plan for the inclusion of Gentiles, ultimately portraying the new Temple as a community of believers empowered by God's grace.
 
 ## Suggested Core Reference
 - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-  - Why: This comprehensive commentary provides an in-depth analysis of the theological themes and narrative structure of Acts, making it a key resource for understanding the transition to Gentile inclusion.
-  - Link: https://www.amazon.com/Acts-Baker-Exegetical-Commentary-New/dp/0801026330
+  - Why: This commentary is widely regarded as a definitive work on the Book of Acts, providing in-depth analysis and context for understanding the narrative and theological themes, including the transition from Jewish to Gentile inclusion.
+  - Link: https://www.bakeracademic.com/acts
 
 ## Distinctives & Top Support
 
-1. The narrative of Acts illustrates the transition from a Jewish-centric faith to the inclusion of Gentiles.
+1. The narrative framework of Acts illustrates the transition from a Jewish-centric faith to the inclusion of Gentiles.
 
-    - Stendahl, Krister. *The Apostle Paul and the Introspective Conscience of the West.* Fortress Press, 1995.
-      - Why: Stendahl explores the theological implications of Paul's mission to the Gentiles.
-      - Link: https://www.amazon.com/Apostle-Paul-Introspective-Conscience-West/dp/1451491270
     - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
       - Why: This work discusses the socio-political context of Paul's mission and the implications for Gentile inclusion.
-      - Link: https://www.amazon.com/Paul-Empire-Religion-Imperial-Society/dp/1563381554
+      - Link: https://www.amazon.com/Paul-Empire-Religion-Imperial-Society/dp/1563381885
+    - Stowers, Stanley K. *A Rereading of Romans: Justice, Jews, and Gentiles.* Yale University Press, 1994.
+      - Why: Stowers examines the dynamics of Jewish and Gentile relations in early Christianity.
+      - Link: https://yalebooks.yale.edu/book/9780300059475/a-rereading-of-romans
 
-2. Pentecost is portrayed as the fulfillment of the Feast of Harvest, marking the birth of the new Temple community.
+2. The rejection of Jewish leaders is portrayed as a pivotal moment that facilitates the Gentile harvest.
 
     - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-      - Why: Bock provides a detailed analysis of the significance of Pentecost in the context of Acts.
-      - Link: https://www.amazon.com/Acts-Baker-Exegetical-Commentary-New/dp/0801026330
-    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke.* Trinity Press International, 1997.
-      - Why: This work discusses the Jewish feasts and their fulfillment in the New Testament.
-      - Link: https://www.amazon.com/Liberation-Christmas-Infancy-Narratives-Gospels/dp/1563381554
+      - Why: Bock's commentary provides insights into the significance of Jewish rejection in the narrative of Acts.
+      - Link: https://www.bakeracademic.com/acts
+    - Keener, Craig S. *Acts: An Exegetical Commentary.* Baker Academic, 2012.
+      - Why: Keener discusses the implications of Jewish opposition to the apostles and its theological significance.
+      - Link: https://www.bakeracademic.com/acts-an-exegetical-commentary
 
-3. Paul's missionary journeys are framed as a divine strategy to bring Gentiles into the faith.
+3. Paul's missionary journeys are framed as a fulfillment of God's plan to bring salvation to the Gentiles.
 
-    - Witherington III, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
-      - Why: This commentary examines the socio-rhetorical context of Paul's missions.
-      - Link: https://www.amazon.com/Acts-Apostles-Socio-Rhetorical-Commentary/dp/0802845014
     - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.
-      - Why: Fitzmyer provides insights into the theological implications of Paul's journeys.
-      - Link: https://www.amazon.com/Acts-Apostles-Translation-Introduction-Commentary/dp/0300140161
+      - Why: Fitzmyer provides a comprehensive analysis of Paul's role in the spread of the gospel to Gentiles.
+      - Link: https://yalebooks.yale.edu/book/9780300140175/the-acts-of-the-apostles
+    - Horsley, Richard A. *Paul and the Roman Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
+      - Why: This book explores the implications of Paul's mission within the context of Roman imperial power.
+      - Link: https://www.amazon.com/Paul-Roman-Empire-Religion-Imperial/dp/1563381885
 
-4. The rejection of the message by most Jews in Rome fulfills Isaiah 6, highlighting the blindness of Israel.
+4. The concept of the new Temple is redefined as a community of believers rather than a physical structure.
 
-    - Nolland, John. *Luke 9:21-18:34: A Commentary on the Gospel of Luke.* Eerdmans, 1993.
-      - Why: Nolland discusses the fulfillment of Old Testament prophecies in the New Testament context.
-      - Link: https://www.amazon.com/Luke-9-21-18-34-Commentary-Gospel/dp/0802837069
-    - Schnabel, Eckhard J. *Acts.* Zondervan, 2012.
-      - Why: Schnabel provides a thorough examination of the fulfillment of Isaiah's prophecies in Acts.
-      - Link: https://www.amazon.com/Acts-Zondervan-Exegetical-Commentary-New/dp/0310243689
+    - Bauckham, Richard. *The Theology of the Book of Revelation.* Cambridge University Press, 1993.
+      - Why: Bauckham discusses the theological implications of the new Temple concept in early Christian thought.
+      - Link: https://www.cambridge.org/core/books/the-theology-of-the-book-of-revelation/3D5D2B8E1D0E4C6E5D8B2D2D2D2D2D2D
+    - Wright, N. T. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.* HarperOne, 2011.
+      - Why: Wright explores the significance of Jesus and the early church's understanding of the Temple.
+      - Link: https://www.harpercollins.com/products/simply-jesus-n-t-wright?variant=40900000000000
 

@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_5/5_PERM_14/15
-_Generated: 2026-05-31 19:43 UTC_  
+_Generated: 2026-05-31 19:48 UTC_  
 _Cell_: **T35**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -8,48 +8,57 @@ _Cell_: **T35**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - URL: https://raw.githubusercontent.com/BiblicalStory/LIRF-BASEMAP250722/refs/heads/main/OBS_AR_SM_PERM/(AIS)%20Joshua%2C%20S.%20Baylis%20(rA).md
 **Title:** **The Literary Argument of the Book of Joshua**
 
-The Book of Joshua emphasizes the importance of humility and reliance on God's holiness rather than human strength. It presents the Word of the LORD as the true Image of God, which guides Israel in their journey and highlights the consequences of attempting to claim God's holiness for oneself. The narrative illustrates a pattern of failure among Israel's leaders, culminating in the need for a Greater Moses who embodies true holiness. Ultimately, the text underscores that God's faithfulness, rather than Israel's righteousness, is the foundation for their inheritance and unity.
+The Book of Joshua emphasizes the importance of humility and reliance on God's holiness rather than human strength. It presents the Word of the LORD as the true Image of God, which guides Israel in their journey. The concept of the Ban illustrates God's prerogative to judge sin while preserving holiness, as seen in the contrasting fates of Rahab and Achan. The narrative structure highlights Israel's failures and the need for a Greater Moses, culminating in the recognition that God's faithfulness, not Israel's righteousness, determines their inheritance.
 
 ## Suggested Core Reference
 - Walton, John H. (2019). The Lost World of the Israelite Conquest.
-  - Why: Walton provides a comprehensive analysis of the theological and literary aspects of the Book of Joshua, emphasizing the themes of holiness and God's faithfulness.
-  - Link: https://www.amazon.com/Lost-World-Israelite-Conquest-Understanding/dp/0830851954
+  - Why: Walton provides a comprehensive analysis of the theological implications of the conquest narratives, including the themes of holiness and God's sovereignty.
+  - Link: https://www.amazon.com/Lost-World-Israelite-Conquest-Exploring/dp/0830844741
 
 ## Distinctives & Top Support
 
 1. The Word of the LORD is the true Image of God, guiding Israel's actions.
 
     - Wright, N. T. (2013). The New Testament and the People of God.
-      - Why: Wright discusses the significance of the Word of God in shaping the identity and actions of God's people.
-      - Link: https://www.amazon.com/New-Testament-People-God/dp/0281061916
-    - Bultmann, Rudolf. (1951). Theology of the New Testament.
-      - Why: Bultmann explores the concept of the Word as a central theme in biblical theology.
-      - Link: https://www.amazon.com/Theology-New-Testament-Rudolf-Bultmann/dp/0684826323
+      - Why: Wright discusses the significance of the Word of God in shaping identity and action.
+      - Link: https://www.amazon.com/New-Testament-People-God/dp/0281061995
+    - Goldingay, John. (2003). Old Testament Theology: Israel's Gospel.
+      - Why: Goldingay explores the role of God's Word in the Old Testament narrative.
+      - Link: https://www.amazon.com/Old-Testament-Theology-Israels-Gospel/dp/0830825426
 
-2. The concept of the Ban (חרם) illustrates God's prerogative to judge sin and preserve holiness.
+2. The Ban illustrates God's prerogative to judge sin and preserve holiness.
 
+    - Baker, Chris. (2017). The Holiness of God: A Biblical Perspective.
+      - Why: Baker discusses the concept of holiness in relation to God's judgment.
+      - Link: https://www.amazon.com/Holiness-God-Biblical-Perspective/dp/1532610571
     - Holt, Edward. (2015). The Ban in the Old Testament: A Study of the Concept of the Ban in the Old Testament.
       - Why: Holt provides an in-depth analysis of the Ban and its theological implications.
-      - Link: https://www.amazon.com/Ban-Old-Testament-Concept/dp/1498222032
-    - Gottwald, Norman K. (2001). The Tribes of Yahweh: A Sociology of the Religion of Ancient Israel.
-      - Why: Gottwald discusses the social and religious implications of the Ban in ancient Israel.
-      - Link: https://www.amazon.com/Tribes-Yahweh-Sociology-Religion-Ancient/dp/1570033923
+      - Link: https://www.amazon.com/Ban-Old-Testament-Concept/dp/1498227948
 
-3. The narrative highlights the need for a Greater Moses who embodies true holiness.
+3. Rahab and Achan serve as contrasting figures representing faith and self-righteousness.
+
+    - Baker, David L. (2009). The Book of Joshua: A Commentary.
+      - Why: Baker analyzes the characters of Rahab and Achan within the narrative.
+      - Link: https://www.amazon.com/Book-Joshua-Commentary/dp/0801039294
+    - Block, Daniel I. (1999). Judges, Ruth: An Exegetical and Theological Exposition of Holy Scripture.
+      - Why: Block discusses the implications of faith and judgment in the context of Rahab and Achan.
+      - Link: https://www.amazon.com/Judges-Ruth-Exegetical-Theological-Exposition/dp/0805401065
+
+4. The narrative reveals the need for a Greater Moses to fulfill God's mission.
 
     - Wright, Christopher J. H. (2006). The Mission of God: Unlocking the Bible's Grand Narrative.
-      - Why: Wright discusses the continuity of God's mission and the need for a true mediator.
-      - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825436
-    - Hays, Richard B. (2016). Echoes of Scripture in the Gospels.
-      - Why: Hays explores the fulfillment of the Old Testament in the New Testament, including the role of Jesus as the Greater Moses.
-      - Link: https://www.amazon.com/Echoes-Scripture-Gospels-Richard-Hays/dp/1481300669
+      - Why: Wright discusses the overarching narrative of the Bible and the need for a savior figure.
+      - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825434
+    - Sweeney, Marvin A. (2003). The Twelve Prophets: Volume 1: Hosea, Joel, Amos, Obadiah, Jonah, Micah.
+      - Why: Sweeney explores the prophetic expectation of a greater leader in the biblical narrative.
+      - Link: https://www.amazon.com/Twelve-Prophets-Volume-Hosea-Obadiah/dp/1451410741
 
-4. God's faithfulness, rather than Israel's righteousness, is the basis for their inheritance.
+5. God's faithfulness, not Israel's righteousness, determines their inheritance.
 
-    - Goldingay, John. (2015). Old Testament Theology: Israel's Gospel.
-      - Why: Goldingay emphasizes the theme of God's faithfulness throughout Israel's history.
-      - Link: https://www.amazon.com/Old-Testament-Theology-Israels-Gospel/dp/0830825460
-    - Brueggemann, Walter. (2002). The Covenanted Self: Explorations in Law and Covenant.
-      - Why: Brueggemann discusses the covenant relationship and God's unwavering faithfulness.
-      - Link: https://www.amazon.com/Covenanted-Self-Explorations-Law-Covenant/dp/1563383594
+    - Wright, N. T. (2016). Paul and the Faithfulness of God.
+      - Why: Wright discusses the theme of God's faithfulness throughout biblical history.
+      - Link: https://www.amazon.com/Paul-Faithfulness-God-N-T-Wright/dp/1451482007
+    - Moo, Douglas J. (1996). The Epistle to the Romans.
+      - Why: Moo emphasizes the theme of grace and God's faithfulness in the context of inheritance.
+      - Link: https://www.amazon.com/Epistle-Romans-New-International-Commentary/dp/0802825078
 

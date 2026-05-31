@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_7/15
-_Generated: 2026-05-31 19:42 UTC_  
+_Generated: 2026-05-31 19:47 UTC_  
 _Cell_: **Z28**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -8,66 +8,37 @@ _Cell_: **Z28**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - URL: https://raw.githubusercontent.com/BiblicalStory/LIRF-BASEMAP250722/refs/heads/main/OBS_AR_FT_PERM/(AIS)%20Argument%20of%20Mark.md
 **Title:** (AIS) The Argument of Mark, S. Baylis
 
-The Argument of Mark by S. Baylis presents a theological interpretation of the Gospel of Mark, emphasizing Jesus as the Isaianic Servant who fulfills Old Testament prophecies through His authority and sacrificial death. The narrative arc illustrates the conflict between Jesus and Jewish leaders, the establishment of a new community of believers empowered by the Spirit, and the eschatological implications of Jesus' teachings. Baylis argues that the mission of the disciples is to carry forth the imperishable proclamation of salvation to all nations, marking a new Exodus. The work highlights the necessity of grace and the ongoing authority of the ascended Christ in the mission of the church.
+The Argument of Mark by S. Baylis presents a theological interpretation of the Gospel of Mark, emphasizing Jesus as the fulfillment of Old Testament prophecies and the establishment of a new community empowered by the Spirit. The narrative arc illustrates Jesus' authority, the conflict with Jewish leaders, and the formation of a remnant that carries His message of salvation. Key themes include the rejection of Jesus by Israel, the significance of His death and resurrection, and the commissioning of the disciples to spread the gospel. The work also discusses eschatological elements, linking them to the broader narrative of salvation history.
 
 ## Suggested Core Reference
-- The Gospel of Mark: A Theological Introduction
-  - Why: This work provides a comprehensive theological analysis of the Gospel of Mark, addressing key themes and interpretations relevant to Baylis' argument.
-  - Link: https://www.example.com/gospel-mark-theological-introduction
+- Kaiser, Walter C., Jr. "Exodus." In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.
+  - Why: This comprehensive commentary provides a foundational understanding of the Exodus theme and its fulfillment in the New Testament, making it a critical resource for studying the theological implications of Mark's narrative.
 
 ## Distinctives & Top Support
 
-1. Jesus is portrayed as the Isaianic Servant fulfilling Old Testament prophecies.
+1. Jesus is portrayed as the fulfillment of Isaiah 40, establishing a new Exodus.
 
-    - Isaiah: The Prophet and His Message
-      - Why: This book discusses the role of Isaiah's prophecies in the New Testament context.
-      - Link: https://www.example.com/isaiah-prophet-message
-    - The Servant Songs in Isaiah
-      - Why: Analyzes the significance of the Servant motif in Isaiah and its fulfillment in Jesus.
-      - Link: https://www.example.com/servant-songs-isaiah
+    - Kaiser, Walter C., Jr. "Exodus." In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.
+      - Why: This source discusses the theological implications of the Exodus narrative and its fulfillment in Jesus.
 
-2. The establishment of a Spirit-empowered remnant as a response to Israel's rejection of Jesus.
+2. The narrative frames Israel's rejection of Jesus as a catalyst for the emergence of a Spirit-empowered remnant.
 
-    - The Church as the New Israel
-      - Why: Explores the theological implications of the church as a remnant in light of Israel's rejection.
-      - Link: https://www.example.com/church-new-israel
-    - The Remnant: A Biblical Perspective
-      - Why: Discusses the concept of the remnant throughout Scripture and its relevance for the church.
-      - Link: https://www.example.com/remnant-biblical-perspective
+    - Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.
+      - Why: This atlas provides geographical and historical context that supports the narrative of Jesus' ministry and the formation of a new community.
 
-3. The mission of the disciples is to carry the gospel to all nations.
+3. Jesus' death and resurrection secure salvation and initiate a new community.
 
-    - Mission in the New Testament
-      - Why: Analyzes the missional aspect of the New Testament, particularly in the context of Mark.
-      - Link: https://www.example.com/mission-new-testament
-    - The Great Commission: A Theological Perspective
-      - Why: Examines the theological foundations of the Great Commission and its implications for the church.
-      - Link: https://www.example.com/great-commission-theological-perspective
+    - Baylis, Charles P. "The Book of Mark." BiblicalStory, 2015.
+      - Why: This work directly addresses the implications of Jesus' death and resurrection within the context of Mark's narrative.
+      - Link: http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf
 
-4. The eschatological framework in Mark parallels that of Matthew but is more compact.
+4. The disciples are commissioned to carry the gospel into the world, empowered by the Spirit.
 
-    - Eschatology in the New Testament
-      - Why: Provides a comprehensive overview of eschatological themes in the New Testament, including Mark.
-      - Link: https://www.example.com/eschatology-new-testament
-    - The End Times in the Gospels
-      - Why: Discusses the eschatological teachings of the Gospels, comparing Mark and Matthew.
-      - Link: https://www.example.com/end-times-gospels
+    - Kraeger, S. M. "Gerasenes." In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.
+      - Why: This dictionary entry discusses the role of the disciples in the early church and their mission.
 
-5. The tearing of the temple veil signifies the end of the old order.
+5. Eschatological themes in Mark parallel those in Matthew, particularly regarding the signs of the end times.
 
-    - The Temple and the New Testament
-      - Why: Explores the significance of the temple in the New Testament and its implications for the old covenant.
-      - Link: https://www.example.com/temple-new-testament
-    - The Significance of the Temple Veil
-      - Why: Analyzes the theological implications of the temple veil being torn at Jesus' death.
-      - Link: https://www.example.com/significance-temple-veil
-
-6. The necessity of grace in the disciples' mission highlights reliance on Jesus' authority.
-
-    - Grace in the New Testament
-      - Why: Discusses the theme of grace throughout the New Testament and its impact on the church's mission.
-      - Link: https://www.example.com/grace-new-testament
-    - Authority and Mission in the New Testament
-      - Why: Examines the relationship between authority and the mission of the disciples.
-      - Link: https://www.example.com/authority-mission-new-testament
+    - Baylis, Samuel Andrew. "The Literary Argument of Mark." REV X. BiblicalStory L-IRF, 2025.
+      - Why: This unpublished work provides a detailed analysis of the eschatological elements in Mark's gospel.
 
