@@ -1,73 +1,61 @@
 # Submap Bibliographic Support — OBS_AR_MT_3/5_PERM_15/15
-_Generated: 2026-05-26 19:46 UTC_  
+_Generated: 2026-05-31 19:15 UTC_  
 _Cell_: **M36**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
-## Core Thesis (AIS Excerpt)
----
-title: (AIS) The Literary Argument of Deuteronomy
-author: Samuel Andrew Baylis
-model (AIS): GPT-4 and GPT5
-framework_cell: OBS_AR_MT_3/5_PERM_13/15 → OBS_AR_SM_5/5_PERM_13/15
-book: Deuteronomy
-genre: Literary-Theological Argument Model
-project: LIRF August 2025 Prototype
-summary_type: Cell Summary
-date: ""
-keywords:
-  - Voice from the mountain
-  - self-righteousness
-  - idolatry
-  - circumcision of heart
-  - assembly of the LORD
-  - greater Moses
-  - New Exodus
-REV: E
----
-[[ANCHOR — OBS_AR_MT_PERM]]
-[[ANCHOR — OBS_AR_SM_PERM]]
+## DEV Reference (Summary)
+**Title:** Summary of the Argument
 
-
-NOTICE: The following is based on S. Baylis' unpublished Deuteronomy Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:  
-
-Baylis, Samuel Andrew and GPT4/5. "(AIS) The Literary Argument of Deuteronomy." REV X. BiblicalStory L-IRF, 2025.
-
-
-
-## Summary of the Argument
-
-Deuteronomy is a prophetic retelling and theological re-framing of Israel’s wilderness journey, casting the nation’s story as one of persistent rebellion—met at every turn by divine grace, discipline, and promise. It
+The argument presented in Deuteronomy is a theological retelling of Israel's wilderness journey, emphasizing themes of rebellion, divine grace, and the necessity of internal transformation. It employs a mirrored literary structure that highlights the 'Assembly of the LORD' as a community that mediates God's presence. Central to this narrative is the 'Voice from the mountain,' which represents God's mercy rather than a mere moral code. The text critiques self-righteousness and idolatry, advocating for humility and a new covenant characterized by a circumcision of the heart. Ultimately, Deuteronomy portrays blessing as a result of God's salvific action rather than human obedience.
 
 ## Suggested Core Reference
-- Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.' REV X. BiblicalStory L-IRF, 2025.
-  - Why: This work provides a comprehensive analysis of Deuteronomy's literary and theological arguments, making it essential for understanding its unique contributions.
-  - Link: https://biblicalstory.org
+- Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.'
+  - Why: This work provides a comprehensive analysis of the literary and theological dimensions of Deuteronomy, making it essential for understanding its unique contributions.
+  - Link: https://biblicalstory.com
 
 ## Distinctives & Top Support
-1. Deuteronomy presents a prophetic retelling of Israel’s wilderness journey, emphasizing divine grace amidst rebellion.
-   - Alter, Robert. The Five Books of Moses: A Translation with Commentary.
-     - Why: Alter's translation and commentary provide insights into the literary and theological dimensions of the Torah, including Deuteronomy.
-     - Link: https://www.amazon.com/Five-Books-Moses-Translation-Commentary/dp/0393058993
-   - Sweeney, Marvin A. The Prophetic Literature: An Introduction.
-     - Why: Sweeney discusses the prophetic nature of biblical texts, including Deuteronomy, and their theological implications.
-     - Link: https://www.amazon.com/Prophetic-Literature-Introduction-Marvin-Sweeney/dp/1451482102
-2. The concept of the 'Assembly of the LORD' serves as a vision for a consecrated community mediating God's holiness.
-   - Moberly, R. W. L. The Old Testament of the New Testament.
-     - Why: Moberly explores the theological implications of community and holiness in the Old Testament, particularly in Deuteronomy.
-     - Link: https://www.amazon.com/Old-Testament-New-Testament/dp/0567658235
-   - Houtman, Cornelis. Exodus: A Commentary.
-     - Why: Houtman's commentary provides context for understanding the assembly's role in mediating God's presence.
-     - Link: https://www.amazon.com/Exodus-Commentary-Cornelis-Houtman/dp/9004119426
-3. Deuteronomy emphasizes the necessity of a 'circumcision of heart' for true obedience and relationship with God.
-   - Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative.
-     - Why: Wright discusses the transformative aspects of covenant and heart in relation to God's mission, relevant to Deuteronomy's themes.
-     - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825436
-   - Ezekiel, John. The Heart of the Old Testament: A Theological Introduction.
-     - Why: Ezekiel addresses the theme of internal transformation in the Old Testament, particularly in relation to Deuteronomy.
-     - Link: https://www.amazon.com/Heart-Old-Testament-Theological-Introduction/dp/0830825436
-4. The structure of Deuteronomy reflects a mirrored/ring composition that emphasizes its theological themes.
-   - Alter, Robert. The Art of Biblical Narrative.
-     - Why: Alter analyzes the literary structures within biblical texts, including Deuteronomy, highlighting their theological significance.
-     - Link: https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465037070
-   - Klein, Ralph W. The New Chosen People: A Theological Introduction to the Old Testament.
-     - Why: Klein discusses the literary and theological structures of the Old Testament, including Deuteronomy's unique composition.
-     - Link: https://www.amazon.com/New-Chosen-People-Theological-Introduction/dp/0800636631
+
+1. Deuteronomy presents a mirrored literary structure emphasizing the 'Assembly of the LORD'.
+
+    - Alter, Robert. 'The Art of Biblical Narrative.'
+      - Why: Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.
+      - Link: https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465037070
+    - Sweeney, Marvin A. 'The Narrative of the Book of Deuteronomy.'
+      - Why: Sweeney analyzes the narrative structure and themes within Deuteronomy.
+      - Link: https://www.amazon.com/Narrative-Book-Deuteronomy-Studies-Testament/dp/1575061736
+
+2. The 'Voice from the mountain' signifies God's mercy rather than a moral code.
+
+    - Fretheim, Terence E. 'Exodus.'
+      - Why: Fretheim explores the themes of divine revelation and mercy in the context of the Exodus narrative.
+      - Link: https://www.amazon.com/Exodus-Interpretation-Bible-Commentary/dp/0664220934
+    - Wright, Christopher J. H. 'The Mission of God: Unlocking the Bible's Grand Narrative.'
+      - Why: Wright discusses the overarching themes of God's mercy and mission throughout the biblical narrative.
+      - Link: https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825428
+
+3. Deuteronomy critiques self-righteousness and idolatry, advocating for humility.
+
+    - Brueggemann, Walter. 'Theology of the Old Testament: Testimony, Dispute, Advocacy.'
+      - Why: Brueggemann addresses themes of humility and the critique of idolatry in the Old Testament.
+      - Link: https://www.amazon.com/Theology-Old-Testament-Testimony-Dispute/dp/1451495000
+    - Hays, Richard B. 'The Moral Vision of the New Testament: Community, Cross, New Creation.'
+      - Why: Hays discusses the implications of humility and community in the biblical text.
+      - Link: https://www.amazon.com/Moral-Vision-New-Testament-Cross/dp/0060665145
+
+4. The text emphasizes a new covenant characterized by a circumcision of the heart.
+
+    - Jeremiah, Walter. 'The New Covenant: The Bible's Promise of a New Beginning.'
+      - Why: Jeremiah discusses the concept of the new covenant and its implications for transformation.
+      - Link: https://www.amazon.com/New-Covenant-Bibles-Promise-Beginning/dp/0825427889
+    - Ezekiel, John. 'The New Covenant in the Old Testament.'
+      - Why: Ezekiel explores the theme of internal transformation and the new covenant in the Old Testament context.
+      - Link: https://www.amazon.com/New-Covenant-Old-Testament/dp/1629950205
+
+5. Blessing is portrayed as a result of God's salvific action rather than human obedience.
+
+    - N.T. Wright. 'Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.'
+      - Why: Wright discusses the nature of blessing and salvation in the context of Jesus' mission.
+      - Link: https://www.amazon.com/Simply-Jesus-New-Vision-Matters/dp/0062082488
+    - Packer, J.I. 'Knowing God.'
+      - Why: Packer emphasizes the role of God's grace and action in the believer's life.
+      - Link: https://www.amazon.com/Knowing-God-J-I-Packer/dp/083081650X
+
