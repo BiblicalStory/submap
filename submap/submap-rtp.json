@@ -1,0 +1,630 @@
+{
+  "Collection": {
+    "name": "Submap - BST",
+    "designator": "BST-S",
+    "url": "lirfsight.biblicalstory.org",
+    "Categories": [
+      {
+        "name": "primary references",
+        "items": [
+          {
+            "id": "BST-S-f42c0be08b39",
+            "title": "Alter, Robert. The Art of Biblical Narrative.",
+            "citation": "Alter, Robert. The Art of Biblical Narrative.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-d9349297cdbe",
+            "title": "Baker, C. (2011). The Book of Joshua: A Theological Commentary.",
+            "citation": "Baker, C. (2011). The Book of Joshua: A Theological Commentary.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-aec410327a26",
+            "title": "Baldwin, J. (1988). The Message of Joshua.",
+            "citation": "Baldwin, J. (1988). The Message of Joshua.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-189d29832a50",
+            "title": "Bauckham, Richard. 'Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.'",
+            "citation": "Bauckham, Richard. 'Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-3a403bbe1295",
+            "title": "Baylis, Charles P. \"The Book of Mark.\" BiblicalStory, 2015.",
+            "citation": "Baylis, Charles P. \"The Book of Mark.\" BiblicalStory, 2015.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_7/15"
+            ]
+          },
+          {
+            "id": "BST-S-b6f2e021c193",
+            "title": "Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*",
+            "citation": "Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-a3bb298ec449",
+            "title": "Baylis, Samuel A. “Biblical Theology of Luke–Acts: The Very Present Help.”",
+            "citation": "Baylis, Samuel A. “Biblical Theology of Luke–Acts: The Very Present Help.”",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-f6430714ffb5",
+            "title": "Baylis, Samuel A. “Position Paper: Divorce and Remarriage.”",
+            "citation": "Baylis, Samuel A. “Position Paper: Divorce and Remarriage.”",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-cdce2f0817f9",
+            "title": "Baylis, Samuel A. “The Argument of the Book of Mark.”",
+            "citation": "Baylis, Samuel A. “The Argument of the Book of Mark.”",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-b921d2977165",
+            "title": "Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.' REV X. BiblicalStory L-IRF, 2025.",
+            "citation": "Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.' REV X. BiblicalStory L-IRF, 2025.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-9634a8f718c4",
+            "title": "Baylis, Samuel Andrew. \"(AIS) The Literary Argument of Mark.\" REV X. BiblicalStory L-IRF, 2025.",
+            "citation": "Baylis, Samuel Andrew. \"(AIS) The Literary Argument of Mark.\" REV X. BiblicalStory L-IRF, 2025.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_7/15"
+            ]
+          },
+          {
+            "id": "BST-S-e477dc10d27c",
+            "title": "Beasley-Murray, George R. *John*. Word Biblical Commentary. Thomas Nelson, 1999.",
+            "citation": "Beasley-Murray, George R. *John*. Word Biblical Commentary. Thomas Nelson, 1999.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-ceb9a216c574",
+            "title": "Blomberg, Craig L. 'Interpreting the Parables.'",
+            "citation": "Blomberg, Craig L. 'Interpreting the Parables.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-023756a90c24",
+            "title": "Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.'",
+            "citation": "Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-aaada4589e5b",
+            "title": "Bock, Darrell L. *Acts.* Baker Academic, 2007.",
+            "citation": "Bock, Darrell L. *Acts.* Baker Academic, 2007.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-39f509f56c0b",
+            "title": "Bock, Darrell L. _Jesus According to Scripture_.",
+            "citation": "Bock, Darrell L. _Jesus According to Scripture_.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-878ef38a9dd6",
+            "title": "Bock, Darrell L. _Luke: 1:1–9:50_.",
+            "citation": "Bock, Darrell L. _Luke: 1:1–9:50_.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-07de1db8d3a5",
+            "title": "Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.",
+            "citation": "Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-4518c9f44471",
+            "title": "Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.",
+            "citation": "Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_7/15"
+            ]
+          },
+          {
+            "id": "BST-S-50d6ab109f7c",
+            "title": "Brown, Raymond E. *The Gospel According to John (I-XII)*. Anchor Bible Series. Doubleday, 1966.",
+            "citation": "Brown, Raymond E. *The Gospel According to John (I-XII)*. Anchor Bible Series. Doubleday, 1966.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-eac3dd0feb4a",
+            "title": "Brueggemann, Walter. Theology of the Old Testament: Testimony, Dispute, Advocacy.",
+            "citation": "Brueggemann, Walter. Theology of the Old Testament: Testimony, Dispute, Advocacy.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-581eb33679a2",
+            "title": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. Westminster John Knox Press, 1971.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. Westminster John Knox Press, 1971.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-80e3cd524939",
+            "title": "Carson, D.A. *The Gospel According to John*. Pillar New Testament Commentary. Eerdmans, 1991.",
+            "citation": "Carson, D.A. *The Gospel According to John*. Pillar New Testament Commentary. Eerdmans, 1991.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-8666b1df7ce0",
+            "title": "Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul.* Hendrickson Publishers, 1994.",
+            "citation": "Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul.* Hendrickson Publishers, 1994.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-5576a56cb039",
+            "title": "France, R.T. 'The Gospel of Matthew.'",
+            "citation": "France, R.T. 'The Gospel of Matthew.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-b24390ca9cac",
+            "title": "Gaventa, Beverly Roberts. 'Our Mother Saint Paul.'",
+            "citation": "Gaventa, Beverly Roberts. 'Our Mother Saint Paul.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-09e5232ebd85",
+            "title": "Goldingay, J. (2003). Old Testament Theology: Israel's Gospel.",
+            "citation": "Goldingay, J. (2003). Old Testament Theology: Israel's Gospel.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-277721cd743a",
+            "title": "Goldingay, John. Old Testament Theology: Israel's Gospel.",
+            "citation": "Goldingay, John. Old Testament Theology: Israel's Gospel.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-b777973ec53a",
+            "title": "Hays, Richard B. The Moral Vision of the New Testament: Community, Cross, New Creation.",
+            "citation": "Hays, Richard B. The Moral Vision of the New Testament: Community, Cross, New Creation.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-e41c7d1d9137",
+            "title": "Holt, E. (2015). The Ban in the Old Testament: A Theological Study.",
+            "citation": "Holt, E. (2015). The Ban in the Old Testament: A Theological Study.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-39bab88a762e",
+            "title": "Horsley, Richard A. 'The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World.'",
+            "citation": "Horsley, Richard A. 'The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-1e577a026824",
+            "title": "Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.'",
+            "citation": "Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-713452c32976",
+            "title": "Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.",
+            "citation": "Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-39d3802568e4",
+            "title": "Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel*. Trinity Press International, 1996.",
+            "citation": "Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel*. Trinity Press International, 1996.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-44e900728d2e",
+            "title": "Kaiser, Walter C., Jr. \"Exodus.\" In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.",
+            "citation": "Kaiser, Walter C., Jr. \"Exodus.\" In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_7/15"
+            ]
+          },
+          {
+            "id": "BST-S-9ccf5a58b054",
+            "title": "Klein, Ralph W. The Book of Deuteronomy.",
+            "citation": "Klein, Ralph W. The Book of Deuteronomy.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-a5fb787395f1",
+            "title": "Klein, W. W. (2003). The Book of Joshua: An Introduction and Commentary.",
+            "citation": "Klein, W. W. (2003). The Book of Joshua: An Introduction and Commentary.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-ab7d336cb16c",
+            "title": "Kraeger, S. M. \"Gerasenes.\" In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.",
+            "citation": "Kraeger, S. M. \"Gerasenes.\" In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_7/15"
+            ]
+          },
+          {
+            "id": "BST-S-8e2255bfc72e",
+            "title": "Käsemann, Ernst. 'New Testament Theology.'",
+            "citation": "Käsemann, Ernst. 'New Testament Theology.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-0a21e01f792d",
+            "title": "Käsemann, Ernst. *New Testament Theology*. SCM Press, 1964.",
+            "citation": "Käsemann, Ernst. *New Testament Theology*. SCM Press, 1964.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-fd282262ce2c",
+            "title": "Longenecker, Richard N. *The Acts of the Apostles.* Eerdmans, 1995.",
+            "citation": "Longenecker, Richard N. *The Acts of the Apostles.* Eerdmans, 1995.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-da25d660d6d6",
+            "title": "McConville, J. (2002). Deuteronomy.",
+            "citation": "McConville, J. (2002). Deuteronomy.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-ccc47ce7e676",
+            "title": "Morris, Leon. *The Gospel According to John*. Eerdmans, 1995.",
+            "citation": "Morris, Leon. *The Gospel According to John*. Eerdmans, 1995.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-42cb6771af73",
+            "title": "Neyrey, Jerome H. *The Gospel of John in Cultural and Rhetorical Perspective*. Trinity Press International, 2009.",
+            "citation": "Neyrey, Jerome H. *The Gospel of John in Cultural and Rhetorical Perspective*. Trinity Press International, 2009.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          },
+          {
+            "id": "BST-S-6d33a2c77578",
+            "title": "Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit.* InterVarsity Press, 1996.",
+            "citation": "Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit.* InterVarsity Press, 1996.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-9a5684064ed9",
+            "title": "Schnabel, Eckhard J. *Acts.* Zondervan, 2012.",
+            "citation": "Schnabel, Eckhard J. *Acts.* Zondervan, 2012.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-6e06e5fc6e50",
+            "title": "Stendahl, Krister. *The Apostle Paul: His Life and Theology.* Fortress Press, 1995.",
+            "citation": "Stendahl, Krister. *The Apostle Paul: His Life and Theology.* Fortress Press, 1995.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-b324a907885a",
+            "title": "Sweeney, M. A. (2015). The Twelve Prophets: Volume 1.",
+            "citation": "Sweeney, M. A. (2015). The Twelve Prophets: Volume 1.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-ce3cd048a9eb",
+            "title": "Sweeney, Marvin A. The Narrative of the Book of Deuteronomy.",
+            "citation": "Sweeney, Marvin A. The Narrative of the Book of Deuteronomy.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-4524e18b85bb",
+            "title": "Walton, J. H. (2019). The Lost World of the Israelite Conquest.",
+            "citation": "Walton, J. H. (2019). The Lost World of the Israelite Conquest.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-ea4b5f462453",
+            "title": "Witherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.",
+            "citation": "Witherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ]
+          },
+          {
+            "id": "BST-S-b77ece6621fb",
+            "title": "Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative.",
+            "citation": "Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-24c3587c07f7",
+            "title": "Wright, N. T. (2013). The New Testament and the People of God.",
+            "citation": "Wright, N. T. (2013). The New Testament and the People of God.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_5/5_PERM_14/15"
+            ]
+          },
+          {
+            "id": "BST-S-8adc41343002",
+            "title": "Wright, N. T. Justification: God's Plan & Paul's Vision.",
+            "citation": "Wright, N. T. Justification: God's Plan & Paul's Vision.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_3/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-faf160e298b5",
+            "title": "Wright, N.T. 'Jesus and the Victory of God.'",
+            "citation": "Wright, N.T. 'Jesus and the Victory of God.'",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_15/15"
+            ]
+          },
+          {
+            "id": "BST-S-9e2a050b1e60",
+            "title": "Wright, N.T. *Jesus and the Victory of God*. Fortress Press, 1996.",
+            "citation": "Wright, N.T. *Jesus and the Victory of God*. Fortress Press, 1996.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
