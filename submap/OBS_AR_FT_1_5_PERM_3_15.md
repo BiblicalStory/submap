@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-06-27 23:37 UTC_  
+_Generated: 2026-06-27 23:45 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,46 +7,46 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_3_15]]
 **Title:** Argument Summary of John
 
-The argument presented in John’s Gospel portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to the concepts of sacrifice and new birth. It illustrates Israel's rejection of Jesus, likening them to Cain, while emphasizing the transformative role of Jesus as the Word made flesh. Key images such as Jacob’s ladder and the Samaritan woman highlight the transition from the old covenant to the new, culminating in the resurrection that signifies Jesus as the embodiment of life. The narrative concludes with the commissioning of the disciples, who are tasked with spreading the message of eternal life through their witness.
+The argument presented in John’s Gospel portrays Jesus as the fulfillment of Old Testament themes, particularly addressing the crisis initiated in Genesis. It illustrates Israel's rejection of Jesus, likening them to Cain, while simultaneously highlighting Jesus as the true source of life and the embodiment of the law's intent. The narrative unfolds through various symbolic images, such as the transformation of purification into joy and the role of the disciples as messengers of the Word. Ultimately, the Gospel emphasizes the transition from Jesus' physical presence to a Spirit-mediated relationship with His followers, culminating in their mission to spread His teachings.
 
 ## Suggested Core Reference
-- Carson, D. A. *The Gospel According to John*. Grand Rapids: Eerdmans, 1991.
-  - Why: Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing in-depth analysis of its themes and theological implications.
+- Carson, D.A. *The Gospel According to John*. Grand Rapids: Eerdmans, 1991.
+  - Why: Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing comprehensive insights into its theological themes and narrative structure.
 
 ## Distinctives & Top Support
 
-1. Jesus as the fulfillment of Old Testament themes, particularly sacrifice and new birth.
+1. Jesus as the Word made flesh resolves the crisis of Genesis 3–4.
 
-    - Wright, N. T. *Jesus and the Victory of God*. Minneapolis: Fortress Press, 1996.
-      - Why: Wright discusses the significance of Jesus in relation to Jewish expectations and the fulfillment of scriptural themes.
     - Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.
-      - Why: Bultmann provides insights into the theological implications of John's portrayal of Jesus.
+      - Why: Bultmann discusses the theological implications of the Word becoming flesh in relation to Genesis.
+    - Käsemann, Ernst. *The Testament of Jesus: The Gospel of John in the Light of the Old Testament*. London: SCM Press, 1968.
+      - Why: Käsemann explores the connections between the Old Testament and the Gospel of John, particularly in the context of fulfillment.
 
-2. Israel's rejection of Jesus is likened to the story of Cain and Abel.
+2. Israel is depicted as the greater Cain rejecting the greater Abel.
 
-    - Käsemann, Ernst. *New Testament Theology*. New York: Harper & Row, 1964.
-      - Why: Käsemann explores the themes of rejection and fulfillment in the New Testament, particularly in relation to Israel.
-    - Schnackenburg, Rudolf. *The Gospel According to St. John*. New York: Crossroad, 1980.
-      - Why: Schnackenburg examines the narrative structure and theological implications of John's Gospel.
-
-3. The transformation from the old covenant to the new is illustrated through key images.
-
-    - Beasley-Murray, George R. *John*. Word Biblical Commentary. Nashville: Thomas Nelson, 1987.
-      - Why: Beasley-Murray analyzes the imagery and symbolism in John's Gospel, particularly in relation to covenant themes.
+    - Morris, Leon. *The Gospel According to John*. Grand Rapids: Eerdmans, 1995.
+      - Why: Morris provides insights into the narrative structure and theological themes, including the rejection of Jesus.
     - Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.
-      - Why: Brown provides a comprehensive commentary on the Gospel, focusing on its theological and literary elements.
+      - Why: Brown analyzes the themes of rejection and fulfillment in John's Gospel, including the Cain and Abel motif.
 
-4. The resurrection signifies Jesus as the embodiment of life.
+3. The transformation of purification into joy at the wedding at Cana signifies the new covenant.
 
-    - Moloney, Francis J. *The Gospel of John*. Sacra Pagina Series. Collegeville: Liturgical Press, 1998.
-      - Why: Moloney explores the resurrection narrative and its theological significance in the context of John's Gospel.
-    - Lindars, Barnabas. *The Gospel of John*. London: SCM Press, 1972.
-      - Why: Lindars discusses the significance of the resurrection in John's Gospel and its implications for understanding Jesus.
+    - Guelich, Robert A. *John 1-4: A Commentary on the Gospel of John*. Nashville: Abingdon Press, 1998.
+      - Why: Guelich discusses the significance of the wedding at Cana as a symbol of the new covenant.
+    - Keener, Craig S. *The Gospel of John: A Commentary*. Peabody: Hendrickson Publishers, 2003.
+      - Why: Keener elaborates on the symbolism of the wedding at Cana in the context of John's theological themes.
 
-5. The commissioning of the disciples emphasizes their role in spreading the message of eternal life.
+4. The Upper Room Discourse redefines the markers of God's covenant people.
 
-    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Grand Rapids: Baker Academic, 2002.
-      - Why: Bock discusses the mission of the disciples and its theological implications in the Gospels.
-    - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society*. Trinity Press International, 1997.
-      - Why: Horsley examines the implications of the disciples' mission in the context of the Roman Empire.
+    - Horsley, Richard A. *The Message of Jesus: A Theological Introduction*. New York: Trinity Press International, 1999.
+      - Why: Horsley examines the implications of the Upper Room Discourse for understanding the new covenant.
+    - Fitzmyer, Joseph A. *The Gospel According to John: Introduction, Translation, and Notes*. New York: Doubleday, 1994.
+      - Why: Fitzmyer provides a detailed analysis of the Upper Room Discourse and its theological significance.
+
+5. The resurrection of Jesus signifies His embodiment of life and victory over death.
+
+    - Lindars, Barnabas. *The Theology of the Gospel of John*. Cambridge: Cambridge University Press, 1992.
+      - Why: Lindars explores the themes of life and resurrection in John's Gospel.
+    - Wright, N.T. *The Resurrection of the Son of God*. Minneapolis: Fortress Press, 2003.
+      - Why: Wright discusses the theological implications of the resurrection in the context of John's Gospel.
 
