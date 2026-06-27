@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-06-19 23:05 UTC_  
+_Generated: 2026-06-27 21:03 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - Reference: [[DEVREF_OBS_R_CF_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The work by S. Baylis and GPT-5 presents a narrative framework for the Book of Acts, emphasizing the role of the apostles in spreading the gospel to Gentiles following the rejection of the Jewish leaders. It outlines a progression from the promise of the Spirit to the establishment of a new Temple community, highlighting key events such as Pentecost and Paul's missionary journeys. The narrative culminates in the rejection of the message by most Jews in Rome, contrasting with the acceptance of Gentiles, thus fulfilling Old Testament prophecies regarding Israel's blindness and the inclusion of the Gentiles in God's plan.
+The work by S. Baylis and GPT-5 presents a narrative framework for the Book of Acts, emphasizing the role of the apostles in spreading the gospel to Gentiles following the resurrection of Jesus. It outlines a progression from the promise of the Spirit at Pentecost to the establishment of a new Temple community, highlighting conflicts with Jewish leaders and the eventual acceptance of the gospel by Gentiles. The narrative culminates in Paul's journey to Rome, symbolizing the unhindered spread of the gospel and the fulfillment of Old Testament prophecies regarding Israel's blindness and the inclusion of the Gentiles.
 
 ## Suggested Core Reference
-- Bock, Darrell L. *Acts.* Baker Academic, 2007.
-  - Why: This comprehensive commentary provides a thorough analysis of the Book of Acts, addressing key themes, including the transition from Jewish to Gentile inclusion and the significance of Old Testament motifs.
+- Witherington, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
+  - Why: This commentary provides a comprehensive socio-rhetorical analysis of Acts, addressing key themes such as the inclusion of Gentiles and the role of the apostles.
 
 ## Distinctives & Top Support
 
-1. The narrative framework of Acts illustrates the transition from a Jewish-centric faith to a more inclusive Gentile community.
+1. The apostles' ministry is depicted as a fulfillment of Old Testament prophecies, particularly concerning the inclusion of Gentiles.
 
-    - Stark, Rodney. *The Rise of Christianity: History, Documents, and Key Questions.* Princeton University Press, 1996.
-      - Why: Stark analyzes the growth of Christianity and its transition from a Jewish sect to a global religion.
+    - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* InterVarsity Press, 1990.
+      - Why: Stott explores the theological significance of the Acts narrative, including the role of the Spirit in the mission to Gentiles.
     - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
-      - Why: This work discusses the socio-political implications of Paul's mission and the shift towards a Gentile-inclusive faith.
+      - Why: This work discusses the implications of Paul's mission in light of Jewish and Gentile relations.
 
-2. The concept of the 'sign of Jonah' is pivotal in understanding the rejection of the Jewish leaders and the acceptance of Gentiles.
+2. The narrative framework emphasizes the reversal of Babel through Pentecost.
 
     - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-      - Why: Bock provides an in-depth analysis of the Book of Acts, including the significance of the 'sign of Jonah' in the narrative.
-    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke.* Trinity Press International, 2002.
-      - Why: This work discusses the implications of the 'sign of Jonah' within the context of Jesus' ministry and its relevance to the early church.
+      - Why: Bock provides a detailed commentary on Acts, including the significance of Pentecost as a reversal of Babel.
+    - Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.* Eerdmans, 2005.
+      - Why: Hays discusses the significance of Pentecost in the context of biblical narrative and its implications for unity.
 
-3. Paul's identity and mission are framed within the context of Old Testament motifs, particularly the contrast with Jonah.
+3. Paul's identity as a Jew from Tarsus is presented as ironic in the context of his mission to the Gentiles.
 
-    - Neyrey, Jerome H. *Paul in Other Words: A Cultural Reading of His Letters.* Trinity Press International, 1990.
-      - Why: Neyrey explores the cultural and literary contexts of Paul's letters, including his identity and mission.
+    - Longenecker, Richard N. *The Acts of the Apostles.* Eerdmans, 1995.
+      - Why: Longenecker discusses the cultural and historical context of Paul's identity and mission.
     - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.
-      - Why: Fitzmyer provides a comprehensive commentary on Acts, discussing the significance of Old Testament references in understanding Paul's mission.
+      - Why: Fitzmyer analyzes Paul's background and its implications for his mission.
 
-4. The rejection of the message by most Jews in Rome fulfills prophetic themes of blindness and deafness from Isaiah.
+4. The concept of the 'sign of Jonah' is pivotal in understanding the rejection of the Jewish leaders and the acceptance of Gentiles.
 
-    - Isaak, David. *The Book of Isaiah: A New Translation and Commentary.* Oxford University Press, 2018.
-      - Why: Isaak discusses the prophetic themes in Isaiah, including the concepts of blindness and deafness as they relate to the New Testament.
-    - Moo, Douglas J. *The Epistle to the Romans.* Eerdmans, 1996.
-      - Why: Moo examines the implications of Isaiah's prophecies in the context of Paul's epistles, particularly regarding Jewish rejection.
+    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.* Baker Academic, 2002.
+      - Why: Bock explores the significance of the 'sign of Jonah' in the context of Jesus' ministry and its implications for Acts.
+    - Nolland, John. *Luke 1-9:20.* Word Books, 1989.
+      - Why: Nolland discusses the theological implications of the 'sign of Jonah' in the Gospel of Luke.
 
