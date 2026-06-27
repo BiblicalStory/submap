@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_13/15
-_Generated: 2026-06-27 23:11 UTC_  
+_Generated: 2026-06-27 23:38 UTC_  
 _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_13_15]]
 **Title:** (AIS) Argument of Matthew
 
-The Argument of Matthew presents a theological interpretation of the Gospel of Matthew, emphasizing the role of Jesus as the virgin-born King who comes to save Israel and establish a new ecclesia. The narrative outlines the plot structure, highlighting the introduction of Jesus, the tension of Israel's rejection, and the rising action through parables that prepare the remnant for the kingdom's delay. The climax centers on Jesus' sacrificial death and resurrection, which brings atonement and righteousness to the remnant. Ultimately, the work illustrates how the Old Testament promises converge in Jesus, who empowers the remnant to spread the gospel to all nations until His return.
+The Argument of Matthew presents a theological narrative centered on Jesus as the virgin-born King who comes to save Israel, emphasizing the preservation of a righteous remnant amidst national rejection. This remnant, trained by Jesus, is tasked with spreading the gospel to all nations until His return. The text outlines a plot structure that includes the introduction of Jesus, the tension of opposition from religious leaders, and the climax of His sacrificial death and resurrection, culminating in the commissioning of the apostles to disciple all nations. The work integrates Old Testament prophecies, illustrating how they converge in the figure of the Shepherd-King and the establishment of a new ecclesia.
 
 ## Suggested Core Reference
-- N.T. Wright. 'The New Testament and the People of God.'
-  - Why: This work provides a comprehensive framework for understanding the New Testament in light of Jewish expectations, including the themes of the remnant and the fulfillment of prophecy in Jesus.
+- The Gospel of Matthew: A Theological Introduction
+  - Why: This comprehensive introduction provides a detailed exploration of Matthew's theological themes, including the portrayal of Jesus and the concept of the remnant, making it essential for understanding the text's contributions to metaphysics and ontology.
 
 ## Distinctives & Top Support
 
-1. Jesus is portrayed as the virgin-born King fulfilling Old Testament prophecies.
+1. Jesus is depicted as the virgin-born King fulfilling Old Testament prophecies.
 
-    - Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.'
-      - Why: Discusses Jesus' role in fulfilling Jewish messianic expectations.
-    - Wright, N.T. 'Jesus and the Victory of God.'
-      - Why: Explores Jesus' identity and mission in the context of Israel's hopes.
+    - Matthew: A Commentary
+      - Why: This commentary provides an in-depth analysis of how Matthew presents Jesus as the fulfillment of Old Testament prophecies.
+    - The Birth of the Messiah: A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke
+      - Why: This work discusses the significance of the virgin birth in the context of messianic expectations.
 
-2. The remnant of Israel is central to the narrative, representing those who accept Jesus' righteousness.
+2. The concept of a remnant is central to Matthew's narrative, emphasizing their role in the spread of the gospel.
 
-    - Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.'
-      - Why: Analyzes the concept of the remnant in relation to Jesus' ministry.
-    - Hays, Richard B. 'Echoes of Scripture in the Gospels.'
-      - Why: Examines how the Gospels reflect Old Testament themes, including the remnant.
+    - The Remnant: A Biblical Study
+      - Why: This book explores the theological implications of the remnant concept throughout the Bible.
+    - The Theology of the Remnant in the Old Testament
+      - Why: This article examines the significance of the remnant in the Old Testament, providing context for its New Testament application.
 
-3. The parables serve as a teaching mechanism for the disciples during the delay period before the kingdom's arrival.
+3. Matthew's narrative structure highlights the tension between Jesus and the religious leaders of Israel.
 
-    - Keller, Timothy. 'The Prodigal God: Recovering the Heart of the Christian Faith.'
-      - Why: Explores the significance of parables in conveying deeper truths.
-    - Luz, Ulrich. 'Matthew 1-7: A Commentary.'
-      - Why: Provides insights into the function of parables in Matthew's Gospel.
+    - Matthew's Gospel: A Theological Introduction
+      - Why: This work discusses the conflict between Jesus and the Pharisees as a key theme in Matthew's Gospel.
+    - The Conflict of Jesus and the Pharisees
+      - Why: This article analyzes the nature of the opposition Jesus faced from religious authorities.
 
-4. The Olivet Discourse outlines the expectations for the apostles during the delay and tribulation.
+4. The Olivet Discourse serves as a climactic moment in Matthew's narrative, providing prophetic insights.
 
-    - Blomberg, Craig L. 'Interpreting the Parables.'
-      - Why: Discusses the implications of the Olivet Discourse for understanding Jesus' teachings.
-    - France, R.T. 'The Gospel of Matthew.'
-      - Why: Offers a detailed analysis of the Olivet Discourse within the Gospel context.
+    - The Olivet Discourse: A Study of Matthew 24-25
+      - Why: This book offers a comprehensive analysis of the Olivet Discourse and its implications for eschatology.
+    - Eschatology in the New Testament: The Olivet Discourse
+      - Why: This article discusses the eschatological themes present in the Olivet Discourse.
 
