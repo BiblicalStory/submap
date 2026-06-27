@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-06-27 21:02 UTC_  
+_Generated: 2026-06-27 23:09 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,46 +7,39 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_3_15]]
 **Title:** Argument Summary of John
 
-The Argument of John presents a theological interpretation of the Gospel of John, emphasizing Jesus as the fulfillment of Old Testament prophecies and figures. It explores themes of rejection, transformation, and the establishment of a new covenant, portraying Israel's failures and the disciples' mission. Key motifs include Jesus as the Word made flesh, the Bridegroom, and the true Temple, culminating in His death and resurrection as the embodiment of life and light. The narrative illustrates the transition from Jesus' physical presence to a Spirit-mediated existence, highlighting the role of the apostles in spreading His message.
+The argument presented in the work of S. Baylis and GPT-5 interprets the Gospel of John as a narrative that portrays Jesus as the fulfillment of Old Testament prophecies, particularly in relation to themes of sacrifice and new birth. The text outlines how Israel's rejection of Jesus parallels the biblical story of Cain and Abel, emphasizing the transformative role of Jesus as the Word made flesh. Key scenes in the Gospel illustrate the transition from the old covenant to the new, culminating in the resurrection and the commissioning of the disciples to spread the message of eternal life. The work suggests a theological resolution that connects the narrative's beginning and end, highlighting the continuity of God's plan through Jesus and His followers.
 
 ## Suggested Core Reference
-- Lindars, Barnabas. *The Theology of the Gospel of John*.
-  - Why: This work provides a comprehensive theological analysis of the Gospel of John, addressing key themes and their implications for understanding Jesus' identity and mission.
+- Carson, D. A. *The Gospel According to John*. Grand Rapids: Eerdmans, 1991.
+  - Why: Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing comprehensive insights into its theological themes and narrative structure.
 
 ## Distinctives & Top Support
 
-1. Jesus is portrayed as the fulfillment of Old Testament figures and prophecies.
+1. Jesus as the fulfillment of Old Testament prophecies.
 
-    - Brown, Raymond E. *The Gospel According to John (I-XII)*.
-      - Why: This work discusses the theological implications of Jesus' identity in relation to Old Testament themes.
-    - Käsemann, Ernst. *The Testament of Jesus: The Gospel of John in the Light of the Old Testament*.
-      - Why: Käsemann explores how the Gospel of John reflects and fulfills Old Testament expectations.
+    - Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.
+      - Why: Bultmann discusses the theological implications of Jesus' role in relation to Old Testament expectations.
+    - Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.
+      - Why: Brown provides an extensive analysis of the Johannine text and its fulfillment of Jewish scripture.
 
-2. The narrative emphasizes the transformation of Old Testament practices into new covenant realities.
+2. The narrative parallels between Israel's rejection of Jesus and the story of Cain and Abel.
 
-    - Wright, N.T. *Jesus and the Victory of God*.
-      - Why: Wright discusses how Jesus reinterprets Jewish traditions and practices in light of His mission.
-    - Bultmann, Rudolf. *The Gospel of John: A Commentary*.
-      - Why: Bultmann analyzes the Johannine text's transformation of Jewish customs into Christian theology.
+    - Hays, Richard B. *Echoes of Scripture in the Gospels*. Waco: Baylor University Press, 2016.
+      - Why: Hays explores intertextual connections in the Gospels, including themes of rejection and sacrifice.
+    - Klingler, David R. “Genesis 3:16; 4:1, and 4:7: A Case of Mistaken Identities?” *Evangelical Theological Society Annual Meeting*, 2022.
+      - Why: Klingler's paper discusses the Cain and Abel narrative in relation to New Testament themes.
 
-3. The concept of Jesus as the true Temple and Bridegroom is central to the narrative.
+3. The transformation of purification rituals into the joy of the eschatological wedding.
 
-    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in Social Context*.
-      - Why: Horsley examines the implications of Jesus' identity as the Temple and its significance for early Christians.
-    - Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*.
-      - Why: Bauckham discusses the significance of Jesus' identity in relation to Jewish expectations of the Temple.
+    - Köstenberger, Andreas J. *John*. Grand Rapids: Baker Academic, 2004.
+      - Why: Köstenberger discusses the significance of the wedding at Cana in the context of John's theology.
+    - Gaventa, Beverly Roberts. *From Darkness to Light: Aspects of the Gospel of John*. New York: T&T Clark, 2005.
+      - Why: Gaventa examines the symbolic use of wedding imagery in John's Gospel.
 
-4. The rejection of Jesus by Israel is framed as a fulfillment of prophetic patterns.
+4. The role of the Spirit in mediating Jesus' presence after His ascension.
 
-    - Hays, Richard B. *Echoes of Scripture in the Gospels*.
-      - Why: Hays explores how the Gospels reflect and fulfill Old Testament prophecies, particularly regarding rejection.
-    - Nolland, John. *The Gospel of Matthew: A Commentary on the Greek Text*.
-      - Why: Nolland discusses the theme of rejection in the context of fulfillment of prophecy.
-
-5. The transition from Jesus' physical presence to a Spirit-mediated presence is crucial.
-
-    - Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit*.
-      - Why: Pinnock discusses the role of the Holy Spirit in the life of believers post-resurrection.
-    - Gaffin, Richard B. *Perspectives on Pentecost: New Testament Teaching on the Gifts of the Holy Spirit*.
-      - Why: Gaffin explores the implications of the Spirit's role in the early church following Jesus' ascension.
+    - Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit*. Downers Grove: InterVarsity Press, 1996.
+      - Why: Pinnock explores the theological implications of the Holy Spirit's role in the New Testament.
+    - Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul*. Peabody: Hendrickson Publishers, 1994.
+      - Why: Fee discusses the empowering role of the Holy Spirit in the life of believers.
 
