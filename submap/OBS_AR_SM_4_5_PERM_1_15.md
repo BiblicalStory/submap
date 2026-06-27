@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-06-27 23:09 UTC_  
+_Generated: 2026-06-27 23:36 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_SM_4_5_PERM_1_15]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness and the ultimate fulfillment of His promises through the Davidic King, who is portrayed as a figure of hope for Israel amidst their struggles. The Psalter explores themes such as lovingkindness, righteousness, and the significance of Zion, while also addressing the tension between David's sinful nature and his role as king. The structure of the Psalms reflects a journey from despair to hope, culminating in the expectation of a new Exodus led by God Himself, rather than relying solely on human kings. This literary argument underscores the enduring nature of God's covenant and the anticipation of a future restoration for His people.
+The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness and the anticipated fulfillment of His promises through the Davidic line. Despite Israel's failures and the collapse of the Davidic kingdom, the Psalter maintains hope in God's lovingkindness and the future arrival of a King-Priest from the order of Melchizedek. Key themes include the significance of Zion as God's dwelling place, the nature of righteousness as dependent on divine forgiveness, and the expectation of a new Exodus led by God Himself. The structure of the Psalms reflects a progression from David's personal struggles to the collective crisis of Israel, ultimately culminating in the promise of restoration and the reign of the ideal Davidic King.
 
 ## Suggested Core Reference
 - Kaiser, Walter C. Jr. *The Promise-Plan of God: A Biblical Theology of the Old and New Testaments*.
-  - Why: This work provides a comprehensive overview of God's covenantal promises and their fulfillment, making it a foundational text for understanding the theological themes present in the Psalms.
+  - Why: Kaiser's work provides a comprehensive overview of the covenantal themes that underpin the entire biblical narrative, including the Psalms.
 
 ## Distinctives & Top Support
 
-1. The Psalter emphasizes God's covenant faithfulness as a foundation for Israel's hope.
+1. The Psalter emphasizes God's covenant faithfulness as the foundation for Israel's hope.
 
     - Kaiser, Walter C. Jr. *Toward an Old Testament Theology*.
-      - Why: Kaiser's work discusses the significance of covenant in the Old Testament, particularly in relation to God's faithfulness.
+      - Why: Kaiser discusses the importance of covenant theology in understanding the Old Testament, including the Psalms.
     - Waltke, Bruce K. *An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach*.
-      - Why: Waltke explores the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.
+      - Why: Waltke provides insights into the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.
 
-2. The Psalms portray the Davidic King as central to God's redemptive plan.
+2. Zion serves as the earthly representation of God's eternal kingdom.
 
-    - Baldwin, Joyce G. *The Message of Psalms 1-72*.
-      - Why: Baldwin discusses the role of the Davidic King in the context of the Psalms.
-    - Goldingay, John. *Psalms Volume 1: Psalms 1-41*.
-      - Why: Goldingay's commentary highlights the significance of the Davidic King in the Psalms.
+    - Brenner, Athalya. *The Israelite Woman: Social Role and Literary Type in Biblical Narrative*.
+      - Why: Brenner explores the significance of Zion in the context of Israel's identity and theology.
+    - Goldingay, John. *Psalms 1-41*.
+      - Why: Goldingay discusses the role of Zion in the Psalms and its theological implications.
 
-3. Zion serves as a symbol of God's enduring purposes and future restoration.
+3. Righteousness in the Psalter is portrayed as a result of God's forgiveness rather than human perfection.
 
-    - Brueggemann, Walter. *The Message of the Psalms: A Theological Introduction*.
-      - Why: Brueggemann discusses the role of Zion in the Psalms and its implications for Israel's hope.
-    - Mays, James L. *Psalms*.
-      - Why: Mays examines the theological significance of Zion in the Psalms.
+    - Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5*.
+      - Why: Hays discusses the theme of righteousness as it relates to faith and forgiveness in biblical texts.
+    - Tremper Longman III. *Psalms: An Introduction and Commentary*.
+      - Why: Longman provides an analysis of the concept of righteousness in the Psalms.
 
-4. The Psalms articulate a theology of forgiveness and dependence on God.
+4. The expectation of a future Davidic King is central to the Psalter's narrative.
 
-    - Kidner, Derek. *Psalms 1-72*.
-      - Why: Kidner's commentary emphasizes the themes of forgiveness and reliance on God in the Psalms.
-    - Tate, Marvin E. *Psalms 51-100*.
-      - Why: Tate explores the themes of sin, forgiveness, and dependence on God in the latter Psalms.
+    - Bockmuehl, Markus. *This Jesus: Martyr, Lord, Messiah*.
+      - Why: Bockmuehl examines the messianic expectations rooted in the Davidic covenant.
+    - Wright, N.T. *Jesus and the Victory of God*.
+      - Why: Wright discusses the implications of the Davidic lineage for understanding Jesus' identity and mission.
 
