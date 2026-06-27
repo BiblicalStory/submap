@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-06-27 21:03 UTC_  
+_Generated: 2026-06-27 23:10 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - Reference: [[DEVREF_OBS_R_CF_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The work by S. Baylis and GPT-5 presents a narrative framework for the Book of Acts, emphasizing the role of the apostles in spreading the gospel to Gentiles following the resurrection of Jesus. It outlines a progression from the promise of the Spirit at Pentecost to the establishment of a new Temple community, highlighting conflicts with Jewish leaders and the eventual acceptance of the gospel by Gentiles. The narrative culminates in Paul's journey to Rome, symbolizing the unhindered spread of the gospel and the fulfillment of Old Testament prophecies regarding Israel's blindness and the inclusion of the Gentiles.
+The work by S. Baylis and GPT-5 presents a narrative framework for the Book of Acts, emphasizing the role of the apostles in bringing Gentiles into the new Temple community through the power of the Spirit. It outlines a progression from the promise of Jesus to the apostles, through conflicts with Jewish leaders, to the eventual acceptance of the gospel by Gentiles despite Jewish rejection. The narrative culminates in Paul's journey to Rome, where he preaches unhindered, symbolizing the triumph of the new Temple among the nations. The text highlights the theological implications of these events, particularly the fulfillment of Old Testament prophecies and the significance of grace over law.
 
 ## Suggested Core Reference
-- Witherington, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
-  - Why: This commentary provides a comprehensive socio-rhetorical analysis of Acts, addressing key themes such as the inclusion of Gentiles and the role of the apostles.
+- Bock, Darrell L. *Acts.* Grand Rapids: Baker Academic, 2007.
+  - Why: This work is a comprehensive and authoritative commentary on Acts, addressing key themes such as the role of the Spirit and the inclusion of Gentiles.
 
 ## Distinctives & Top Support
 
-1. The apostles' ministry is depicted as a fulfillment of Old Testament prophecies, particularly concerning the inclusion of Gentiles.
+1. The apostles' ministry is characterized by the power of the Spirit and the fulfillment of Old Testament prophecies.
 
-    - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* InterVarsity Press, 1990.
-      - Why: Stott explores the theological significance of the Acts narrative, including the role of the Spirit in the mission to Gentiles.
+    - Peterson, Eugene H. *The Message of Acts.* Downers Grove, IL: InterVarsity Press, 2009.
+      - Why: Peterson explores the theological significance of the apostles' ministry and the role of the Spirit.
+    - Bock, Darrell L. *Acts.* Grand Rapids: Baker Academic, 2007.
+      - Why: Bock discusses the fulfillment of Old Testament prophecies in the context of the Book of Acts.
+
+2. The narrative structure of Acts reflects a conflict between Jewish leaders and the apostles over the inclusion of Gentiles.
+
+    - Witherington, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Grand Rapids: Eerdmans, 1998.
+      - Why: Witherington analyzes the socio-rhetorical aspects of the conflicts presented in Acts.
+    - Schnabel, Eckhard J. *Acts.* Grand Rapids: Zondervan, 2012.
+      - Why: Schnabel provides insights into the conflicts and their implications for the early church.
+
+3. Paul's journey to Rome symbolizes the unhindered spread of the gospel among the nations.
+
+    - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* Downers Grove, IL: InterVarsity Press, 1990.
+      - Why: Stott discusses the implications of Paul's journey and the global mission of the church.
     - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
-      - Why: This work discusses the implications of Paul's mission in light of Jewish and Gentile relations.
+      - Why: Horsley examines the political and social dimensions of Paul's mission in the context of the Roman Empire.
 
-2. The narrative framework emphasizes the reversal of Babel through Pentecost.
+4. The concept of grace is emphasized as the means of salvation, contrasting with the law.
 
-    - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-      - Why: Bock provides a detailed commentary on Acts, including the significance of Pentecost as a reversal of Babel.
-    - Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.* Eerdmans, 2005.
-      - Why: Hays discusses the significance of Pentecost in the context of biblical narrative and its implications for unity.
-
-3. Paul's identity as a Jew from Tarsus is presented as ironic in the context of his mission to the Gentiles.
-
-    - Longenecker, Richard N. *The Acts of the Apostles.* Eerdmans, 1995.
-      - Why: Longenecker discusses the cultural and historical context of Paul's identity and mission.
-    - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.
-      - Why: Fitzmyer analyzes Paul's background and its implications for his mission.
-
-4. The concept of the 'sign of Jonah' is pivotal in understanding the rejection of the Jewish leaders and the acceptance of Gentiles.
-
-    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.* Baker Academic, 2002.
-      - Why: Bock explores the significance of the 'sign of Jonah' in the context of Jesus' ministry and its implications for Acts.
-    - Nolland, John. *Luke 1-9:20.* Word Books, 1989.
-      - Why: Nolland discusses the theological implications of the 'sign of Jonah' in the Gospel of Luke.
+    - N.T. Wright. *Justification: God's Plan and Paul's Vision.* Downers Grove, IL: IVP Academic, 2009.
+      - Why: Wright discusses the theological implications of grace in the context of Paul's writings.
+    - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* New York: Doubleday, 1998.
+      - Why: Fitzmyer provides a detailed commentary on the theme of grace in Acts.
 
