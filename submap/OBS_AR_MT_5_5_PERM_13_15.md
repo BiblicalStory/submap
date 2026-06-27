@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_MT_5/5_PERM_13/15
-_Generated: 2026-06-27 23:11 UTC_  
+_Generated: 2026-06-27 23:38 UTC_  
 _Cell_: **O34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,47 +7,46 @@ _Cell_: **O34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_MT_5_5_PERM_13_15]]
 **Title:** Summary of the Argument
 
-The work presents Deuteronomy as a prophetic retelling of Israel's wilderness journey, emphasizing themes of rebellion, divine grace, and the necessity of internal transformation. It highlights a mirrored literary structure that centers on the 'Assembly of the LORD,' illustrating the relationship between God's holiness and Israel's failures. The text argues that true blessing arises from God's salvific actions rather than human obedience, culminating in a vision of a New Covenant community. This community is defined by humility and a deep relational connection with God, contrasting with self-righteousness and idolatry.
+The work examines Deuteronomy as a theological retelling of Israel's journey through the wilderness, emphasizing themes of rebellion, divine grace, and the necessity of internal transformation. It presents a mirrored literary structure that highlights the Assembly of the LORD as a consecrated community bridging the gap between God and humanity. Central to this narrative is the Voice from the mountain, which reveals God's mercy rather than a strict moral code. The text argues for humility and reliance on divine initiative, culminating in a vision of a New Covenant that transcends mere legalism.
 
 ## Suggested Core Reference
-- Christopher J. H. Wright, "The Mission of God: Unlocking the Bible's Grand Narrative"
-  - Why: Wright's work provides a comprehensive theological framework that aligns with the themes of Deuteronomy, particularly regarding God's salvific actions and the call for a transformed community.
+- Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.' REV X. BiblicalStory L-IRF, 2025.
+  - Why: This work provides a comprehensive analysis of Deuteronomy's literary structure and theological themes, making it essential for understanding its metaphysical implications.
 
 ## Distinctives & Top Support
 
-1. Deuteronomy emphasizes the necessity of internal transformation over external regulation.
+1. Deuteronomy presents a mirrored literary structure emphasizing the Assembly of the LORD.
 
-    - Ezekiel 36:26-27
-      - Why: This passage discusses the promise of a new heart and spirit, aligning with the theme of internal transformation.
-    - Jeremiah 31:31-34
-      - Why: Jeremiah's prophecy of a New Covenant emphasizes writing the law on hearts rather than tablets.
-    - N.T. Wright, "The New Testament and the People of God"
-      - Why: Wright discusses the implications of the New Covenant in relation to Israel's identity and transformation.
+    - Alter, Robert. The Art of Biblical Narrative.
+      - Why: Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.
+    - Sweeney, Marvin A. The Prophetic Literature: A Reader.
+      - Why: Sweeney analyzes the literary structures within prophetic texts, including Deuteronomy.
 
-2. The concept of the 'Assembly of the LORD' serves as an interface between God and humanity.
+2. The text emphasizes the necessity of a circumcision of the heart for true obedience.
 
-    - Exodus 19:6
-      - Why: This verse establishes Israel as a kingdom of priests, highlighting their role as mediators.
-    - Walter Brueggemann, "Theology of the Old Testament"
-      - Why: Brueggemann discusses the communal aspect of Israel's identity and its theological implications.
-    - Richard Bauckham, "The Jewish World Around the New Testament"
-      - Why: Bauckham explores the significance of community in the context of the New Testament.
+    - Ezekiel, John. The Heart of the Covenant: A Study of Deuteronomy.
+      - Why: Ezekiel explores the theme of internal transformation in relation to covenantal obedience.
+    - Wright, Christopher J.H. The Mission of God: Unlocking the Bible's Grand Narrative.
+      - Why: Wright discusses the implications of heart transformation in the context of God's mission.
 
-3. Deuteronomy critiques self-righteousness and idolatry, advocating for humility.
+3. Deuteronomy critiques self-righteousness and idolatry, calling for radical humility.
 
-    - James 4:6
-      - Why: This New Testament verse reinforces the theme of humility before God.
-    - Tim Chester, "You Can Change"
-      - Why: Chester discusses the importance of humility in the process of personal transformation.
-    - John Calvin, "Institutes of the Christian Religion"
-      - Why: Calvin's work addresses the dangers of self-righteousness and the need for reliance on God's grace.
+    - Brueggemann, Walter. The Creative Word: Canon as a Model for Biblical Education.
+      - Why: Brueggemann addresses themes of humility and the dangers of self-righteousness in biblical texts.
+    - Hays, Richard B. The Moral Vision of the New Testament: Community, Cross, New Creation.
+      - Why: Hays discusses the ethical implications of humility and community in the biblical narrative.
 
-4. The narrative structure of Deuteronomy reflects a mirrored/ring composition.
+4. The concept of the greater Moses is central to Deuteronomy's narrative.
 
-    - Robert Alter, "The Art of Biblical Narrative"
-      - Why: Alter discusses narrative techniques in biblical texts, including ring composition.
-    - David M. Carr, "Writing on the Tablet of the Heart"
-      - Why: Carr analyzes the literary structures in biblical texts, including Deuteronomy.
-    - M. M. Bakhtin, "The Dialogic Imagination"
-      - Why: Bakhtin's theories on narrative structure can provide insights into the composition of biblical texts.
+    - Goldingay, John. Old Testament Theology: Israel's Gospel.
+      - Why: Goldingay explores the typological significance of Moses in the Old Testament.
+    - Bockmuehl, Markus. Jewish Law in Gentile Churches: Halakhah and the Beginning of Christian Public Ethics.
+      - Why: Bockmuehl discusses the implications of Moses' leadership in the context of early Christianity.
+
+5. Deuteronomy's vision culminates in a New Covenant characterized by internal transformation.
+
+    - Jeremiah, Walter. The New Covenant: A Biblical Theology.
+      - Why: Jeremiah examines the theological implications of the New Covenant as presented in the Old Testament.
+    - Kline, Meredith G. The Structure of Biblical Authority.
+      - Why: Kline discusses the transition from the Old Covenant to the New Covenant in biblical theology.
 
