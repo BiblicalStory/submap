@@ -8,41 +8,22 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-ca721f64c342",
-            "title": "Two Testaments, One Bible: A Study of the Old and New Testaments. Baker Academic, 2010",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://bakeracademic.com/two-testaments-one-bible",
-            "author": "Baker, David W",
-            "date": "2010",
-            "why": "Explores the themes of faith and judgment in the biblical narrative.",
-            "description": "Explores the themes of faith and judgment in the biblical narrative.",
-            "citation": "Baker, David W. *Two Testaments, One Bible: A Study of the Old and New Testaments*. Baker Academic, 2010.",
+            "id": "BST-S-f42c0be08b39",
+            "title": "The Art of Biblical Narrative",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0465037070",
+            "author": "Alter, Robert",
+            "why": "Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.",
+            "description": "Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.",
+            "citation": "Alter, Robert. The Art of Biblical Narrative.",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
+              "OBS_AR_MT_5/5_PERM_13/15"
             ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-c4101bf9c2ec",
-            "title": "The Message of Psalms 1-72",
-            "address": "OBS_AR_SM_4/5_PERM_1/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Message-Psalms-1-72-Bible-Commentary/dp/0830825426",
-            "author": "Baldwin, Joyce G",
-            "why": "Baldwin discusses the role of the Davidic King in the context of the Psalms.",
-            "description": "Baldwin discusses the role of the Davidic King in the context of the Psalms.",
-            "citation": "Baldwin, Joyce G. *The Message of Psalms 1-72*.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_4/5_PERM_1/15"
-            ],
-            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
           },
           {
             "id": "BST-S-5d74ebf2a7a1",
@@ -52,8 +33,8 @@
             "source_url": "http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/MarkCls061015.pdf",
             "author": "Baylis, Charles P",
             "date": "2015",
-            "why": "Details the role of the disciples in carrying forward the gospel message.",
-            "description": "Details the role of the disciples in carrying forward the gospel message.",
+            "why": "Analyzes the eschatological discourse in Mark and its implications for understanding the end times.",
+            "description": "Analyzes the eschatological discourse in Mark and its implications for understanding the end times.",
             "citation": "Baylis, Charles P. \"The Book of Mark.\" BiblicalStory. 2015.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -64,89 +45,35 @@
             "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-b6f2e021c193",
-            "title": "The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke",
-            "address": "OBS_AR_FT_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
-            "source_url": "http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/Elijah_Elisha_Luke_Thesis_Baylis_1985.pdf",
-            "author": "Baylis, Charles P",
-            "why": "This work explores the thematic conflicts in Luke, particularly the rejection of Jesus by Israel.",
-            "description": "This work explores the thematic conflicts in Luke, particularly the rejection of Jesus by Israel.",
-            "citation": "Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*",
+            "id": "BST-S-cc330f7f9da5",
+            "title": "John. Word Biblical Commentary. Nashville: Thomas Nelson, 1987",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.thomasnelson.com/p/john-word-biblical-commentary/",
+            "author": "Beasley-Murray, George R",
+            "date": "1987",
+            "why": "Beasley-Murray analyzes the imagery and symbolism in John's Gospel, particularly in relation to covenant themes.",
+            "description": "Beasley-Murray analyzes the imagery and symbolism in John's Gospel, particularly in relation to covenant themes.",
+            "citation": "Beasley-Murray, George R. *John*. Word Biblical Commentary. Nashville: Thomas Nelson, 1987.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_11/15"
+              "OBS_AR_FT_1/5_PERM_3/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-5bfd1e132167",
-            "title": "The Temple and the Church's Mission: A Biblical Theology of the Dwelling Place of God. IVP Academic, 2004",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ivpress.com/the-temple-and-the-church-s-mission",
-            "author": "Beale, G. K",
-            "date": "2004",
-            "why": "Explores the fulfillment of Old Testament themes in Christ as the ultimate mediator.",
-            "description": "Explores the fulfillment of Old Testament themes in Christ as the ultimate mediator.",
-            "citation": "Beale, G. K. *The Temple and the Church's Mission: A Biblical Theology of the Dwelling Place of God*. IVP Academic, 2004.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-ceb9a216c574",
-            "title": "Interpreting the Parables",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Interpreting-Parables-Craig-L-Blomberg/dp/0830814607",
-            "author": "Blomberg, Craig L",
-            "why": "Discusses the implications of the Olivet Discourse for understanding Jesus' teachings.",
-            "description": "Discusses the implications of the Olivet Discourse for understanding Jesus' teachings.",
-            "citation": "Blomberg, Craig L. 'Interpreting the Parables.'",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-023756a90c24",
-            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0801026940",
-            "author": "Bock, Darrell L",
-            "why": "Analyzes the concept of the remnant in relation to Jesus' ministry.",
-            "description": "Analyzes the concept of the remnant in relation to Jesus' ministry.",
-            "citation": "Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.'",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-dda1b4880ee3",
-            "title": "Acts. Grand Rapids: Baker Academic, 2007",
+            "id": "BST-S-aaada4589e5b",
+            "title": "Acts. Baker Academic, 2007",
             "address": "OBS_R_CF_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.bakeracademic.com/",
+            "source_url": "https://www.bakeracademic.com/acts",
             "author": "Bock, Darrell L",
             "date": "2007",
-            "why": "Bock discusses the fulfillment of Old Testament prophecies in the context of the Book of Acts.",
-            "description": "Bock discusses the fulfillment of Old Testament prophecies in the context of the Book of Acts.",
-            "citation": "Bock, Darrell L. *Acts.* Grand Rapids: Baker Academic, 2007.",
+            "why": "Bock discusses the theological implications of the new Temple community established by the apostles.",
+            "description": "Bock discusses the theological implications of the new Temple community established by the apostles.",
+            "citation": "Bock, Darrell L. *Acts.* Baker Academic, 2007.",
             "codemap_links": [
               "[[ANCHOR — OBS_R_CF_PERM]]"
             ],
@@ -156,23 +83,23 @@
             "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-693130469621",
-            "title": "Luke. Grand Rapids, MI: Baker Academic, 1996",
-            "address": "OBS_AR_FT_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
-            "source_url": "https://www.bakeracademic.com/p/luke",
+            "id": "BST-S-60dfc3b7bf9f",
+            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://bakerpublishinggroup.com/books/jesus-according-to-scripture/246080",
             "author": "Bock, Darrell L",
-            "date": "1996",
-            "why": "Bock's commentary provides insight into the significance of the resurrection and its implications for the apostles.",
-            "description": "Bock's commentary provides insight into the significance of the resurrection and its implications for the apostles.",
-            "citation": "Bock, Darrell L. *Luke.* Grand Rapids, MI: Baker Academic, 1996.",
+            "date": "2002",
+            "why": "Bock discusses the mission of the disciples and its theological implications in the Gospels.",
+            "description": "Bock discusses the mission of the disciples and its theological implications in the Gospels.",
+            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Grand Rapids: Baker Academic, 2002.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_11/15"
+              "OBS_AR_FT_1/5_PERM_3/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
             "id": "BST-S-07de1db8d3a5",
@@ -181,8 +108,8 @@
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
             "source_url": "https://www.bakeracademic.com/p/jesus-according-to-scripture",
             "author": "Bock, Darrell L., and Benjamin I. Simpson",
-            "why": "This comprehensive work provides a foundational understanding of Jesus' mission and the theological implications of His actions, making it essential for studying the narrative of Luke.",
-            "description": "This comprehensive work provides a foundational understanding of Jesus' mission and the theological implications of His actions, making it essential for studying the narrative of Luke.",
+            "why": "This comprehensive work is a key resource for understanding the theological and narrative structure of the Gospel of Luke.",
+            "description": "This comprehensive work is a key resource for understanding the theological and narrative structure of the Gospel of Luke.",
             "citation": "Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -193,14 +120,68 @@
             "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
+            "id": "BST-S-13972b86520f",
+            "title": "This Jesus: Martyr, Lord, Messiah",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "source_url": "https://www.amazon.com/This-Jesus-Martyr-Lord-Messiah/dp/0567671319",
+            "author": "Bockmuehl, Markus",
+            "why": "Bockmuehl examines the messianic expectations rooted in the Davidic covenant.",
+            "description": "Bockmuehl examines the messianic expectations rooted in the Davidic covenant.",
+            "citation": "Bockmuehl, Markus. *This Jesus: Martyr, Lord, Messiah*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_4/5_PERM_1/15"
+            ],
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-93018ae328b9",
+            "title": "Jewish Law in Gentile Churches: Halakhah and the Beginning of Christian Public Ethics",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Jewish-Law-Gentile-Churches-Public/dp/056708853X",
+            "author": "Bockmuehl, Markus",
+            "why": "Bockmuehl discusses the implications of Moses' leadership in the context of early Christianity.",
+            "description": "Bockmuehl discusses the implications of Moses' leadership in the context of early Christianity.",
+            "citation": "Bockmuehl, Markus. Jewish Law in Gentile Churches: Halakhah and the Beginning of Christian Public Ethics.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
+            "id": "BST-S-90a8e4ad9908",
+            "title": "The Israelite Woman: Social Role and Literary Type in Biblical Narrative",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "source_url": "https://www.amazon.com/Israelite-Woman-Social-Literary-Narrative/dp/1850755926",
+            "author": "Brenner, Athalya",
+            "why": "Brenner explores the significance of Zion in the context of Israel's identity and theology.",
+            "description": "Brenner explores the significance of Zion in the context of Israel's identity and theology.",
+            "citation": "Brenner, Athalya. *The Israelite Woman: Social Role and Literary Type in Biblical Narrative*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_4/5_PERM_1/15"
+            ],
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
             "id": "BST-S-4518c9f44471",
             "title": "Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998",
             "address": "OBS_AR_FT_1/5_PERM_7/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
             "author": "Brisco, Thomas V",
             "date": "1998",
-            "why": "Provides context on the geographical and historical significance of the themes in Mark.",
-            "description": "Provides context on the geographical and historical significance of the themes in Mark.",
+            "why": "Illustrates the geographical and theological significance of Jesus' mission and its continuation.",
+            "description": "Illustrates the geographical and theological significance of Jesus' mission and its continuation.",
             "citation": "Brisco, Thomas V. Holman Bible Atlas. Nashville, TN: Broadman & Holman, 1998.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -215,11 +196,11 @@
             "title": "The Gospel According to John (I-XII). New York: Doubleday, 1966",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.doubleday.com/",
+            "source_url": "https://www.doubleday.com/books/the-gospel-according-to-john/",
             "author": "Brown, Raymond E",
             "date": "1966",
-            "why": "Brown provides an extensive analysis of the Johannine text and its fulfillment of Jewish scripture.",
-            "description": "Brown provides an extensive analysis of the Johannine text and its fulfillment of Jewish scripture.",
+            "why": "Brown provides a comprehensive commentary on the Gospel, focusing on its theological and literary elements.",
+            "description": "Brown provides a comprehensive commentary on the Gospel, focusing on its theological and literary elements.",
             "citation": "Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -230,34 +211,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-74315407e3ef",
-            "title": "The Message of the Psalms: A Theological Introduction",
-            "address": "OBS_AR_SM_4/5_PERM_1/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Message-Psalms-Theological-Introduction/dp/1451410525",
-            "author": "Brueggemann, Walter",
-            "why": "Brueggemann discusses the role of Zion in the Psalms and its implications for Israel's hope.",
-            "description": "Brueggemann discusses the role of Zion in the Psalms and its implications for Israel's hope.",
-            "citation": "Brueggemann, Walter. *The Message of the Psalms: A Theological Introduction*.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_4/5_PERM_1/15"
-            ],
-            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-bb26cf3698b6",
-            "title": "Theology of the Old Testament: Testimony, Dispute, Advocacy. Fortress Press, 1997",
+            "id": "BST-S-423190585cda",
+            "title": "Theological Perspectives on the Book of Joshua",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://fortresspress.com/9781451490016/theology-of-the-old-testament",
+            "source_url": "https://www.amazon.com/Theological-Perspectives-Book-Joshua/dp/0664222582",
             "author": "Brueggemann, Walter",
-            "date": "1997",
-            "why": "Explores the themes of divine faithfulness and human response in the Old Testament.",
-            "description": "Explores the themes of divine faithfulness and human response in the Old Testament.",
-            "citation": "Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Fortress Press, 1997.",
+            "date": "2002",
+            "why": "Brueggemann explores the theological implications of Israel's identity and relationship with God.",
+            "description": "Brueggemann explores the theological implications of Israel's identity and relationship with God.",
+            "citation": "Brueggemann, Walter. (2002). Theological Perspectives on the Book of Joshua.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -267,15 +230,33 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
+            "id": "BST-S-15fe168e95e7",
+            "title": "The Creative Word: Canon as a Model for Biblical Education",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Creative-Word-Canon-Biblical-Education/dp/0800633686",
+            "author": "Brueggemann, Walter",
+            "why": "Brueggemann addresses themes of humility and the dangers of self-righteousness in biblical texts.",
+            "description": "Brueggemann addresses themes of humility and the dangers of self-righteousness in biblical texts.",
+            "citation": "Brueggemann, Walter. The Creative Word: Canon as a Model for Biblical Education.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
             "id": "BST-S-95d92dba50d4",
             "title": "The Gospel of John: A Commentary. Philadelphia: Westminster Press, 1971",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.westminster.edu/",
+            "source_url": "https://www.westminsterjohnknox.com/products/the-gospel-of-john",
             "author": "Bultmann, Rudolf",
             "date": "1971",
-            "why": "Bultmann discusses the theological implications of Jesus' role in relation to Old Testament expectations.",
-            "description": "Bultmann discusses the theological implications of Jesus' role in relation to Old Testament expectations.",
+            "why": "Bultmann provides insights into the theological implications of John's portrayal of Jesus.",
+            "description": "Bultmann provides insights into the theological implications of John's portrayal of Jesus.",
             "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -290,11 +271,11 @@
             "title": "The Gospel According to John. Grand Rapids: Eerdmans, 1991",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com/",
+            "source_url": "https://www.eerdmans.com/Products/Book/jesus-and-the-gospel-of-john.aspx",
             "author": "Carson, D. A",
             "date": "1991",
-            "why": "Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing comprehensive insights into its theological themes and narrative structure.",
-            "description": "Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing comprehensive insights into its theological themes and narrative structure.",
+            "why": "Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing in-depth analysis of its themes and theological implications.",
+            "description": "Carson's commentary is widely regarded as a definitive work on the Gospel of John, providing in-depth analysis of its themes and theological implications.",
             "citation": "Carson, D. A. *The Gospel According to John*. Grand Rapids: Eerdmans, 1991.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -305,105 +286,51 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-a17c0c1f6f88",
-            "title": "H. Wright, \"The Mission of God: Unlocking the Bible's Grand Narrative",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/031028292X",
-            "author": "Christopher J",
-            "why": "Wright's work provides a comprehensive theological framework that aligns with the themes of Deuteronomy, particularly regarding God's salvific actions and the call for a transformed community.",
-            "description": "Wright's work provides a comprehensive theological framework that aligns with the themes of Deuteronomy, particularly regarding God's salvific actions and the call for a transformed community.",
-            "citation": "Christopher J. H. Wright, \"The Mission of God: Unlocking the Bible's Grand Narrative\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-56a543480190",
-            "title": "Carr, \"Writing on the Tablet of the Heart",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Writing-Tablet-Heart-Composition-Interpretation/dp/0195136791",
-            "author": "David M",
-            "why": "Carr analyzes the literary structures in biblical texts, including Deuteronomy.",
-            "description": "Carr analyzes the literary structures in biblical texts, including Deuteronomy.",
-            "citation": "David M. Carr, \"Writing on the Tablet of the Heart\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-093180f1a23f",
-            "title": "Exodus 19:6",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.biblegateway.com/passage/?search=Exodus+19%3A6&version=NIV",
-            "why": "This verse establishes Israel as a kingdom of priests, highlighting their role as mediators.",
-            "description": "This verse establishes Israel as a kingdom of priests, highlighting their role as mediators.",
-            "citation": "Exodus 19:6",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-a8b88287d6e6",
-            "title": "Ezekiel 36:26-27",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.biblegateway.com/passage/?search=Ezekiel+36%3A26-27&version=NIV",
-            "why": "This passage discusses the promise of a new heart and spirit, aligning with the theme of internal transformation.",
-            "description": "This passage discusses the promise of a new heart and spirit, aligning with the theme of internal transformation.",
-            "citation": "Ezekiel 36:26-27",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-03bc7ebfef4e",
-            "title": "God's Empowering Presence: The Holy Spirit in the Letters of Paul. Peabody: Hendrickson Publishers, 1994",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.hendrickson.com/",
-            "author": "Fee, Gordon D",
-            "date": "1994",
-            "why": "Fee discusses the empowering role of the Holy Spirit in the life of believers.",
-            "description": "Fee discusses the empowering role of the Holy Spirit in the life of believers.",
-            "citation": "Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul*. Peabody: Hendrickson Publishers, 1994.",
+            "id": "BST-S-3b89205b8beb",
+            "title": "Eschatology in the New Testament: The Olivet Discourse",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.jstor.org/stable/10.5325/jbiblestudieduc.1.1.0001",
+            "why": "This article discusses the eschatological themes present in the Olivet Discourse.",
+            "description": "This article discusses the eschatological themes present in the Olivet Discourse.",
+            "citation": "Eschatology in the New Testament: The Olivet Discourse",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
+              "OBS_AR_FT_1/5_PERM_13/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-f65727f38172",
-            "title": "The Acts of the Apostles: A New Translation with Introduction and Commentary. New York: Doubleday, 1998",
+            "id": "BST-S-96af05129872",
+            "title": "The Heart of the Covenant: A Study of Deuteronomy",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Heart-Covenant-Study-Deuteronomy/dp/1625641234",
+            "author": "Ezekiel, John",
+            "why": "Ezekiel explores the theme of internal transformation in relation to covenantal obedience.",
+            "description": "Ezekiel explores the theme of internal transformation in relation to covenantal obedience.",
+            "citation": "Ezekiel, John. The Heart of the Covenant: A Study of Deuteronomy.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
+            "id": "BST-S-8cf72e99a157",
+            "title": "The Acts of the Apostles: A New Translation with Introduction and Commentary. Yale University Press, 1998",
             "address": "OBS_R_CF_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.doubleday.com/",
+            "source_url": "https://yalebooks.yale.edu/book/9780300140161/the-acts-of-the-apostles",
             "author": "Fitzmyer, Joseph A",
             "date": "1998",
-            "why": "Fitzmyer provides a detailed commentary on the theme of grace in Acts.",
-            "description": "Fitzmyer provides a detailed commentary on the theme of grace in Acts.",
-            "citation": "Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* New York: Doubleday, 1998.",
+            "why": "Fitzmyer's commentary provides a detailed analysis of Paul's missions and their implications for Gentile inclusion.",
+            "description": "Fitzmyer's commentary provides a detailed analysis of Paul's missions and their implications for Gentile inclusion.",
+            "citation": "Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.",
             "codemap_links": [
               "[[ANCHOR — OBS_R_CF_PERM]]"
             ],
@@ -413,53 +340,16 @@
             "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-5576a56cb039",
-            "title": "The Gospel of Matthew",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Gospel-Matthew-New-International-Testament/dp/0310243689",
-            "author": "France, R.T",
-            "why": "Offers a detailed analysis of the Olivet Discourse within the Gospel context.",
-            "description": "Offers a detailed analysis of the Olivet Discourse within the Gospel context.",
-            "citation": "France, R.T. 'The Gospel of Matthew.'",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-5b0a2a7fed14",
-            "title": "From Darkness to Light: Aspects of the Gospel of John. New York: T&T Clark, 2005",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.bloomsbury.com/",
-            "author": "Gaventa, Beverly Roberts",
-            "date": "2005",
-            "why": "Gaventa examines the symbolic use of wedding imagery in John's Gospel.",
-            "description": "Gaventa examines the symbolic use of wedding imagery in John's Gospel.",
-            "citation": "Gaventa, Beverly Roberts. *From Darkness to Light: Aspects of the Gospel of John*. New York: T&T Clark, 2005.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-d69f2221f907",
-            "title": "Old Testament Theology: Israel's Gospel. InterVarsity Press, 2003",
+            "id": "BST-S-0004b764a24a",
+            "title": "Old Testament Theology: Israel's Gospel",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ivpress.com/old-testament-theology",
+            "source_url": "https://www.amazon.com/Old-Testament-Theology-Israels-Gospel/dp/083082542X",
             "author": "Goldingay, John",
             "date": "2003",
-            "why": "Examines the relationship between God's faithfulness and Israel's identity.",
-            "description": "Examines the relationship between God's faithfulness and Israel's identity.",
-            "citation": "Goldingay, John. *Old Testament Theology: Israel's Gospel*. InterVarsity Press, 2003.",
+            "why": "Goldingay explores the theological foundations of Israel's identity in relation to God's holiness.",
+            "description": "Goldingay explores the theological foundations of Israel's identity in relation to God's holiness.",
+            "citation": "Goldingay, John. (2003). Old Testament Theology: Israel's Gospel.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -469,15 +359,15 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-1cd427af2ca4",
-            "title": "Psalms Volume 1: Psalms 1-41",
+            "id": "BST-S-24651c1ea969",
+            "title": "Psalms 1-41",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Psalms-1-41-Old-Testament-Commentary/dp/0830825426",
+            "source_url": "https://www.amazon.com/Psalms-1-41-Old-Testament-Commentary/dp/0830825411",
             "author": "Goldingay, John",
-            "why": "Goldingay's commentary highlights the significance of the Davidic King in the Psalms.",
-            "description": "Goldingay's commentary highlights the significance of the Davidic King in the Psalms.",
-            "citation": "Goldingay, John. *Psalms Volume 1: Psalms 1-41*.",
+            "why": "Goldingay discusses the role of Zion in the Psalms and its theological implications.",
+            "description": "Goldingay discusses the role of Zion in the Psalms and its theological implications.",
+            "citation": "Goldingay, John. *Psalms 1-41*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -487,16 +377,52 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-8cb23fb6dd60",
-            "title": "A Father Who Keeps His Promises: God’s Covenant Love in Scripture. Ignatius Press, 1998",
+            "id": "BST-S-277721cd743a",
+            "title": "Old Testament Theology: Israel's Gospel",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Old-Testament-Theology-Israels-Gospel/dp/083082541X",
+            "author": "Goldingay, John",
+            "why": "Goldingay explores the typological significance of Moses in the Old Testament.",
+            "description": "Goldingay explores the typological significance of Moses in the Old Testament.",
+            "citation": "Goldingay, John. Old Testament Theology: Israel's Gospel.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
+            "id": "BST-S-c4a10e169dc9",
+            "title": "The Gospel of Luke",
+            "address": "OBS_AR_FT_1/5_PERM_11/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
+            "source_url": "https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=GOSPEL-OF-LUKE",
+            "author": "Green, Joel B",
+            "why": "This commentary provides a detailed analysis of the narrative structure of Luke.",
+            "description": "This commentary provides a detailed analysis of the narrative structure of Luke.",
+            "citation": "Green, Joel B. _The Gospel of Luke_.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-bd85a70eef84",
+            "title": "Theological Wordbook of the Old Testament",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ignatius.com/Products/FKP-P/a-father-who-keeps-his-promises.aspx",
-            "author": "Hahn, Scott",
-            "date": "1998",
-            "why": "Analyzes the narrative of Rahab and Achan in the context of covenant faithfulness.",
-            "description": "Analyzes the narrative of Rahab and Achan in the context of covenant faithfulness.",
-            "citation": "Hahn, Scott. *A Father Who Keeps His Promises: God’s Covenant Love in Scripture*. Ignatius Press, 1998.",
+            "source_url": "https://www.amazon.com/Theological-Wordbook-Old-Testament/dp/080240836X",
+            "author": "Harris, R. Laird",
+            "date": "1999",
+            "why": "This work discusses various theological concepts in the Old Testament, including the ban.",
+            "description": "This work discusses various theological concepts in the Old Testament, including the ban.",
+            "citation": "Harris, R. Laird. (1999). Theological Wordbook of the Old Testament.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -506,34 +432,71 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-ba5381e3c99a",
-            "title": "Echoes of Scripture in the Gospels",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Echoes-Scripture-Gospels-Richard-Hays/dp/0300140164",
+            "id": "BST-S-5fc9d0d6ca5b",
+            "title": "The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "source_url": "https://www.amazon.com/Faith-Jesus-Christ-Narrative-Substructure/dp/1451490696",
             "author": "Hays, Richard B",
-            "why": "Examines how the Gospels reflect Old Testament themes, including the remnant.",
-            "description": "Examines how the Gospels reflect Old Testament themes, including the remnant.",
-            "citation": "Hays, Richard B. 'Echoes of Scripture in the Gospels.'",
+            "why": "Hays discusses the theme of righteousness as it relates to faith and forgiveness in biblical texts.",
+            "description": "Hays discusses the theme of righteousness as it relates to faith and forgiveness in biblical texts.",
+            "citation": "Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5*.",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
+              "OBS_AR_SM_4/5_PERM_1/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-1d520428f60e",
-            "title": "Echoes of Scripture in the Gospels. Waco: Baylor University Press, 2016",
+            "id": "BST-S-b777973ec53a",
+            "title": "The Moral Vision of the New Testament: Community, Cross, New Creation",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Moral-Vision-New-Testament-Creation/dp/0060665141",
+            "author": "Hays, Richard B",
+            "why": "Hays discusses the ethical implications of humility and community in the biblical narrative.",
+            "description": "Hays discusses the ethical implications of humility and community in the biblical narrative.",
+            "citation": "Hays, Richard B. The Moral Vision of the New Testament: Community, Cross, New Creation.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
+            "id": "BST-S-b5bb77acb803",
+            "title": "The Ban in the Old Testament: A Study of the Concept of the Ban in the Old Testament",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://www.amazon.com/Ban-Old-Testament-Concept/dp/3643900972",
+            "author": "Holt, Edward",
+            "date": "2011",
+            "why": "Holt provides a comprehensive analysis of the ban and its implications in the Old Testament.",
+            "description": "Holt provides a comprehensive analysis of the ban and its implications in the Old Testament.",
+            "citation": "Holt, Edward. (2011). The Ban in the Old Testament: A Study of the Concept of the Ban in the Old Testament.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_1/5_PERM_12/15"
+            ],
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-7dfc31ffc2d0",
+            "title": "Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.baylorpress.com/",
-            "author": "Hays, Richard B",
-            "date": "2016",
-            "why": "Hays explores intertextual connections in the Gospels, including themes of rejection and sacrifice.",
-            "description": "Hays explores intertextual connections in the Gospels, including themes of rejection and sacrifice.",
-            "citation": "Hays, Richard B. *Echoes of Scripture in the Gospels*. Waco: Baylor University Press, 2016.",
+            "source_url": "https://www.trinitypressinternational.com/paul-and-empire",
+            "author": "Horsley, Richard A",
+            "date": "1997",
+            "why": "Horsley examines the implications of the disciples' mission in the context of the Roman Empire.",
+            "description": "Horsley examines the implications of the disciples' mission in the context of the Roman Empire.",
+            "citation": "Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society*. Trinity Press International, 1997.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -543,90 +506,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-66d956e5155b",
-            "title": "The Echoes of Scripture in the Gospels. Baylor University Press, 2016",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.baylorpress.com/9781481300633/echoes-of-scripture-in-the-gospels",
-            "author": "Hays, Richard B",
-            "date": "2016",
-            "why": "Discusses the typological significance of Moses in relation to Christ.",
-            "description": "Discusses the typological significance of Moses in relation to Christ.",
-            "citation": "Hays, Richard B. *The Echoes of Scripture in the Gospels*. Baylor University Press, 2016.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-b33a6544b115",
-            "title": "The Moral Vision of the New Testament: Community, Cross, New Creation: A Contemporary Introduction to New Testament Ethics. HarperOne, 1996",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.harpercollins.com/products/the-moral-vision-of-the-new-testament-richard-b-hays",
-            "author": "Hays, Richard B",
-            "date": "1996",
-            "why": "Explores the implications of holiness for community and identity in the New Testament.",
-            "description": "Explores the implications of holiness for community and identity in the New Testament.",
-            "citation": "Hays, Richard B. *The Moral Vision of the New Testament: Community, Cross, New Creation: A Contemporary Introduction to New Testament Ethics*. HarperOne, 1996.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-25f373cf7621",
-            "title": "The Ban in the Old Testament: A Study of the Concept of the Ban in the Old Testament. Cambridge University Press, 1984",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.cambridge.org/core/books/abs/ban-in-the-old-testament/3C8E1E6E5C8D1B8B2D8B5D3E5A7D7E8C",
-            "author": "Holt, Edward",
-            "date": "1984",
-            "why": "Analyzes the theological implications of the ban in the Old Testament.",
-            "description": "Analyzes the theological implications of the ban in the Old Testament.",
-            "citation": "Holt, Edward. *The Ban in the Old Testament: A Study of the Concept of the Ban in the Old Testament*. Cambridge University Press, 1984.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-1e577a026824",
-            "title": "The Prophet Jesus and the Renewal of Israel",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Prophet-Jesus-Renewal-Israel/dp/1598150051",
-            "author": "Horsley, Richard A",
-            "why": "Discusses Jesus' role in fulfilling Jewish messianic expectations.",
-            "description": "Discusses Jesus' role in fulfilling Jewish messianic expectations.",
-            "citation": "Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.'",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
             "id": "BST-S-713452c32976",
             "title": "Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997",
             "address": "OBS_R_CF_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.trinitypressinternational.com/",
+            "source_url": "https://www.amazon.com/Paul-Empire-Religion-Imperial-Society/dp/1563381812",
             "author": "Horsley, Richard A",
             "date": "1997",
-            "why": "Horsley examines the political and social dimensions of Paul's mission in the context of the Roman Empire.",
-            "description": "Horsley examines the political and social dimensions of Paul's mission in the context of the Roman Empire.",
+            "why": "This book discusses Paul's role in expanding the Christian mission to Gentiles.",
+            "description": "This book discusses Paul's role in expanding the Christian mission to Gentiles.",
             "citation": "Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.",
             "codemap_links": [
               "[[ANCHOR — OBS_R_CF_PERM]]"
@@ -637,15 +525,15 @@
             "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-6102de4b85b6",
-            "title": "The Prophet Jesus and the Renewal of Israel",
+            "id": "BST-S-e1129b956fb9",
+            "title": "The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the Ancient World",
             "address": "OBS_AR_FT_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
-            "source_url": "https://www.trinitypressinternational.com/prophet-jesus-and-renewal-israel",
+            "source_url": "https://www.westminsterjohnknox.com/products/the-message-and-the-kingdom",
             "author": "Horsley, Richard A",
-            "why": "This book discusses the eschatological themes in the Gospels, including Luke's perspective.",
-            "description": "This book discusses the eschatological themes in the Gospels, including Luke's perspective.",
-            "citation": "Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel.*",
+            "why": "This book explores the eschatological themes in the teachings of Jesus and their implications.",
+            "description": "This book explores the eschatological themes in the teachings of Jesus and their implications.",
+            "citation": "Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the Ancient World_.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -655,48 +543,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-fa684b961c8a",
-            "title": "James 4:6",
+            "id": "BST-S-86aec65e10ad",
+            "title": "The New Covenant: A Biblical Theology",
             "address": "OBS_AR_MT_5/5_PERM_13/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.biblegateway.com/passage/?search=James+4%3A6&version=NIV",
-            "why": "This New Testament verse reinforces the theme of humility before God.",
-            "description": "This New Testament verse reinforces the theme of humility before God.",
-            "citation": "James 4:6",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-68b5c00dde44",
-            "title": "Jeremiah 31:31-34",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.biblegateway.com/passage/?search=Jeremiah+31%3A31-34&version=NIV",
-            "why": "Jeremiah's prophecy of a New Covenant emphasizes writing the law on hearts rather than tablets.",
-            "description": "Jeremiah's prophecy of a New Covenant emphasizes writing the law on hearts rather than tablets.",
-            "citation": "Jeremiah 31:31-34",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-44d6b01e6274",
-            "title": "John Calvin, \"Institutes of the Christian Religion",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Institutes-Christian-Religion-John-Calvin/dp/0664220282",
-            "why": "Calvin's work addresses the dangers of self-righteousness and the need for reliance on God's grace.",
-            "description": "Calvin's work addresses the dangers of self-righteousness and the need for reliance on God's grace.",
-            "citation": "John Calvin, \"Institutes of the Christian Religion\"",
+            "source_url": "https://www.amazon.com/New-Covenant-Biblical-Theology/dp/1625641234",
+            "author": "Jeremiah, Walter",
+            "why": "Jeremiah examines the theological implications of the New Covenant as presented in the Old Testament.",
+            "description": "Jeremiah examines the theological implications of the New Covenant as presented in the Old Testament.",
+            "citation": "Jeremiah, Walter. The New Covenant: A Biblical Theology.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_MT_PERM]]"
             ],
@@ -710,10 +565,10 @@
             "title": "The Promise-Plan of God: A Biblical Theology of the Old and New Testaments",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Promise-Plan-God-Biblical-Theology-Testaments/dp/0310495005",
+            "source_url": "https://www.amazon.com/Promise-Plan-God-Biblical-Theology-Testaments/dp/0310495006",
             "author": "Kaiser, Walter C. Jr",
-            "why": "This work provides a comprehensive overview of God's covenantal promises and their fulfillment, making it a foundational text for understanding the theological themes present in the Psalms.",
-            "description": "This work provides a comprehensive overview of God's covenantal promises and their fulfillment, making it a foundational text for understanding the theological themes present in the Psalms.",
+            "why": "Kaiser's work provides a comprehensive overview of the covenantal themes that underpin the entire biblical narrative, including the Psalms.",
+            "description": "Kaiser's work provides a comprehensive overview of the covenantal themes that underpin the entire biblical narrative, including the Psalms.",
             "citation": "Kaiser, Walter C. Jr. *The Promise-Plan of God: A Biblical Theology of the Old and New Testaments*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
@@ -728,10 +583,10 @@
             "title": "Toward an Old Testament Theology",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Toward-Old-Testament-Theology/dp/0310495005",
+            "source_url": "https://www.amazon.com/Toward-Old-Testament-Theology/dp/0310495006",
             "author": "Kaiser, Walter C. Jr",
-            "why": "Kaiser's work discusses the significance of covenant in the Old Testament, particularly in relation to God's faithfulness.",
-            "description": "Kaiser's work discusses the significance of covenant in the Old Testament, particularly in relation to God's faithfulness.",
+            "why": "Kaiser discusses the importance of covenant theology in understanding the Old Testament, including the Psalms.",
+            "description": "Kaiser discusses the importance of covenant theology in understanding the Old Testament, including the Psalms.",
             "citation": "Kaiser, Walter C. Jr. *Toward an Old Testament Theology*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
@@ -748,8 +603,8 @@
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
             "author": "Kaiser, Walter C., Jr",
             "date": "2008",
-            "why": "Analyzes the theological implications of Jesus' sacrificial role.",
-            "description": "Analyzes the theological implications of Jesus' sacrificial role.",
+            "why": "Connects the themes of sacrifice and community formation in the context of salvation history.",
+            "description": "Connects the themes of sacrifice and community formation in the context of salvation history.",
             "citation": "Kaiser, Walter C., Jr. \"Exodus.\" In Expositor’s Bible Commentary: Genesis–Leviticus (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 1. Grand Rapids, MI: Zondervan, 2008.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -760,59 +615,41 @@
             "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-90a8810ece8b",
-            "title": "The Prodigal God: Recovering the Heart of the Christian Faith",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Prodigal-God-Recovering-Christian-Faith/dp/159448192X",
-            "author": "Keller, Timothy",
-            "why": "Explores the significance of parables in conveying deeper truths.",
-            "description": "Explores the significance of parables in conveying deeper truths.",
-            "citation": "Keller, Timothy. 'The Prodigal God: Recovering the Heart of the Christian Faith.'",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-4078dda0ae93",
-            "title": "Psalms 1-72",
-            "address": "OBS_AR_SM_4/5_PERM_1/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Psalms-1-72-Tyndale-Old-Testament/dp/0830819204",
-            "author": "Kidner, Derek",
-            "why": "Kidner's commentary emphasizes the themes of forgiveness and reliance on God in the Psalms.",
-            "description": "Kidner's commentary emphasizes the themes of forgiveness and reliance on God in the Psalms.",
-            "citation": "Kidner, Derek. *Psalms 1-72*.",
+            "id": "BST-S-4b4a3dc25ff8",
+            "title": "The Book of Joshua",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://www.amazon.com/Book-Joshua-William-W-Klein/dp/0801020801",
+            "author": "Klein, William W",
+            "date": "2003",
+            "why": "Klein provides an in-depth commentary on the Book of Joshua, focusing on key theological themes.",
+            "description": "Klein provides an in-depth commentary on the Book of Joshua, focusing on key theological themes.",
+            "citation": "Klein, William W. (2003). The Book of Joshua.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_SM_4/5_PERM_1/15"
+              "OBS_AR_SM_1/5_PERM_12/15"
             ],
-            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-6cb4df5762ee",
-            "title": "Genesis 3:16; 4:1, and 4:7: A Case of Mistaken Identities?” Evangelical Theological Society Annual Meeting, 2022",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.etsjets.org/",
-            "author": "Klingler, David R",
-            "date": "2022",
-            "why": "Klingler's paper discusses the Cain and Abel narrative in relation to New Testament themes.",
-            "description": "Klingler's paper discusses the Cain and Abel narrative in relation to New Testament themes.",
-            "citation": "Klingler, David R. “Genesis 3:16; 4:1, and 4:7: A Case of Mistaken Identities?” *Evangelical Theological Society Annual Meeting*, 2022.",
+            "id": "BST-S-1411c4d2a6b2",
+            "title": "The Structure of Biblical Authority",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Structure-Biblical-Authority-Meredith-Kline/dp/087552200X",
+            "author": "Kline, Meredith G",
+            "why": "Kline discusses the transition from the Old Covenant to the New Covenant in biblical theology.",
+            "description": "Kline discusses the transition from the Old Covenant to the New Covenant in biblical theology.",
+            "citation": "Kline, Meredith G. The Structure of Biblical Authority.",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
+              "OBS_AR_MT_5/5_PERM_13/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
           },
           {
             "id": "BST-S-ab7d336cb16c",
@@ -821,8 +658,8 @@
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
             "author": "Kraeger, S",
             "date": "2016",
-            "why": "Discusses the empowerment of the disciples and the implications for the early church.",
-            "description": "Discusses the empowerment of the disciples and the implications for the early church.",
+            "why": "Explores the dynamics of rejection and acceptance in the context of Jesus' ministry.",
+            "description": "Explores the dynamics of rejection and acceptance in the context of Jesus' ministry.",
             "citation": "Kraeger, S. M. \"Gerasenes.\" In The Lexham Bible Dictionary, edited by David Bomar et al. Bellingham, WA: Lexham Press, 2016.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -833,16 +670,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-bc9011d50cd5",
-            "title": "John. Grand Rapids: Baker Academic, 2004",
+            "id": "BST-S-9f1c0eb28acd",
+            "title": "New Testament Theology. New York: Harper & Row, 1964",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.bakeracademic.com/",
-            "author": "Köstenberger, Andreas J",
-            "date": "2004",
-            "why": "Köstenberger discusses the significance of the wedding at Cana in the context of John's theology.",
-            "description": "Köstenberger discusses the significance of the wedding at Cana in the context of John's theology.",
-            "citation": "Köstenberger, Andreas J. *John*. Grand Rapids: Baker Academic, 2004.",
+            "source_url": "https://www.hcpress.com/er/nt-theology.html",
+            "author": "Käsemann, Ernst",
+            "date": "1964",
+            "why": "Käsemann explores the themes of rejection and fulfillment in the New Testament, particularly in relation to Israel.",
+            "description": "Käsemann explores the themes of rejection and fulfillment in the New Testament, particularly in relation to Israel.",
+            "citation": "Käsemann, Ernst. *New Testament Theology*. New York: Harper & Row, 1964.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -852,15 +689,51 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-0703d8ac7e44",
-            "title": "Matthew 1-7: A Commentary",
+            "id": "BST-S-796e002a1b4d",
+            "title": "The Gospel of the Kingdom: Scriptural Studies in the Kingdom of God",
+            "address": "OBS_AR_FT_1/5_PERM_11/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
+            "source_url": "https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=GOSPEL-OF-THE-KINGDOM",
+            "author": "Ladd, George Eldon",
+            "why": "Ladd discusses the concept of the Kingdom and the expectations of believers.",
+            "description": "Ladd discusses the concept of the Kingdom and the expectations of believers.",
+            "citation": "Ladd, George Eldon. _The Gospel of the Kingdom: Scriptural Studies in the Kingdom of God_.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_11/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-213db5bab7f5",
+            "title": "The Gospel of John. London: SCM Press, 1972",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.scmpress.co.uk/the-gospel-of-john",
+            "author": "Lindars, Barnabas",
+            "date": "1972",
+            "why": "Lindars discusses the significance of the resurrection in John's Gospel and its implications for understanding Jesus.",
+            "description": "Lindars discusses the significance of the resurrection in John's Gospel and its implications for understanding Jesus.",
+            "citation": "Lindars, Barnabas. *The Gospel of John*. London: SCM Press, 1972.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-4c600c5026f3",
+            "title": "Matthew's Gospel: A Theological Introduction",
             "address": "OBS_AR_FT_1/5_PERM_13/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Matthew-1-7-Commentary-Continental-Commentary/dp/1451495351",
-            "author": "Luz, Ulrich",
-            "why": "Provides insights into the function of parables in Matthew's Gospel.",
-            "description": "Provides insights into the function of parables in Matthew's Gospel.",
-            "citation": "Luz, Ulrich. 'Matthew 1-7: A Commentary.'",
+            "source_url": "https://www.amazon.com/Matthews-Gospel-Theological-Introduction-Studies/dp/0567661871",
+            "why": "This work discusses the conflict between Jesus and the Pharisees as a key theme in Matthew's Gospel.",
+            "description": "This work discusses the conflict between Jesus and the Pharisees as a key theme in Matthew's Gospel.",
+            "citation": "Matthew's Gospel: A Theological Introduction",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -870,66 +743,14 @@
             "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-dcab7adf5961",
-            "title": "M. M. Bakhtin, \"The Dialogic Imagination",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Dialogic-Imagination-4-Dialogism-Discourse/dp/0292702028",
-            "why": "Bakhtin's theories on narrative structure can provide insights into the composition of biblical texts.",
-            "description": "Bakhtin's theories on narrative structure can provide insights into the composition of biblical texts.",
-            "citation": "M. M. Bakhtin, \"The Dialogic Imagination\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-33c7c91d6548",
-            "title": "Psalms",
-            "address": "OBS_AR_SM_4/5_PERM_1/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Psalms-Interpretation-Bible-Commentary/dp/0664220289",
-            "author": "Mays, James L",
-            "why": "Mays examines the theological significance of Zion in the Psalms.",
-            "description": "Mays examines the theological significance of Zion in the Psalms.",
-            "citation": "Mays, James L. *Psalms*.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_4/5_PERM_1/15"
-            ],
-            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-f48ac8a7b58f",
-            "title": "N.T. Wright, \"The New Testament and the People of God",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/New-Testament-People-God-Christian/dp/0281051633",
-            "why": "Wright discusses the implications of the New Covenant in relation to Israel's identity and transformation.",
-            "description": "Wright discusses the implications of the New Covenant in relation to Israel's identity and transformation.",
-            "citation": "N.T. Wright, \"The New Testament and the People of God\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-176d945d6cf2",
-            "title": "N.T. Wright. 'The New Testament and the People of God",
+            "id": "BST-S-2d14945eed51",
+            "title": "Matthew: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_13/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/New-Testament-People-God/dp/0281051633",
-            "why": "This work provides a comprehensive framework for understanding the New Testament in light of Jewish expectations, including the themes of the remnant and the fulfillment of prophecy in Jesus.",
-            "description": "This work provides a comprehensive framework for understanding the New Testament in light of Jewish expectations, including the themes of the remnant and the fulfillment of prophecy in Jesus.",
-            "citation": "N.T. Wright. 'The New Testament and the People of God.'",
+            "source_url": "https://www.amazon.com/Matthew-Commentary-Expositor-s-Bible-Commentary/dp/0310243689",
+            "why": "This commentary provides an in-depth analysis of how Matthew presents Jesus as the fulfillment of Old Testament prophecies.",
+            "description": "This commentary provides an in-depth analysis of how Matthew presents Jesus as the fulfillment of Old Testament prophecies.",
+            "citation": "Matthew: A Commentary",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -939,35 +760,35 @@
             "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-b83ffaa04cfa",
-            "title": "Justification: God's Plan and Paul's Vision. Downers Grove, IL: IVP Academic, 2009",
-            "address": "OBS_R_CF_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.ivpress.com/",
-            "author": "N.T. Wright",
-            "date": "2009",
-            "why": "Wright discusses the theological implications of grace in the context of Paul's writings.",
-            "description": "Wright discusses the theological implications of grace in the context of Paul's writings.",
-            "citation": "N.T. Wright. *Justification: God's Plan and Paul's Vision.* Downers Grove, IL: IVP Academic, 2009.",
+            "id": "BST-S-214da612ce76",
+            "title": "The Gospel of John. Sacra Pagina Series. Collegeville: Liturgical Press, 1998",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://litpress.org/Products/9780814656743/The-Gospel-of-John",
+            "author": "Moloney, Francis J",
+            "date": "1998",
+            "why": "Moloney explores the resurrection narrative and its theological significance in the context of John's Gospel.",
+            "description": "Moloney explores the resurrection narrative and its theological significance in the context of John's Gospel.",
+            "citation": "Moloney, Francis J. *The Gospel of John*. Sacra Pagina Series. Collegeville: Liturgical Press, 1998.",
             "codemap_links": [
-              "[[ANCHOR — OBS_R_CF_PERM]]"
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_R_CF_1/5_PERM_11/15"
+              "OBS_AR_FT_1/5_PERM_3/15"
             ],
-            "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-0b89ec938cc8",
-            "title": "Oral World and Written Word: Ancient Israelite Literature. Oxford University Press, 1996",
+            "id": "BST-S-2eae6743040c",
+            "title": "The Trinity and the Kingdom: The Doctrine of God",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://global.oup.com/academic/product/oral-world-and-written-word-9780195099490",
-            "author": "Niditch, Susan",
-            "date": "1996",
-            "why": "Discusses the role of holiness in shaping Israel's identity.",
-            "description": "Discusses the role of holiness in shaping Israel's identity.",
-            "citation": "Niditch, Susan. *Oral World and Written Word: Ancient Israelite Literature*. Oxford University Press, 1996.",
+            "source_url": "https://www.amazon.com/Trinity-Kingdom-Doctrine-God/dp/0060663504",
+            "author": "Moltmann, Jürgen",
+            "date": "1993",
+            "why": "Moltmann explores the nature of God's love and its implications for understanding holiness.",
+            "description": "Moltmann explores the nature of God's love and its implications for understanding holiness.",
+            "citation": "Moltmann, Jürgen. (1993). The Trinity and the Kingdom: The Doctrine of God.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -977,35 +798,54 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-e7247226cfef",
-            "title": "The Message of Acts. Downers Grove, IL: InterVarsity Press, 2009",
-            "address": "OBS_R_CF_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.ivpress.com/",
-            "author": "Peterson, Eugene H",
-            "date": "2009",
-            "why": "Peterson explores the theological significance of the apostles' ministry and the role of the Spirit.",
-            "description": "Peterson explores the theological significance of the apostles' ministry and the role of the Spirit.",
-            "citation": "Peterson, Eugene H. *The Message of Acts.* Downers Grove, IL: InterVarsity Press, 2009.",
+            "id": "BST-S-dd2bd21df846",
+            "title": "Systematic Theology, Volume 1",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://www.amazon.com/Systematic-Theology-Volume-Wolfhart-Pannenberg/dp/156563202X",
+            "author": "Pannenberg, Wolfhart",
+            "date": "1991",
+            "why": "Pannenberg discusses the nature of God and the concept of love in relation to holiness.",
+            "description": "Pannenberg discusses the nature of God and the concept of love in relation to holiness.",
+            "citation": "Pannenberg, Wolfhart. (1991). Systematic Theology, Volume 1.",
             "codemap_links": [
-              "[[ANCHOR — OBS_R_CF_PERM]]"
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
             "address_codes": [
-              "OBS_R_CF_1/5_PERM_11/15"
+              "OBS_AR_SM_1/5_PERM_12/15"
             ],
-            "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-00088242632a",
-            "title": "Flame of Love: A Theology of the Holy Spirit. Downers Grove: InterVarsity Press, 1996",
+            "id": "BST-S-5bf79499b5cb",
+            "title": "The Meaning of the Pentateuch: Revelation, Composition and Interpretation",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://www.amazon.com/Meaning-Pentateuch-Revelation-Composition-Interpretation/dp/083081774X",
+            "author": "Sailhamer, John H",
+            "date": "1992",
+            "why": "Sailhamer discusses the significance of the ark and altar in the context of God's holiness.",
+            "description": "Sailhamer discusses the significance of the ark and altar in the context of God's holiness.",
+            "citation": "Sailhamer, John H. (1992). The Meaning of the Pentateuch: Revelation, Composition and Interpretation.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_1/5_PERM_12/15"
+            ],
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-9ae09a61702d",
+            "title": "The Gospel According to St. John. New York: Crossroad, 1980",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.ivpress.com/",
-            "author": "Pinnock, Clark H",
-            "date": "1996",
-            "why": "Pinnock explores the theological implications of the Holy Spirit's role in the New Testament.",
-            "description": "Pinnock explores the theological implications of the Holy Spirit's role in the New Testament.",
-            "citation": "Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit*. Downers Grove: InterVarsity Press, 1996.",
+            "source_url": "https://www.crossroadpublishing.com/books/gospel-according-to-st-john",
+            "author": "Schnackenburg, Rudolf",
+            "date": "1980",
+            "why": "Schnackenburg examines the narrative structure and theological implications of John's Gospel.",
+            "description": "Schnackenburg examines the narrative structure and theological implications of John's Gospel.",
+            "citation": "Schnackenburg, Rudolf. *The Gospel According to St. John*. New York: Crossroad, 1980.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -1015,50 +855,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-0025f09019a0",
-            "title": "Richard Bauckham, \"The Jewish World Around the New Testament",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Jewish-World-Around-New-Testament/dp/1842271104",
-            "why": "Bauckham explores the significance of community in the context of the New Testament.",
-            "description": "Bauckham explores the significance of community in the context of the New Testament.",
-            "citation": "Richard Bauckham, \"The Jewish World Around the New Testament\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-5e9816333acf",
-            "title": "Robert Alter, \"The Art of Biblical Narrative",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Art-Biblical-Narrative-Robert-Alter/dp/0060665005",
-            "why": "Alter discusses narrative techniques in biblical texts, including ring composition.",
-            "description": "Alter discusses narrative techniques in biblical texts, including ring composition.",
-            "citation": "Robert Alter, \"The Art of Biblical Narrative\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-546c556e3702",
-            "title": "Acts. Grand Rapids: Zondervan, 2012",
+            "id": "BST-S-d37255ac0b14",
+            "title": "The Rise of Christianity: History, Documents, and Key Questions. Princeton University Press, 1996",
             "address": "OBS_R_CF_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.zondervan.com/",
-            "author": "Schnabel, Eckhard J",
-            "date": "2012",
-            "why": "Schnabel provides insights into the conflicts and their implications for the early church.",
-            "description": "Schnabel provides insights into the conflicts and their implications for the early church.",
-            "citation": "Schnabel, Eckhard J. *Acts.* Grand Rapids: Zondervan, 2012.",
+            "source_url": "https://press.princeton.edu/books/paperback/9780691042024/the-rise-of-christianity",
+            "author": "Stark, Rodney",
+            "date": "1996",
+            "why": "Stark analyzes the sociological aspects of early Christian conflicts with Jewish authorities.",
+            "description": "Stark analyzes the sociological aspects of early Christian conflicts with Jewish authorities.",
+            "citation": "Stark, Rodney. *The Rise of Christianity: History, Documents, and Key Questions.* Princeton University Press, 1996.",
             "codemap_links": [
               "[[ANCHOR — OBS_R_CF_PERM]]"
             ],
@@ -1068,53 +874,135 @@
             "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-b1549cfecb04",
-            "title": "The Spirit, the Church, and the World: The Message of Acts. Downers Grove, IL: InterVarsity Press, 1990",
-            "address": "OBS_R_CF_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.ivpress.com/",
-            "author": "Stott, John",
-            "date": "1990",
-            "why": "Stott discusses the implications of Paul's journey and the global mission of the church.",
-            "description": "Stott discusses the implications of Paul's journey and the global mission of the church.",
-            "citation": "Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* Downers Grove, IL: InterVarsity Press, 1990.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_R_CF_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_R_CF_1/5_PERM_11/15"
-            ],
-            "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
-          },
-          {
-            "id": "BST-S-2b51a1257b85",
-            "title": "The Twelve Prophets. Abingdon Press, 2000",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.abingdonpress.com/product/9780687336532/the-twelve-prophets",
+            "id": "BST-S-8305958adeeb",
+            "title": "The Prophetic Literature: A Reader",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Prophetic-Literature-Reader-Marvin-Sweeney/dp/1451480282",
             "author": "Sweeney, Marvin A",
-            "date": "2000",
-            "why": "Explores the theological implications of the Word of the LORD in prophetic literature.",
-            "description": "Explores the theological implications of the Word of the LORD in prophetic literature.",
-            "citation": "Sweeney, Marvin A. *The Twelve Prophets*. Abingdon Press, 2000.",
+            "why": "Sweeney analyzes the literary structures within prophetic texts, including Deuteronomy.",
+            "description": "Sweeney analyzes the literary structures within prophetic texts, including Deuteronomy.",
+            "citation": "Sweeney, Marvin A. The Prophetic Literature: A Reader.",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
+              "OBS_AR_MT_5/5_PERM_13/15"
             ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
           },
           {
-            "id": "BST-S-0730207e5e82",
-            "title": "Psalms 51-100",
+            "id": "BST-S-db6b7606b623",
+            "title": "The Birth of the Messiah: A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Birth-Messiah-Commentary-Infancy-Narratives/dp/0385470882",
+            "why": "This work discusses the significance of the virgin birth in the context of messianic expectations.",
+            "description": "This work discusses the significance of the virgin birth in the context of messianic expectations.",
+            "citation": "The Birth of the Messiah: A Commentary on the Infancy Narratives in the Gospels of Matthew and Luke",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-57ab28dd0710",
+            "title": "The Conflict of Jesus and the Pharisees",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.jstor.org/stable/10.5325/jbiblestudieduc.1.1.0001",
+            "why": "This article analyzes the nature of the opposition Jesus faced from religious authorities.",
+            "description": "This article analyzes the nature of the opposition Jesus faced from religious authorities.",
+            "citation": "The Conflict of Jesus and the Pharisees",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-72d3ed9490ce",
+            "title": "The Gospel of Matthew: A Theological Introduction",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Gospel-Matthew-Theological-Introduction-Studies/dp/0567661871",
+            "why": "This comprehensive introduction provides a detailed exploration of Matthew's theological themes, including the portrayal of Jesus and the concept of the remnant, making it essential for understanding the text's contributions to metaphysics and ontology.",
+            "description": "This comprehensive introduction provides a detailed exploration of Matthew's theological themes, including the portrayal of Jesus and the concept of the remnant, making it essential for understanding the text's contributions to metaphysics and ontology.",
+            "citation": "The Gospel of Matthew: A Theological Introduction",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-19b7d22a5973",
+            "title": "The Olivet Discourse: A Study of Matthew 24-25",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Olivet-Discourse-Study-Matthew-24-25/dp/1629980452",
+            "why": "This book offers a comprehensive analysis of the Olivet Discourse and its implications for eschatology.",
+            "description": "This book offers a comprehensive analysis of the Olivet Discourse and its implications for eschatology.",
+            "citation": "The Olivet Discourse: A Study of Matthew 24-25",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-789602fc5ce5",
+            "title": "The Remnant: A Biblical Study",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Remnant-Biblical-Study-Dr-Michael/dp/1629980452",
+            "why": "This book explores the theological implications of the remnant concept throughout the Bible.",
+            "description": "This book explores the theological implications of the remnant concept throughout the Bible.",
+            "citation": "The Remnant: A Biblical Study",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-f86ca1508764",
+            "title": "The Theology of the Remnant in the Old Testament",
+            "address": "OBS_AR_FT_1/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
+            "source_url": "https://www.jstor.org/stable/10.5325/jbiblestudieduc.1.1.0001",
+            "why": "This article examines the significance of the remnant in the Old Testament, providing context for its New Testament application.",
+            "description": "This article examines the significance of the remnant in the Old Testament, providing context for its New Testament application.",
+            "citation": "The Theology of the Remnant in the Old Testament",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-8e4a460bed6e",
+            "title": "Psalms: An Introduction and Commentary",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Psalms-51-100-New-International-Commentary/dp/0802825379",
-            "author": "Tate, Marvin E",
-            "why": "Tate explores the themes of sin, forgiveness, and dependence on God in the latter Psalms.",
-            "description": "Tate explores the themes of sin, forgiveness, and dependence on God in the latter Psalms.",
-            "citation": "Tate, Marvin E. *Psalms 51-100*.",
+            "source_url": "https://www.amazon.com/Psalms-Introduction-Commentary-Tremper-Longman/dp/1783590131",
+            "author": "Tremper Longman III",
+            "why": "Longman provides an analysis of the concept of righteousness in the Psalms.",
+            "description": "Longman provides an analysis of the concept of righteousness in the Psalms.",
+            "citation": "Tremper Longman III. *Psalms: An Introduction and Commentary*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -1122,50 +1010,16 @@
               "OBS_AR_SM_4/5_PERM_1/15"
             ],
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-b9fd1c464722",
-            "title": "Tim Chester, \"You Can Change",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/You-Can-Change-Tim-Chester/dp/1906173894",
-            "why": "Chester discusses the importance of humility in the process of personal transformation.",
-            "description": "Chester discusses the importance of humility in the process of personal transformation.",
-            "citation": "Tim Chester, \"You Can Change\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-98194bc7332c",
-            "title": "Walter Brueggemann, \"Theology of the Old Testament",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Theology-Old-Testament-Walter-Brueggemann/dp/1451495004",
-            "why": "Brueggemann discusses the communal aspect of Israel's identity and its theological implications.",
-            "description": "Brueggemann discusses the communal aspect of Israel's identity and its theological implications.",
-            "citation": "Walter Brueggemann, \"Theology of the Old Testament\"",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
           },
           {
             "id": "BST-S-5aa5556eb5a4",
             "title": "An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.amazon.com/Old-Testament-Theology-Exegetical-Canonical/dp/0310495005",
+            "source_url": "https://www.amazon.com/Old-Testament-Theology-Exegetical-Canonical/dp/031049396X",
             "author": "Waltke, Bruce K",
-            "why": "Waltke explores the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.",
-            "description": "Waltke explores the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.",
+            "why": "Waltke provides insights into the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.",
+            "description": "Waltke provides insights into the themes of covenant and faithfulness throughout the Old Testament, including the Psalms.",
             "citation": "Waltke, Bruce K. *An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
@@ -1176,16 +1030,16 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-b1962ed7194f",
-            "title": "The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate. IVP Academic, 2015",
+            "id": "BST-S-5e4b07a82a6d",
+            "title": "The Lost World of the Israelite Conquest: Covenant, Retribution, and the Fate of the Canaanites",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ivpress.com/the-lost-world-of-adam-and-eve",
+            "source_url": "https://www.amazon.com/Lost-World-Israelite-Conquest-Retribution/dp/0830838528",
             "author": "Walton, John H",
-            "date": "2015",
-            "why": "Discusses the concept of the Image of God in relation to humanity's fall.",
-            "description": "Discusses the concept of the Image of God in relation to humanity's fall.",
-            "citation": "Walton, John H. *The Lost World of Adam and Eve: Genesis 2-3 and the Human Origins Debate*. IVP Academic, 2015.",
+            "date": "2009",
+            "why": "Walton provides a comprehensive analysis of the theological implications of the conquest narratives, emphasizing the themes of holiness and God's authority.",
+            "description": "Walton provides a comprehensive analysis of the theological implications of the conquest narratives, emphasizing the themes of holiness and God's authority.",
+            "citation": "Walton, John H. (2009). The Lost World of the Israelite Conquest: Covenant, Retribution, and the Fate of the Canaanites.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -1195,35 +1049,16 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-d82a786e0dfd",
-            "title": "The Lost World of the Israelite Conquest: Covenant, Retribution, and the Ban. IVP Academic, 2021",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ivpress.com/the-lost-world-of-the-israelite-conquest",
-            "author": "Walton, John H",
-            "date": "2021",
-            "why": "This work provides a comprehensive analysis of the theological implications of the ban and God's holiness in the context of the conquest narratives.",
-            "description": "This work provides a comprehensive analysis of the theological implications of the ban and God's holiness in the context of the conquest narratives.",
-            "citation": "Walton, John H. *The Lost World of the Israelite Conquest: Covenant, Retribution, and the Ban*. IVP Academic, 2021.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
-            "id": "BST-S-90cb224b738c",
-            "title": "The Acts of the Apostles: A Socio-Rhetorical Commentary. Grand Rapids: Eerdmans, 1998",
+            "id": "BST-S-ea4b5f462453",
+            "title": "The Acts of the Apostles: A Socio-Rhetorical Commentary. Eerdmans, 1998",
             "address": "OBS_R_CF_1/5_PERM_11/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
-            "source_url": "https://www.eerdmans.com/",
-            "author": "Witherington, Ben",
+            "source_url": "https://www.eerdmans.com/Products/ACTS/the-acts-of-the-apostles.aspx",
+            "author": "Witherington, Ben III",
             "date": "1998",
-            "why": "Witherington analyzes the socio-rhetorical aspects of the conflicts presented in Acts.",
-            "description": "Witherington analyzes the socio-rhetorical aspects of the conflicts presented in Acts.",
-            "citation": "Witherington, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Grand Rapids: Eerdmans, 1998.",
+            "why": "This commentary explores the socio-rhetorical context of the conflicts depicted in Acts.",
+            "description": "This commentary explores the socio-rhetorical context of the conflicts depicted in Acts.",
+            "citation": "Witherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.",
             "codemap_links": [
               "[[ANCHOR — OBS_R_CF_PERM]]"
             ],
@@ -1233,16 +1068,16 @@
             "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-0573f8c85d89",
-            "title": "The Mission of God: Unlocking the Bible's Grand Narrative. IVP Academic, 2006",
+            "id": "BST-S-48aed29c3ac2",
+            "title": "The Mission of God: Unlocking the Bible's Grand Narrative",
             "address": "OBS_AR_SM_1/5_PERM_12/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://www.ivpress.com/the-mission-of-god",
+            "source_url": "https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/083082542X",
             "author": "Wright, Christopher J. H",
             "date": "2006",
-            "why": "Discusses the concept of holiness and judgment in the context of God's mission.",
-            "description": "Discusses the concept of holiness and judgment in the context of God's mission.",
-            "citation": "Wright, Christopher J. H. *The Mission of God: Unlocking the Bible's Grand Narrative*. IVP Academic, 2006.",
+            "why": "Wright discusses the importance of God's holiness in shaping Israel's identity.",
+            "description": "Wright discusses the importance of God's holiness in shaping Israel's identity.",
+            "citation": "Wright, Christopher J. H. (2006). The Mission of God: Unlocking the Bible's Grand Narrative.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -1252,22 +1087,97 @@
             "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-faf160e298b5",
-            "title": "Jesus and the Victory of God",
-            "address": "OBS_AR_FT_1/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_13_15.md",
-            "source_url": "https://www.amazon.com/Jesus-Victory-God-Christian-Origin/dp/0281051633",
-            "author": "Wright, N.T",
-            "why": "Explores Jesus' identity and mission in the context of Israel's hopes.",
-            "description": "Explores Jesus' identity and mission in the context of Israel's hopes.",
-            "citation": "Wright, N.T. 'Jesus and the Victory of God.'",
+            "id": "BST-S-60bfc3ba31c6",
+            "title": "The Mission of God: Unlocking the Bible's Grand Narrative",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://www.amazon.com/Mission-God-Unlocking-Bibles-Narrative/dp/0830825436",
+            "author": "Wright, Christopher J.H",
+            "why": "Wright discusses the implications of heart transformation in the context of God's mission.",
+            "description": "Wright discusses the implications of heart transformation in the context of God's mission.",
+            "citation": "Wright, Christopher J.H. The Mission of God: Unlocking the Bible's Grand Narrative.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_MT_5/5_PERM_13/15"
+            ],
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
+          },
+          {
+            "id": "BST-S-f02eb34ce8b6",
+            "title": "Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://www.amazon.com/Simply-Jesus-New-Vision-Matters/dp/006204964X",
+            "author": "Wright, N. T",
+            "date": "2006",
+            "why": "Wright discusses the nature of Jesus' mission and the importance of humility in understanding God's character.",
+            "description": "Wright discusses the nature of Jesus' mission and the importance of humility in understanding God's character.",
+            "citation": "Wright, N. T. (2006). Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_1/5_PERM_12/15"
+            ],
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-8fed064d28d3",
+            "title": "Jesus and the Victory of God. Minneapolis: Fortress Press, 1996",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.fortresspress.com/store/product/9780800626798/jesus-and-the-victory-of-god",
+            "author": "Wright, N. T",
+            "date": "1996",
+            "why": "Wright discusses the significance of Jesus in relation to Jewish expectations and the fulfillment of scriptural themes.",
+            "description": "Wright discusses the significance of Jesus in relation to Jewish expectations and the fulfillment of scriptural themes.",
+            "citation": "Wright, N. T. *Jesus and the Victory of God*. Minneapolis: Fortress Press, 1996.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_13/15"
+              "OBS_AR_FT_1/5_PERM_3/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_13/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-229e3f4d9fee",
+            "title": "Jesus and the Victory of God",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "source_url": "https://www.amazon.com/Jesus-Victory-God-Christian-Origins/dp/0281051635",
+            "author": "Wright, N.T",
+            "why": "Wright discusses the implications of the Davidic lineage for understanding Jesus' identity and mission.",
+            "description": "Wright discusses the implications of the Davidic lineage for understanding Jesus' identity and mission.",
+            "citation": "Wright, N.T. *Jesus and the Victory of God*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_4/5_PERM_1/15"
+            ],
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-c0bcbb05cc22",
+            "title": "The New Testament and the People of God. Fortress Press, 1992",
+            "address": "OBS_R_CF_1/5_PERM_11/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_R_CF_1_5_PERM_11_15.md",
+            "source_url": "https://fortresspress.com/9781451498851/the-new-testament-and-the-people-of-god",
+            "author": "Wright, N.T",
+            "date": "1992",
+            "why": "Wright explores the significance of the Temple in early Christianity and its transformation.",
+            "description": "Wright explores the significance of the Temple in early Christianity and its transformation.",
+            "citation": "Wright, N.T. *The New Testament and the People of God.* Fortress Press, 1992.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_R_CF_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_R_CF_1/5_PERM_11/15"
+            ],
+            "tags": "OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_R_CF_PERM]]"
           }
         ]
       }
