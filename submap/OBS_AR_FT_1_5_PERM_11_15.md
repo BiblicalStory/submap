@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_11/15
-_Generated: 2026-06-27 23:37 UTC_  
+_Generated: 2026-06-27 23:45 UTC_  
 _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,31 +7,39 @@ _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The work discusses the narrative framework of the Gospel of Luke, emphasizing Jesus' role as the savior who identifies with unworthy Israel to bring forgiveness through the New Covenant. It outlines key narrative elements, including the setting, conflict, rising action, climax, falling action, resolution, and denouement, while also addressing eschatological themes. The text presents a dual perspective on eschatology in Luke, highlighting both the immediacy of the Son of Man's return and the tribulation period, urging believers to maintain an expectation of imminent deliverance.
+The Argument of Luke presents a narrative framework where Jesus, as the ultimate Israelite, identifies with the unworthy to offer forgiveness through the New Covenant. The story unfolds through a series of conflicts, rising actions, and resolutions that highlight Israel's rejection of forgiveness and the apostles' empowerment to spread this message to all nations. Additionally, the text explores eschatological themes, emphasizing the immediacy of Jesus' return and the tribulation period, urging believers to maintain an expectation of deliverance and perseverance during challenging times.
 
 ## Suggested Core Reference
 - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-  - Why: This comprehensive work is a key resource for understanding the theological and narrative structure of the Gospel of Luke.
+  - Why: This book is a comprehensive resource that discusses the theological and narrative aspects of Jesus' identity and mission, making it foundational for understanding the themes presented in the Argument of Luke.
 
 ## Distinctives & Top Support
 
 1. Jesus identifies with unworthy Israel to bring forgiveness through the New Covenant.
 
     - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-      - Why: This work discusses the theological implications of Jesus' mission and the New Covenant.
+      - Why: This work discusses the theological implications of Jesus' mission and identity.
+    - Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*
+      - Why: This thesis explores the narrative purpose of Jesus' actions in relation to Israel.
 
-2. The narrative framework of Luke includes a clear setting, conflict, and resolution.
+2. The narrative framework includes a clear conflict between Jesus and the Pharisees.
 
-    - Green, Joel B. _The Gospel of Luke_.
-      - Why: This commentary provides a detailed analysis of the narrative structure of Luke.
+    - Bock, Darrell L. _Luke: 1:1–9:50_.
+      - Why: Bock provides an in-depth analysis of the conflicts presented in Luke's Gospel.
+    - Baylis, Samuel A. “The Argument of the Book of Mark.”
+      - Why: This work discusses similar conflicts in the Gospel of Mark, providing comparative insights.
 
-3. Luke presents eschatology through the lenses of immediacy and tribulation.
+3. Eschatology in Luke is presented through the immediacy of the Son of Man’s return and the tribulation period.
 
-    - Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the Ancient World_.
-      - Why: This book explores the eschatological themes in the teachings of Jesus and their implications.
+    - Bock, Darrell L. _Luke: 9:51–24:53_.
+      - Why: Bock elaborates on the eschatological themes found in the latter parts of Luke.
+    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke.*
+      - Why: This book discusses the implications of eschatology in the context of Jesus' birth narratives.
 
-4. The 'little flock' must live with imminent expectation during the inter-advent age.
+4. The apostles are empowered to proclaim forgiveness to all nations.
 
-    - Ladd, George Eldon. _The Gospel of the Kingdom: Scriptural Studies in the Kingdom of God_.
-      - Why: Ladd discusses the concept of the Kingdom and the expectations of believers.
+    - Wright, N.T. *Jesus and the Victory of God.*
+      - Why: Wright discusses the implications of Jesus' mission and the role of the apostles.
+    - Baylis, Samuel A. “Biblical Theology of Luke–Acts: The Very Present Help.”
+      - Why: This unpublished work addresses the theological implications of the apostles' mission.
 
