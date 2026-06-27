@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_13/15
-_Generated: 2026-06-19 23:06 UTC_  
+_Generated: 2026-06-27 21:04 UTC_  
 _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_13_15]]
 **Title:** (AIS) Argument of Matthew
 
-The Argument of Matthew presents a theological narrative centered on Jesus as the virgin-born King who comes to save Israel, emphasizing the preservation of a righteous remnant amidst national rejection. This remnant, depicted as the new ecclesia, is tasked with spreading the gospel to all nations until the King returns. The structure of the narrative unfolds through various discourses and parables that illustrate the themes of righteousness, the delay before the kingdom's arrival, and the ultimate triumph of Jesus as the Shepherd-King. The work connects Old Testament promises to the New Testament fulfillment, highlighting the significance of the remnant in God's salvific plan.
+The Argument of Matthew presents a theological interpretation of the Gospel of Matthew, emphasizing the role of Jesus as the virgin-born King who comes to save Israel and establish a new ecclesia. The narrative outlines the structure of Matthew, highlighting key elements such as the introduction of Jesus, the mission to Israel, the parables that instruct the remnant, and the climactic events leading to the resurrection. It underscores the significance of the remnant in carrying the gospel to all nations and the fulfillment of Old Testament prophecies regarding the Shepherd-King. The Olivet Discourse is particularly noted for its prophetic framework, guiding the apostles on readiness during the delay before the kingdom's arrival.
 
 ## Suggested Core Reference
-- France, R.T. 'The Gospel of Matthew.'
-  - Why: France's commentary is widely regarded as a definitive work on Matthew, providing thorough analysis and context for understanding its theological themes.
+- Keener, Craig S. 'The Gospel of Matthew: A Socio-Rhetorical Commentary.'
+  - Why: Keener's work is comprehensive, providing a socio-rhetorical analysis that highlights the theological themes and narrative structure of Matthew, making it a key resource for understanding the Argument of Matthew.
 
 ## Distinctives & Top Support
 
-1. Jesus is portrayed as the virgin-born King fulfilling Old Testament prophecies.
+1. Jesus is portrayed as the virgin-born King who fulfills Old Testament prophecies.
 
-    - Horsley, Richard A. 'The Prophet Jesus and the Renewal of Israel.'
-      - Why: This work discusses Jesus' role as a prophetic figure in the context of Israel's restoration.
-    - Nolland, John. 'The Gospel of Matthew: A Commentary on the Greek Text.'
-      - Why: Nolland provides an in-depth analysis of Matthew's portrayal of Jesus as the fulfillment of prophecy.
-
-2. The concept of a remnant is central to Matthew's narrative.
-
+    - Horsley, Richard A. 'The Liberation of Christmas: The Infancy Narratives in the Gospel of Matthew.'
+      - Why: This work discusses the significance of Jesus' virgin birth and its prophetic implications.
     - Bock, Darrell L. 'Jesus According to Scripture: Restoring the Portrait from the Gospels.'
-      - Why: Bock explores the theme of the remnant in the context of Jesus' mission and message.
-    - Wright, N.T. 'Jesus and the Victory of God.'
-      - Why: Wright discusses the significance of the remnant in Jesus' ministry and its implications for the kingdom of God.
+      - Why: Bock examines the fulfillment of Old Testament prophecies in the life of Jesus.
 
-3. Matthew's narrative emphasizes the delay before the kingdom's arrival.
+2. The remnant of Israel is central to the narrative, tasked with spreading the gospel.
 
-    - Horsley, Richard A. 'The Liberation of Christmas: The Infancy Narratives in Social Context.'
-      - Why: Horsley examines the implications of the delay in the context of Jesus' birth narratives.
-    - Guelich, Robert A. 'Mark 1-8:26.'
-      - Why: While focused on Mark, Guelich's insights on the delay and its theological implications are relevant for understanding Matthew.
+    - Bauckham, Richard. 'Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.'
+      - Why: Bauckham discusses the role of the disciples as witnesses and the remnant's mission.
+    - Nolland, John. 'The Gospel of Matthew: A Commentary on the Greek Text.'
+      - Why: Nolland provides insights into the role of the remnant in Matthew's narrative.
 
-4. The parables in Matthew serve to instruct the remnant during the delay period.
+3. The Olivet Discourse provides a prophetic framework for understanding the delay before the kingdom.
 
-    - Keller, Timothy. 'The Prodigal God: Recovering the Heart of the Christian Faith.'
-      - Why: Keller's exploration of parables highlights their instructional role in understanding God's kingdom.
-    - Blomberg, Craig L. 'Interpreting the Parables.'
-      - Why: Blomberg provides a comprehensive analysis of the parables and their significance in the context of the kingdom.
+    - France, R. T. 'The Gospel of Matthew.'
+      - Why: France offers a detailed analysis of the Olivet Discourse and its implications.
+    - Hagner, Donald A. 'Matthew 14-28.'
+      - Why: Hagner discusses the eschatological themes in the Olivet Discourse.
+
+4. Jesus' death and resurrection are framed as a new Exodus for Israel.
+
+    - Wright, N. T. 'Jesus and the Victory of God.'
+      - Why: Wright explores the concept of Jesus as the new Moses and the implications of the Exodus theme.
+    - Bock, Darrell L. 'A Theology of Luke and Acts: God’s Promised Program, Realized for All Nations.'
+      - Why: Bock discusses the theological significance of Jesus' death and resurrection in the context of Israel's story.
 
