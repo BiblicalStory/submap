@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_11/15
-_Generated: 2026-06-27 23:10 UTC_  
+_Generated: 2026-06-27 23:37 UTC_  
 _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,31 +7,31 @@ _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The argument presented in the unpublished work by S. Baylis and GPT-5 outlines the narrative framework of the Gospel of Luke, emphasizing Jesus' role as the savior who identifies with unworthy Israel to bring forgiveness to all nations. It highlights the conflict between Jesus and the prideful Israel, the training of His followers, and the eschatological themes of His imminent return and the tribulation period. The narrative culminates in the resurrection of Jesus, the empowerment of the apostles, and the proclamation of forgiveness, leading to the expectation of His return.
+The work discusses the narrative framework of the Gospel of Luke, emphasizing Jesus' role as the savior who identifies with unworthy Israel to bring forgiveness through the New Covenant. It outlines key narrative elements, including the setting, conflict, rising action, climax, falling action, resolution, and denouement, while also addressing eschatological themes. The text presents a dual perspective on eschatology in Luke, highlighting both the immediacy of the Son of Man's return and the tribulation period, urging believers to maintain an expectation of imminent deliverance.
 
 ## Suggested Core Reference
 - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-  - Why: This comprehensive work provides a foundational understanding of Jesus' mission and the theological implications of His actions, making it essential for studying the narrative of Luke.
+  - Why: This comprehensive work is a key resource for understanding the theological and narrative structure of the Gospel of Luke.
 
 ## Distinctives & Top Support
 
-1. Jesus identifies with unworthy Israel to bring forgiveness to all nations.
+1. Jesus identifies with unworthy Israel to bring forgiveness through the New Covenant.
 
     - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-      - Why: This work discusses the theological implications of Jesus' mission and His relationship with Israel.
+      - Why: This work discusses the theological implications of Jesus' mission and the New Covenant.
 
-2. The narrative framework of Luke emphasizes the conflict between Jesus and prideful Israel.
+2. The narrative framework of Luke includes a clear setting, conflict, and resolution.
 
-    - Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*
-      - Why: This work explores the thematic conflicts in Luke, particularly the rejection of Jesus by Israel.
+    - Green, Joel B. _The Gospel of Luke_.
+      - Why: This commentary provides a detailed analysis of the narrative structure of Luke.
 
-3. Jesus' resurrection opens Paradise and empowers the apostles.
+3. Luke presents eschatology through the lenses of immediacy and tribulation.
 
-    - Bock, Darrell L. *Luke.* Grand Rapids, MI: Baker Academic, 1996.
-      - Why: Bock's commentary provides insight into the significance of the resurrection and its implications for the apostles.
+    - Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the Ancient World_.
+      - Why: This book explores the eschatological themes in the teachings of Jesus and their implications.
 
-4. Luke presents eschatology through the immediacy of the Son of Man’s return and the tribulation period.
+4. The 'little flock' must live with imminent expectation during the inter-advent age.
 
-    - Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel.*
-      - Why: This book discusses the eschatological themes in the Gospels, including Luke's perspective.
+    - Ladd, George Eldon. _The Gospel of the Kingdom: Scriptural Studies in the Kingdom of God_.
+      - Why: Ladd discusses the concept of the Kingdom and the expectations of believers.
 
