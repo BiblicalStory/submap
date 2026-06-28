@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-06-27 23:44 UTC_  
+_Generated: 2026-06-28 01:17 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_SM_4_5_PERM_1_15]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the lens of the Davidic Covenant and the anticipated future King-Priest. It explores themes of righteousness, the significance of Zion, and the enduring hope for restoration despite Israel's failures. The Psalter articulates a tension between David's kingship and his sinfulness, ultimately pointing to a future descendant who will fulfill God's promises and lead a new Exodus. This narrative structure is developed across five books, each addressing different aspects of Israel's relationship with God and the expectation of divine intervention.
+The Book of Psalms presents a theological narrative centered on God's covenant faithfulness and the anticipated Davidic King, who will lead a new Exodus and establish God's eternal kingdom. Key themes include God's lovingkindness, the significance of Zion, and the nature of righteousness, which is portrayed as a gift from God rather than human achievement. The Psalter reflects on Israel's struggles, the collapse of the Davidic throne, and ultimately points toward hope in God's direct intervention and the coming of a future Messiah, fulfilling the promises made to David.
 
 ## Suggested Core Reference
-- Kaiser, Walter C. Jr. *The Old Testament in Contemporary Preaching*.
-  - Why: Kaiser provides a thorough examination of the theological themes in the Old Testament, including the Psalms, emphasizing covenant and God's faithfulness.
+- Brueggemann, Walter. 'The Book of Psalms: A Theological Introduction.'
+  - Why: Brueggemann provides a comprehensive theological framework for understanding the Psalms, including key themes such as covenant, righteousness, and the significance of Zion.
 
 ## Distinctives & Top Support
 
-1. The Psalter emphasizes God's covenant faithfulness through the concept of lovingkindness.
+1. The Psalter emphasizes God's lovingkindness as the foundation for Israel's hope and relationship with God.
 
-    - Kaiser, Walter C. Jr. *Toward an Old Testament Theology*.
-      - Why: Kaiser discusses the theme of covenant faithfulness throughout the Old Testament, including the Psalms.
-    - Waltke, Bruce K. *An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach*.
-      - Why: Waltke provides insights into the themes of covenant and lovingkindness in the Psalms.
+    - Kaiser, Walter C. Jr. 'The Promise-Plan of God: A Biblical Theology of the Old and New Testaments.'
+      - Why: Kaiser discusses the theme of God's covenant faithfulness throughout the biblical narrative.
+    - Waltke, Bruce K. 'An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach.'
+      - Why: Waltke explores the concept of lovingkindness in the context of Old Testament theology.
 
-2. Zion is portrayed as the earthly representation of God's eternal kingdom.
+2. Zion serves as the earthly representation of God's eternal kingdom and enduring purposes.
 
-    - Goldingay, John. *Psalms 1-41*.
-      - Why: Goldingay explores the significance of Zion in the context of the Psalms.
-    - Mays, James L. *Psalms*. The Interpretation Series.
-      - Why: Mays discusses the theological implications of Zion in the Psalter.
+    - Brueggemann, Walter. 'The Message of the Psalms: A Theological Introduction.'
+      - Why: Brueggemann discusses the theological implications of Zion in the Psalter.
+    - Goldingay, John. 'Psalms: Volume 1 (Psalms 1-41).'
+      - Why: Goldingay analyzes the significance of Zion in the Psalms.
 
-3. The Psalter develops a theology of righteousness that emphasizes God's forgiveness rather than human perfection.
+3. Righteousness is portrayed as a result of God's forgiveness rather than human merit.
 
-    - Brueggemann, Walter. *The Message of the Psalms: A Theological Introduction*.
-      - Why: Brueggemann discusses the nature of righteousness in the Psalms.
-    - Tate, Marvin E. *Psalms 51-100*. Word Biblical Commentary.
-      - Why: Tate analyzes the theme of righteousness and forgiveness in the Psalms.
+    - Hays, Richard B. 'The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5.'
+      - Why: Hays examines the theme of righteousness in the context of faith and grace.
+    - Moo, Douglas J. 'The Epistle to the Romans.'
+      - Why: Moo provides insights into the New Testament understanding of righteousness as a gift.
 
-4. The Davidic Covenant is central to the Psalter's narrative and theological framework.
+4. The Davidic Covenant is central to the Psalter's narrative, emphasizing the future hope in a coming King.
 
-    - Baker, Christopher W. *The Davidic Covenant: A Theological and Historical Study*.
-      - Why: Baker provides a comprehensive analysis of the Davidic Covenant's significance.
-    - Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5*.
-      - Why: Hays discusses the implications of the Davidic Covenant in the context of New Testament theology.
+    - Baker, Christopher. 'The Davidic Covenant: A Theological Perspective.'
+      - Why: Baker discusses the theological implications of the Davidic Covenant in the Psalms.
+    - Wright, N.T. 'Jesus and the Victory of God.'
+      - Why: Wright explores the fulfillment of the Davidic Covenant in the New Testament.
 
