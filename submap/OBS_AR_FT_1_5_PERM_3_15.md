@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-06-28 02:17 UTC_  
+_Generated: 2026-06-28 02:25 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,47 +7,33 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_3_15]]
 **Title:** Argument Summary of John
 
-The Argument of John presents a theological interpretation of the Gospel of John, emphasizing Jesus as the fulfillment of Old Testament prophecies and figures. It explores themes such as the transition from the old covenant to the new, the rejection of Jesus by Israel, and the significance of Jesus' death and resurrection. The narrative illustrates how Jesus embodies the Word made flesh, culminating in the commissioning of His disciples to spread His message. The work highlights the transformative nature of Jesus' mission and the establishment of a new familial relationship between God and humanity through the Spirit.
+The argument presented in John emphasizes Jesus as the fulfillment of Old Testament prophecies, particularly in relation to the themes of sacrifice and new birth. It portrays Israel's rejection of Jesus as a continuation of biblical patterns of disobedience, framing the narrative through significant symbols such as the Bridegroom, the Temple, and the concept of living water. The text outlines a progression from Jesus' earthly ministry to the empowerment of His disciples, culminating in the resurrection and ascension, which establish a new covenant relationship between God and humanity. This narrative structure highlights the transition from the law to a faith-based relationship characterized by love and belief.
 
 ## Suggested Core Reference
-- Carson, D. A. *The Gospel According to John.* Pillar New Testament Commentary. Eerdmans, 1991.
-  - Why: Carson's commentary is a comprehensive and authoritative resource that addresses the theological themes and fulfillment motifs in the Gospel of John, making it a foundational text for understanding the claims made in the Argument of John.
+- 
 
 ## Distinctives & Top Support
 
 1. Jesus as the fulfillment of Old Testament prophecies.
 
-    - Carson, D. A. *The Gospel According to John.* Pillar New Testament Commentary. Eerdmans, 1991.
-      - Why: Carson examines how John presents Jesus in light of Old Testament expectations.
-    - Morris, Leon. *The Gospel According to John.* The New International Commentary on the New Testament. Eerdmans, 1971.
-      - Why: Morris discusses the theological implications of Jesus as the fulfillment of Scripture.
-    - Klink, Edward W. *John.* Zondervan Exegetical Commentary on the New Testament. Zondervan, 2016.
-      - Why: Klink's work provides insights into the Old Testament allusions in John's Gospel.
+    - The Gospel according to John — Carson D. A.
+      - Why: Carson discusses the theological significance of Jesus' fulfillment of Old Testament prophecies.
+    - Morris, Leon. *The Gospel According to John*. The New International Commentary on the New Testament. Eerdmans, 1971.
+      - Why: Morris provides a detailed analysis of how John's Gospel relates to Old Testament texts.
+    - Piper, John. *The Passion of Jesus Christ*. Crossway, 2004.
+      - Why: Piper explores the significance of Jesus' death and resurrection in light of Old Testament prophecies.
 
-2. The transition from the old covenant to the new.
+2. Israel's rejection of Jesus as a continuation of biblical patterns of disobedience.
 
-    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.* Baker Academic, 2002.
-      - Why: Bock examines the transition from the old to the new covenant in the Gospels.
-    - Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.* Eerdmans, 2005.
-      - Why: Hays explores how Paul interprets the transition from the old to the new covenant.
-    - Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.* Eerdmans, 2006.
-      - Why: Bauckham discusses the implications of eyewitness testimony in the context of covenant transition.
+    - Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Eerdmans, 2006.
+      - Why: Bauckham discusses the implications of eyewitness testimony in relation to Israel's rejection.
+    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Baker Academic, 2002.
+      - Why: Bock analyzes the Gospels' portrayal of Israel's rejection of Jesus.
 
-3. The significance of Jesus' death and resurrection.
+3. The transition from law to a faith-based relationship characterized by love and belief.
 
-    - Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5.* Eerdmans, 1983.
-      - Why: Hays explores the implications of faith in relation to Jesus' death and resurrection.
-    - N. T. Wright. *The Resurrection of the Son of God.* Fortress Press, 2003.
-      - Why: Wright provides a comprehensive analysis of the significance of the resurrection.
-    - Stott, John R. W. *The Cross of Christ.* InterVarsity Press, 1986.
-      - Why: Stott explores the significance of the cross and resurrection in Christian theology.
-
-4. The commissioning of the disciples to spread Jesus' message.
-
-    - Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition.* Trinity Press International, 1999.
-      - Why: Horsley discusses the implications of Jesus' commissioning of His followers.
-    - Piper, John. *Let the Nations Be Glad!: The Supremacy of God in Missions.* Baker Academic, 2010.
-      - Why: Piper emphasizes the importance of the Great Commission in the life of the church.
-    - Stott, John R. W. *The Living Church: Convictions of a Lifelong Pastor.* InterVarsity Press, 2007.
-      - Why: Stott discusses the church's mission in light of Jesus' commissioning.
+    - Gaffin, Richard B. *By Faith, Not by Sight: Paul and the Order of Salvation*. P&R Publishing, 2006.
+      - Why: Gaffin discusses the transition from law to faith in the New Testament.
+    - N. T. Wright. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters*. HarperOne, 2011.
+      - Why: Wright explores the significance of Jesus' ministry in establishing a new covenant.
 
