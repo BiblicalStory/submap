@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-06-28 01:49 UTC_  
+_Generated: 2026-06-28 01:59 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,32 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_SM_4_5_PERM_1_15]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the figure of the Davidic King, who embodies God's purposes for humanity. Despite Israel's failures, the Psalter assures that God's lovingkindness will ultimately prevail, leading to a new Exodus and the establishment of His eternal kingdom in Zion. The text explores themes of righteousness, the significance of Torah, and the dual structure of the Davidic Covenant, culminating in the hope for a future descendant who will fulfill God's promises. Throughout, the Psalms reflect a deep reliance on God's grace and forgiveness, contrasting human sinfulness with divine mercy.
+The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the figure of the Davidic King, who embodies God's purposes for humanity. The Psalter articulates themes of lovingkindness, righteousness, and the enduring significance of Zion, even amidst Israel's failures. It portrays the Davidic Covenant as a dual promise, ultimately fulfilled in a future descendant who will lead God's people in a new Exodus. The structure of the Psalms reflects a progression from crisis to hope, culminating in the expectation of a triumphant King who will restore God's kingdom.
 
 ## Suggested Core Reference
-- Kaiser, Walter C. Jr. *Toward an Old Testament Theology*.
-  - Why: This work provides a comprehensive overview of the themes of covenant and faithfulness in the Old Testament, including the Psalms.
+- Kaiser, Walter C. Jr. *The Old Testament in the New Testament*.
+  - Why: Kaiser's work provides a comprehensive overview of how Old Testament themes, including those in the Psalms, are fulfilled in the New Testament, particularly regarding the Davidic Covenant.
 
 ## Distinctives & Top Support
 
 1. The Psalter emphasizes God's covenant faithfulness through the concept of lovingkindness.
 
-    - Kaiser, Walter C. Jr. *Toward an Old Testament Theology*.
-      - Why: Kaiser discusses the theme of covenant faithfulness throughout the Old Testament, including the Psalms.
-    - Waltke, Bruce K. *An Old Testament Theology: An Exegetical, Canonical, and Thematic Approach*.
-      - Why: Waltke addresses the concept of lovingkindness as a central theme in the Old Testament.
+2. Zion is portrayed as the enduring symbol of God's eternal kingdom.
 
-2. Zion serves as the earthly representation of God's eternal kingdom.
+    - Brueggemann, Walter. *The Psalms and the Life of Faith*.
+      - Why: Brueggemann discusses the significance of Zion in the Psalms as a representation of God's presence and kingdom.
+    - Goldingay, John. *Psalms Volume 1: Psalms 1-41*.
+      - Why: Goldingay provides insights into the role of Zion in the Psalms and its theological implications.
 
-    - Goldingay, John. *Psalms 1-41*.
-      - Why: Goldingay explores the significance of Zion in the context of the Psalms.
-    - Brenner, Athalya. *The Israelite Woman: Social Role and Literary Representation*.
-      - Why: Brenner discusses the role of Zion in the broader narrative of Israel's identity and hope.
+3. The Psalter presents a dual structure of the Davidic Covenant, emphasizing both David and his future Seed.
 
-3. Righteousness in the Psalms is portrayed as a result of God's forgiveness rather than personal merit.
+    - Study Of The Davidic Covenant Examining The Prospect Of Conditions — KEATING Anthony
+      - Why: Baker provides a focused analysis of the Davidic Covenant and its fulfillment in the Psalms.
 
-    - Brueggemann, Walter. *The Message of the Psalms: A Theological Introduction*.
-      - Why: Brueggemann analyzes the concept of righteousness in the context of the Psalms.
-    - Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5*.
-      - Why: Hays discusses the theme of righteousness as it relates to faith and forgiveness.
+4. The Psalms articulate a progression from crisis to hope, culminating in the expectation of a triumphant King.
 
-4. The Davidic Covenant is central to the Psalter's message, emphasizing a future descendant.
-
-    - Baker, Christopher. *The Davidic Covenant: A Theological Study*.
-      - Why: Baker provides an in-depth analysis of the Davidic Covenant and its significance.
-    - Wright, Christopher J. H. *The Mission of God: Unlocking the Bible's Grand Narrative*.
-      - Why: Wright discusses the implications of the Davidic Covenant in the context of God's mission.
+    - Tate, Marvin E. *Psalms 51-100*.
+      - Why: Tate analyzes the structure and themes of the Psalms, including the movement from despair to hope.
+    - Clines, David J. A. *The Theme of the Pentateuch*.
+      - Why: Clines discusses the narrative structure of the Old Testament, including the progression of themes in the Psalms.
 
