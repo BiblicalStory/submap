@@ -8,16 +8,16 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-9e9622e548a9",
+            "id": "BST-S-6cdb2cc59118",
             "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Eerdmans, 2006",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-Eyewitnesses-Gospels-Testimony/dp/0802839786",
+            "source_url": "https://www.amazon.com/Jesus-Eyewitnesses-Gospels-Testimony/dp/0802839784",
             "author": "Bauckham, Richard",
             "date": "2006",
-            "why": "Bauckham discusses the implications of eyewitness testimony in the context of covenant transition.",
-            "description": "Bauckham discusses the implications of eyewitness testimony in the context of covenant transition.",
-            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.* Eerdmans, 2006.",
+            "why": "Bauckham discusses the implications of eyewitness testimony in relation to Israel's rejection.",
+            "description": "Bauckham discusses the implications of eyewitness testimony in relation to Israel's rejection.",
+            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Eerdmans, 2006.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -27,16 +27,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-caa14b5960dc",
+            "id": "BST-S-b3e04d7f852d",
             "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels. Baker Academic, 2002",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0801026357",
+            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0801026260",
             "author": "Bock, Darrell L",
             "date": "2002",
-            "why": "Bock examines the transition from the old to the new covenant in the Gospels.",
-            "description": "Bock examines the transition from the old to the new covenant in the Gospels.",
-            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.* Baker Academic, 2002.",
+            "why": "Bock analyzes the Gospels' portrayal of Israel's rejection of Jesus.",
+            "description": "Bock analyzes the Gospels' portrayal of Israel's rejection of Jesus.",
+            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Baker Academic, 2002.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -46,16 +46,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-c9e8c05f41c4",
-            "title": "The Gospel According to John. Pillar New Testament Commentary. Eerdmans, 1991",
+            "id": "BST-S-f7128cde25ea",
+            "title": "By Faith, Not by Sight: Paul and the Order of Salvation. P&R Publishing, 2006",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-John-Pillar-Testament/dp/0802837115",
-            "author": "Carson, D. A",
-            "date": "1991",
-            "why": "Carson examines how John presents Jesus in light of Old Testament expectations.",
-            "description": "Carson examines how John presents Jesus in light of Old Testament expectations.",
-            "citation": "Carson, D. A. *The Gospel According to John.* Pillar New Testament Commentary. Eerdmans, 1991.",
+            "source_url": "https://www.amazon.com/Faith-Not-Sight-Order-Salvation/dp/1596380134",
+            "author": "Gaffin, Richard B",
+            "date": "2006",
+            "why": "Gaffin discusses the transition from law to faith in the New Testament.",
+            "description": "Gaffin discusses the transition from law to faith in the New Testament.",
+            "citation": "Gaffin, Richard B. *By Faith, Not by Sight: Paul and the Order of Salvation*. P&R Publishing, 2006.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -65,92 +65,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-18428f5fa914",
-            "title": "The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. Eerdmans, 2005",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Conversion-Imagination-Interpreter-Israels-Scripture/dp/0802830617",
-            "author": "Hays, Richard B",
-            "date": "2005",
-            "why": "Hays explores how Paul interprets the transition from the old to the new covenant.",
-            "description": "Hays explores how Paul interprets the transition from the old to the new covenant.",
-            "citation": "Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.* Eerdmans, 2005.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-470f9f679a3e",
-            "title": "The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5. Eerdmans, 1983",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Faith-Jesus-Christ-Narrative-Substructure/dp/0802800721",
-            "author": "Hays, Richard B",
-            "date": "1983",
-            "why": "Hays explores the implications of faith in relation to Jesus' death and resurrection.",
-            "description": "Hays explores the implications of faith in relation to Jesus' death and resurrection.",
-            "citation": "Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5.* Eerdmans, 1983.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-f2488b57d63e",
-            "title": "The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition. Trinity Press International, 1999",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Prophet-Jesus-Renewal-Israel-Tradition/dp/1563382261",
-            "author": "Horsley, Richard A",
-            "date": "1999",
-            "why": "Horsley discusses the implications of Jesus' commissioning of His followers.",
-            "description": "Horsley discusses the implications of Jesus' commissioning of His followers.",
-            "citation": "Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition.* Trinity Press International, 1999.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-311e0b5d181d",
-            "title": "John. Zondervan Exegetical Commentary on the New Testament. Zondervan, 2016",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/John-Zondervan-Exegetical-Commentary-Testament/dp/0310493939",
-            "author": "Klink, Edward W",
-            "date": "2016",
-            "why": "Klink's work provides insights into the Old Testament allusions in John's Gospel.",
-            "description": "Klink's work provides insights into the Old Testament allusions in John's Gospel.",
-            "citation": "Klink, Edward W. *John.* Zondervan Exegetical Commentary on the New Testament. Zondervan, 2016.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-f8e35e19928e",
+            "id": "BST-S-8c7275ed43b7",
             "title": "The Gospel According to John. The New International Commentary on the New Testament. Eerdmans, 1971",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-John-International-Commentary/dp/0802837115",
+            "source_url": "https://www.amazon.com/Gospel-According-John-International-Commentary/dp/0802822028",
             "author": "Morris, Leon",
             "date": "1971",
-            "why": "Morris discusses the theological implications of Jesus as the fulfillment of Scripture.",
-            "description": "Morris discusses the theological implications of Jesus as the fulfillment of Scripture.",
-            "citation": "Morris, Leon. *The Gospel According to John.* The New International Commentary on the New Testament. Eerdmans, 1971.",
+            "why": "Morris provides a detailed analysis of how John's Gospel relates to Old Testament texts.",
+            "description": "Morris provides a detailed analysis of how John's Gospel relates to Old Testament texts.",
+            "citation": "Morris, Leon. *The Gospel According to John*. The New International Commentary on the New Testament. Eerdmans, 1971.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -160,16 +84,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-9d4c7894afa6",
-            "title": "The Resurrection of the Son of God. Fortress Press, 2003",
+            "id": "BST-S-07bbfab9bce1",
+            "title": "Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters. HarperOne, 2011",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Resurrection-Son-God-Christian-Origins/dp/0802841501",
+            "source_url": "https://www.amazon.com/Simply-Jesus-Vision-What-Matters/dp/0062082488",
             "author": "N. T. Wright",
-            "date": "2003",
-            "why": "Wright provides a comprehensive analysis of the significance of the resurrection.",
-            "description": "Wright provides a comprehensive analysis of the significance of the resurrection.",
-            "citation": "N. T. Wright. *The Resurrection of the Son of God.* Fortress Press, 2003.",
+            "date": "2011",
+            "why": "Wright explores the significance of Jesus' ministry in establishing a new covenant.",
+            "description": "Wright explores the significance of Jesus' ministry in establishing a new covenant.",
+            "citation": "N. T. Wright. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters*. HarperOne, 2011.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -179,54 +103,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-0621b4557fa6",
-            "title": "Let the Nations Be Glad!: The Supremacy of God in Missions. Baker Academic, 2010",
+            "id": "BST-S-ba81845d21af",
+            "title": "The Passion of Jesus Christ. Crossway, 2004",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Let-Nations-Be-Glad-Supremacy/dp/143350202X",
+            "source_url": "https://www.amazon.com/Passion-Jesus-Christ-John-Piper/dp/1581345641",
             "author": "Piper, John",
-            "date": "2010",
-            "why": "Piper emphasizes the importance of the Great Commission in the life of the church.",
-            "description": "Piper emphasizes the importance of the Great Commission in the life of the church.",
-            "citation": "Piper, John. *Let the Nations Be Glad!: The Supremacy of God in Missions.* Baker Academic, 2010.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-dc17ba81b0c5",
-            "title": "The Cross of Christ. InterVarsity Press, 1986",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Cross-Christ-John-Stott/dp/083081200X",
-            "author": "Stott, John R. W",
-            "date": "1986",
-            "why": "Stott explores the significance of the cross and resurrection in Christian theology.",
-            "description": "Stott explores the significance of the cross and resurrection in Christian theology.",
-            "citation": "Stott, John R. W. *The Cross of Christ.* InterVarsity Press, 1986.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-71c0b12a216c",
-            "title": "The Living Church: Convictions of a Lifelong Pastor. InterVarsity Press, 2007",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Living-Church-Convictions-Lifelong-Pastor/dp/0830821843",
-            "author": "Stott, John R. W",
-            "date": "2007",
-            "why": "Stott discusses the church's mission in light of Jesus' commissioning.",
-            "description": "Stott discusses the church's mission in light of Jesus' commissioning.",
-            "citation": "Stott, John R. W. *The Living Church: Convictions of a Lifelong Pastor.* InterVarsity Press, 2007.",
+            "date": "2004",
+            "why": "Piper explores the significance of Jesus' death and resurrection in light of Old Testament prophecies.",
+            "description": "Piper explores the significance of Jesus' death and resurrection in light of Old Testament prophecies.",
+            "citation": "Piper, John. *The Passion of Jesus Christ*. Crossway, 2004.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -242,8 +128,8 @@
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
             "source_url": "https://doi.org/10.5040/bci-000i",
             "author": "The Gospel according to John — Carson D",
-            "why": "Carson's commentary is a comprehensive and authoritative resource that addresses the theological themes and fulfillment motifs in the Gospel of John, making it a foundational text for understanding the claims made in the Argument of John.",
-            "description": "Carson's commentary is a comprehensive and authoritative resource that addresses the theological themes and fulfillment motifs in the Gospel of John, making it a foundational text for understanding the claims made in the Argument of John.",
+            "why": "Carson discusses the theological significance of Jesus' fulfillment of Old Testament prophecies.",
+            "description": "Carson discusses the theological significance of Jesus' fulfillment of Old Testament prophecies.",
             "citation": "The Gospel according to John — Carson D. A.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
