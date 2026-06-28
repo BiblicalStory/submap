@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_11/15
-_Generated: 2026-06-28 01:50 UTC_  
+_Generated: 2026-06-28 02:00 UTC_  
 _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,36 +7,33 @@ _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The work presents a narrative framework of the Gospel of Luke, emphasizing Jesus' role as the ultimate Israelite who identifies with the unworthy to offer forgiveness through the New Covenant. It outlines the structure of the narrative, including the setting, conflict, rising action, climax, falling action, resolution, and denouement, while also addressing eschatological themes in Luke 17 and 21. The text highlights the immediacy of Jesus' return and the tribulation period, suggesting that believers must live with an expectation of sudden deliverance from judgment.
+The work presents a narrative framework of the Gospel of Luke, emphasizing Jesus' role as the savior who identifies with unworthy Israel to bring forgiveness through the New Covenant. It outlines key narrative elements, including the setting, conflict, rising action, climax, falling action, resolution, and denouement, culminating in the apostles' empowerment to proclaim forgiveness to all nations. Additionally, it explores eschatological themes in Luke, highlighting the immediacy of the Son of Man's return and the tribulation period, urging believers to maintain an expectation of deliverance.
 
 ## Suggested Core Reference
 - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-  - Why: This book is a comprehensive resource that addresses the theological and narrative aspects of Luke's Gospel.
+  - Why: This work is a comprehensive resource that discusses the theological underpinnings of Jesus' mission and the New Covenant, aligning closely with the themes presented in the summary.
 
 ## Distinctives & Top Support
 
-1. Jesus identifies with unworthy Israel to bring forgiveness to all nations.
+1. Jesus identifies with unworthy Israel to bring forgiveness through the New Covenant.
 
     - Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_.
-      - Why: This work discusses the theological implications of Jesus' mission and identity.
+      - Why: This work discusses the theological implications of Jesus' mission and the New Covenant.
 
-2. The narrative structure of Luke emphasizes the training of the 'little flock'.
+2. The narrative framework of Luke includes a structured progression from setting to denouement.
 
-    - Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.*
-      - Why: This work provides insights into the narrative techniques used in Luke.
+    - Green, Joel B. _The Gospel of Luke_.
+      - Why: Green provides a comprehensive analysis of the narrative structure and themes in Luke.
 
-3. Luke presents eschatology through the lenses of immediacy and tribulation.
+3. Luke presents eschatology through the lenses of the immediacy of the Son of Man's return and the tribulation period.
 
-    - Bock, Darrell L. _A Theology of Luke and Acts: God’s Promised Program, Realized for All Nations_.
-      - Why: This book explores the eschatological themes in Luke and Acts.
+    - Horsley, Richard A. _The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the Ancient World_.
+      - Why: Horsley discusses eschatological themes in the context of Jesus' teachings.
 
-4. The 'little flock' must live with imminent expectation of Jesus' return.
+4. The 'little flock' must live with imminent expectation during the inter-advent age.
 
-    - Bock, Darrell L. _Jesus According to Scripture_.
-      - Why: This work discusses the implications of Jesus' teachings on readiness and expectation.
+5. The apostles are empowered to proclaim forgiveness to all nations.
 
-5. The narrative culminates in the apostles being empowered to proclaim forgiveness.
-
-    - Baylis, Samuel A. “Biblical Theology of Luke–Acts: The Very Present Help.”
-      - Why: This unpublished paper discusses the role of the apostles in the narrative.
+    - Wright, N.T. _Jesus and the Victory of God_.
+      - Why: Wright explores the implications of Jesus' mission and the role of the apostles in spreading the message.
 
