@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-06-27 23:45 UTC_  
+_Generated: 2026-06-28 01:18 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - Reference: [[DEVREF_OBS_R_CF_1_5_PERM_11_15]]
 **Title:** Narrative Framework
 
-The work by S. Baylis and GPT-5 presents a narrative framework of the Book of Acts, emphasizing the role of the apostles in bringing Gentiles into the new Temple community through the power of the Spirit. It outlines the progression from the promise of Jesus to the apostles, through conflicts with Jewish leaders, to the eventual acceptance of the gospel by Gentiles despite Jewish rejection. The narrative culminates in Paul's journey to Rome, symbolizing the unhindered spread of the gospel and the fulfillment of Old Testament prophecies regarding Israel's blindness and the inclusion of the Gentiles.
+The Argument of Acts, authored by Samuel Andrew Baylis and GPT-5, presents a narrative framework that explores the theological implications of the Book of Acts. It emphasizes the transition from a Jewish-centric faith to a broader inclusion of Gentiles, highlighting the role of the apostles and the significance of the Holy Spirit. The narrative unfolds through various stages, including the promise of the Spirit, the conflict with Jewish leaders, and the eventual acceptance of the gospel by Gentiles, culminating in Paul's ministry in Rome. This work aims to illustrate how God's plan unfolds through the rejection of some Jews and the acceptance of many Gentiles, ultimately establishing a new Temple community.
 
 ## Suggested Core Reference
 - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-  - Why: This comprehensive commentary provides a thorough analysis of the themes, conflicts, and theological implications in the Book of Acts, making it a foundational resource for understanding the narrative framework presented.
+  - Why: This comprehensive commentary provides an in-depth analysis of the Book of Acts, addressing key themes such as the role of the Holy Spirit, the inclusion of Gentiles, and the conflicts faced by the apostles.
 
 ## Distinctives & Top Support
 
-1. The apostles' ministry is characterized by grace and empowerment through the Spirit, contrasting with the judgment seen in the Old Testament.
+1. The narrative framework of Acts illustrates a shift from Jewish exclusivity to Gentile inclusion in the faith.
+
+    - Stott, John. *The Spirit, the Church, and the World: The Message of Acts.* InterVarsity Press, 1990.
+      - Why: Stott's commentary provides insights into the theological significance of the Acts narrative, particularly regarding Gentile inclusion.
+    - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
+      - Why: This work discusses the socio-political context of Paul's mission and the implications of Gentile inclusion.
+
+2. The role of the Holy Spirit is central to the empowerment of the apostles and the establishment of the new Temple community.
+
+    - Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul.* Baker Academic, 1994.
+      - Why: Fee explores the significance of the Holy Spirit in the early church, particularly in relation to Paul's ministry.
+    - Wright, N.T. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.* HarperOne, 2011.
+      - Why: Wright discusses the implications of Jesus' ministry and the role of the Spirit in the early church.
+
+3. The conflict between the apostles and Jewish leaders highlights the theme of rejection and the consequences of idolatry.
 
     - Bock, Darrell L. *Acts.* Baker Academic, 2007.
-      - Why: Bock's commentary provides insights into the themes of grace and empowerment in the Book of Acts.
-    - Baylis, Charles P. *The Elijah/Elisha Motif in Luke 7—10 As Related to the Purpose of the Book of Luke.* Dallas Theological Seminary, 1985.
-      - Why: This work discusses the contrast between the ministries of Elijah and Elisha, highlighting the theme of grace.
+      - Why: Bock's commentary addresses the conflicts in Acts and their theological implications.
+    - Horsley, Richard A. *The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke.* Trinity Press International, 2002.
+      - Why: This work examines the socio-political context of the early church and the rejection of its message.
 
-2. The narrative structure of Acts illustrates a conflict between the early church and Jewish leaders, culminating in the rejection of the gospel by many Jews.
+4. Paul's missionary journeys serve as a model for the spread of the gospel and the establishment of faith communities.
 
-    - Johnson, Luke Timothy. *The Acts of the Apostles.* Sacra Pagina Series, Liturgical Press, 1992.
-      - Why: Johnson's commentary explores the conflicts within Acts and their theological implications.
-    - Witherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
-      - Why: This work analyzes the socio-rhetorical context of the conflicts in Acts.
-
-3. Paul's journey to Rome symbolizes the unhindered spread of the gospel and the fulfillment of prophetic themes regarding Israel and the Gentiles.
-
-    - Horsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society.* Trinity Press International, 1997.
-      - Why: Horsley discusses the implications of Paul's mission in the context of the Roman Empire.
-    - Fitzmyer, Joseph A. *The Acts of the Apostles: A New Translation with Introduction and Commentary.* Yale University Press, 1998.
-      - Why: Fitzmyer's work provides a detailed analysis of the theological significance of Paul's journey.
-
-4. The concept of 'harvest' is central to the narrative, linking Pentecost to the gathering of Gentiles.
-
-    - Bauckham, Richard. *The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John.* Baker Academic, 2007.
-      - Why: Bauckham's work touches on themes of witness and harvest in the New Testament.
-    - Wright, N.T. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters.* HarperOne, 2011.
-      - Why: Wright discusses the significance of Jesus' ministry and its implications for the harvest theme.
+    - Witherington III, Ben. *The Acts of the Apostles: A Socio-Rhetorical Commentary.* Eerdmans, 1998.
+      - Why: Witherington provides a detailed analysis of Paul's journeys and their impact on early Christianity.
+    - Käsemann, Ernst. *Commentary on Romans.* SCM Press, 1980.
+      - Why: Käsemann discusses the implications of Paul's ministry and the establishment of faith communities.
 
