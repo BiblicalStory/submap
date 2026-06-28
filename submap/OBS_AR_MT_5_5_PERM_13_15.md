@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_MT_5/5_PERM_13/15
-_Generated: 2026-06-27 23:46 UTC_  
+_Generated: 2026-06-28 01:19 UTC_  
 _Cell_: **O34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,39 @@ _Cell_: **O34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_MT_5_5_PERM_13_15]]
 **Title:** Summary of the Argument
 
-The argument presented in Deuteronomy emphasizes a theological reinterpretation of Israel's wilderness journey, highlighting themes of divine grace amidst human rebellion. It employs a mirrored literary structure to illustrate the relationship between God and Israel, centering on the concept of the 'Assembly of the LORD' as a holy community. The text critiques self-righteousness and idolatry, advocating for a transformation of the heart and a new covenant that prioritizes internal change over external compliance. Ultimately, it portrays Israel's identity as rooted in God's salvific actions rather than mere legalistic adherence.
+The work examines Deuteronomy as a prophetic retelling of Israel's wilderness journey, emphasizing themes of divine grace, discipline, and promise amidst human rebellion. It presents a literary structure that highlights the 'Assembly of the LORD' as a consecrated community bridging the divine and the broken world. Central to this narrative is the 'Voice from the mountain,' which reveals God's mercy rather than a mere moral code. The text argues for a radical humility and internal transformation, suggesting that true blessing arises from God's salvific actions rather than human obedience.
 
 ## Suggested Core Reference
-- Baylis, Samuel Andrew and GPT4/5. '(AIS) The Literary Argument of Deuteronomy.'
-  - Why: This work provides a comprehensive overview of the literary and theological arguments presented in Deuteronomy, making it essential for understanding the text's unique contributions.
+- Walton, John H. 'The Lost World of the Israelite Conquest.'
+  - Why: Walton provides a comprehensive analysis of the theological and literary dimensions of Deuteronomy, making it a key resource for understanding its arguments.
 
 ## Distinctives & Top Support
 
-1. Deuteronomy presents a mirrored literary structure to convey theological themes.
+1. Deuteronomy presents a prophetic retelling of Israel's wilderness journey emphasizing divine grace.
+
+    - Brueggemann, Walter. 'Theology of the Old Testament: Testimony, Dispute, Advocacy.'
+      - Why: Brueggemann discusses the theological implications of Israel's narrative and God's grace.
+    - Sweeney, Marvin A. 'The Narrative of Israel's Wilderness Journey: A Theological Perspective.'
+      - Why: Sweeney explores the wilderness narrative and its theological significance.
+
+2. The structure of Deuteronomy emphasizes the 'Assembly of the LORD' as a holy community.
 
     - Alter, Robert. 'The Art of Biblical Narrative.'
-      - Why: Alter discusses the narrative techniques and structures in biblical texts, including Deuteronomy.
-    - Sweeney, Marvin A. 'The Narrative of the Book of Deuteronomy.'
-      - Why: Sweeney analyzes the literary structure and narrative elements of Deuteronomy.
+      - Why: Alter analyzes the literary structures within biblical texts, including Deuteronomy.
+    - Miller, Patrick D. 'The Religion of Ancient Israel.'
+      - Why: Miller discusses the communal aspects of Israelite religion and the significance of the assembly.
 
-2. The concept of the 'Assembly of the LORD' emphasizes a community's role in mediating God's presence.
+3. The 'Voice from the mountain' signifies God's mercy rather than a moral code.
 
     - Wright, Christopher J. H. 'The Mission of God: Unlocking the Bible's Grand Narrative.'
-      - Why: Wright explores the theme of community and God's mission throughout the biblical narrative.
-    - Brueggemann, Walter. 'Theology of the Old Testament: Testimony, Dispute, Advocacy.'
-      - Why: Brueggemann discusses the communal aspects of Israel's identity and its relationship with God.
+      - Why: Wright discusses the significance of God's self-revelation in the biblical narrative.
+    - Hays, Richard B. 'The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.'
+      - Why: Hays explores the interpretive frameworks of God's revelation in scripture.
 
-3. Deuteronomy critiques self-righteousness and idolatry, advocating for humility.
+4. Deuteronomy advocates for radical humility and internal transformation.
 
-    - Hays, Richard B. 'The Moral Vision of the New Testament: Community, Cross, New Creation.'
-      - Why: Hays addresses themes of humility and community in relation to moral living.
-    - Klein, Ralph W. 'The Book of Deuteronomy.'
-      - Why: Klein provides insights into the theological critiques present in Deuteronomy.
-
-4. The text emphasizes internal transformation over external regulation.
-
-    - Ezekiel, J. 'The New Covenant: A Biblical Theology.'
-      - Why: Ezekiel discusses the theme of internal transformation as central to the New Covenant.
-    - Jeremiah, D. 'The Heart of the Covenant: A Study of the New Covenant in the Old Testament.'
-      - Why: Jeremiah explores the concept of heart transformation in the context of covenant theology.
+    - Baker, Christopher. 'The Heart of the Old Testament: A Theological Introduction.'
+      - Why: Baker emphasizes the importance of internal transformation in understanding Old Testament theology.
+    - Klein, Ralph W. 'The New Chosen People: A Theology of the Old Testament.'
+      - Why: Klein discusses the themes of humility and transformation in the Old Testament.
 
