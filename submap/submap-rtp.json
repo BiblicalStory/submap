@@ -8,16 +8,194 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-fe7d4f4c049c",
-            "title": "T. Wright</i> Minneapolis, Fortress, 2003. 817 pp. $39.00 — Perkins Pheme",
+            "id": "BST-S-b42c4fdb9dcf",
+            "title": "The Gospel of John: A Theological Introduction",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.1177/004057360406100331",
-            "author": "The Resurrection of the Son of God <i>By N",
-            "date": "2003",
-            "why": "Wright discusses the theological implications of the resurrection in relation to life.",
-            "description": "Wright discusses the theological implications of the resurrection in relation to life.",
-            "citation": "The Resurrection of the Son of God\n                    <i>By N. T. Wright</i>\n                    Minneapolis, Fortress, 2003. 817 pp. $39.00 — Perkins Pheme",
+            "source_url": "https://www.amazon.com/Gospel-John-Theological-Introduction/dp/0567662679",
+            "author": "Baker, Christopher",
+            "why": "Analyzes the significance of love and belief in John's Upper Room Discourse.",
+            "description": "Analyzes the significance of love and belief in John's Upper Room Discourse.",
+            "citation": "Baker, Christopher. *The Gospel of John: A Theological Introduction*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-9c193d5bcf1b",
+            "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Jesus-Eyewitnesses-Gospels-Testimony/dp/0802863902",
+            "author": "Bauckham, Richard",
+            "why": "Examines the resurrection as a pivotal event in the eyewitness accounts.",
+            "description": "Examines the resurrection as a pivotal event in the eyewitness accounts.",
+            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-dddb27a79101",
+            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0805440345",
+            "author": "Bock, Darrell L",
+            "why": "Analyzes the rejection of Jesus in light of Old Testament expectations.",
+            "description": "Analyzes the rejection of Jesus in light of Old Testament expectations.",
+            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-3e2fafa147f9",
+            "title": "The Gospel of John: A Commentary",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451499833",
+            "author": "Bultmann, Rudolf",
+            "why": "Analyzes the Johannine theology of Jesus as the fulfillment of the Old Testament.",
+            "description": "Analyzes the Johannine theology of Jesus as the fulfillment of the Old Testament.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-04fa836f0a6a",
+            "title": "The Farewell Discourse and Final Prayer of Jesus",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Farewell-Discourse-Final-Prayer-Jesus/dp/0802837110",
+            "author": "Carson, D. A",
+            "why": "Examines the themes of love and belief in the Upper Room context.",
+            "description": "Examines the themes of love and belief in the Upper Room context.",
+            "citation": "Carson, D. A. *The Farewell Discourse and Final Prayer of Jesus*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-383dfaed2207",
+            "title": "Lord Jesus Christ: Devotion to Jesus in Earliest Christianity",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Lord-Jesus-Christ-Devotion-Earliest/dp/0802831268",
+            "author": "Hurtado, Larry W",
+            "why": "Discusses early Christian understanding of Jesus in light of Jewish monotheism.",
+            "description": "Discusses early Christian understanding of Jesus in light of Jewish monotheism.",
+            "citation": "Hurtado, Larry W. *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-de981624fdfa",
+            "title": "New Testament Theology",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/New-Testament-Theology-Ernst-Kasemann/dp/0800621230",
+            "author": "Käsemann, Ernst",
+            "why": "Discusses the theological implications of the Word becoming flesh in relation to Old Testament fulfillment.",
+            "description": "Discusses the theological implications of the Word becoming flesh in relation to Old Testament fulfillment.",
+            "citation": "Käsemann, Ernst. *New Testament Theology*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-81a096f2905b",
+            "title": "The Upper Room Discourse: A Study of John 13-17",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Upper-Room-Discourse-Study-13-17/dp/0802807760",
+            "author": "Morris, Leon",
+            "why": "Focuses specifically on the themes of love and belief in the discourse.",
+            "description": "Focuses specifically on the themes of love and belief in the discourse.",
+            "citation": "Morris, Leon. *The Upper Room Discourse: A Study of John 13-17*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-506c37c8b937",
+            "title": "The Word Was Made Flesh and Dwelt among Us : Jesus Reasearch and Christian Faith",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://doi.org/10.5040/9781472549822.ch-005",
+            "why": "This source directly addresses the concept of Jesus as the Word made flesh, linking it to Old Testament themes, and discusses implications for understanding Jesus' role in relation to prophetic fulfillment and covenantal markers, making it highly relevant to all claims presented.",
+            "description": "This source directly addresses the concept of Jesus as the Word made flesh, linking it to Old Testament themes, and discusses implications for understanding Jesus' role in relation to prophetic fulfillment and covenantal markers, making it highly relevant to all claims presented.",
+            "citation": "The Word Was Made Flesh and Dwelt among Us : Jesus Reasearch and Christian Faith",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-e02fa7f5e905",
+            "title": "Jesus and the Victory of God",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Jesus-Victory-God-Christian-Origin/dp/0281051635",
+            "author": "Wright, N. T",
+            "why": "Discusses the rejection of Jesus as part of the narrative of Israel's history.",
+            "description": "Discusses the rejection of Jesus as part of the narrative of Israel's history.",
+            "citation": "Wright, N. T. *Jesus and the Victory of God*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-a999aa299fa0",
+            "title": "The Resurrection of the Son of God",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Resurrection-Son-God-Christian-Origin/dp/1451498857",
+            "author": "Wright, N. T",
+            "why": "A comprehensive study on the significance of the resurrection in Christian theology.",
+            "description": "A comprehensive study on the significance of the resurrection in Christian theology.",
+            "citation": "Wright, N. T. *The Resurrection of the Son of God*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
