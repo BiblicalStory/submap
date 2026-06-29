@@ -8,16 +8,16 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-f23aff6aa727",
+            "id": "BST-S-c971e948e795",
             "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Grand Rapids: Eerdmans, 2006",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com",
+            "source_url": "https://www.eerdmans.com/Products/Book/jesus-and-the-eyewitnesses.aspx",
             "author": "Bauckham, Richard",
             "date": "2006",
-            "why": "Bauckham discusses the resurrection as a pivotal event in the Gospels.",
-            "description": "Bauckham discusses the resurrection as a pivotal event in the Gospels.",
-            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Grand Rapids: Eerdmans, 2006.",
+            "why": "Bauckham argues for the historical reliability of the Gospels and their connection to the Old Testament.",
+            "description": "Bauckham argues for the historical reliability of the Gospels and their connection to the Old Testament.",
+            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony.* Grand Rapids: Eerdmans, 2006.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -27,16 +27,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-60dfc3b7bf9f",
+            "id": "BST-S-ca9163171fc5",
             "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://bakeracademic.com",
+            "source_url": "https://bakerpublishinggroup.com/books/jesus-according-to-scripture/246080",
             "author": "Bock, Darrell L",
             "date": "2002",
-            "why": "Bock discusses the implications of belief and love in the context of Jesus' teachings.",
-            "description": "Bock discusses the implications of belief and love in the context of Jesus' teachings.",
-            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Grand Rapids: Baker Academic, 2002.",
+            "why": "Bock discusses the portrayal of Jesus in relation to Moses and the life-giving aspects of His ministry.",
+            "description": "Bock discusses the portrayal of Jesus in relation to Moses and the life-giving aspects of His ministry.",
+            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.* Grand Rapids: Baker Academic, 2002.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -46,16 +46,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-95d92dba50d4",
-            "title": "The Gospel of John: A Commentary. Philadelphia: Westminster Press, 1971",
+            "id": "BST-S-cdceeb03947b",
+            "title": "Old Testament Theology: Israel's Gospel. Downers Grove: IVP Academic, 2003",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.westminster.edu",
-            "author": "Bultmann, Rudolf",
-            "date": "1971",
-            "why": "Bultmann discusses the significance of love and belief in the context of John's theology.",
-            "description": "Bultmann discusses the significance of love and belief in the context of John's theology.",
-            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.",
+            "source_url": "https://www.ivpress.com/old-testament-theology",
+            "author": "Goldingay, John",
+            "date": "2003",
+            "why": "Goldingay provides insights into the Old Testament's narrative and its fulfillment in the New Testament.",
+            "description": "Goldingay provides insights into the Old Testament's narrative and its fulfillment in the New Testament.",
+            "citation": "Goldingay, John. *Old Testament Theology: Israel's Gospel.* Downers Grove: IVP Academic, 2003.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -65,14 +65,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-ff0af4b2b888",
-            "title": "Gospel of John",
+            "id": "BST-S-e668ac8c2901",
+            "title": "Mark 1-8:26. Dallas: Word Books, 1989",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.1093/obo/9780195393361-0033",
-            "why": "This source provides a comprehensive overview of the Gospel of John, discussing its theological themes, including the fulfillment of Old Testament motifs, the narrative of Israel’s rejection, and the significance of the Upper Room Discourse, making it highly relevant to the claims presented.",
-            "description": "This source provides a comprehensive overview of the Gospel of John, discussing its theological themes, including the fulfillment of Old Testament motifs, the narrative of Israel’s rejection, and the significance of the Upper Room Discourse, making it highly relevant to the claims presented.",
-            "citation": "Gospel of John",
+            "source_url": "https://www.wordsearchbible.com/products/mark-1-8-26",
+            "author": "Guelich, Robert A",
+            "date": "1989",
+            "why": "Guelich discusses the significance of Jesus' ministry in relation to Old Testament figures like Moses.",
+            "description": "Guelich discusses the significance of Jesus' ministry in relation to Old Testament figures like Moses.",
+            "citation": "Guelich, Robert A. *Mark 1-8:26.* Dallas: Word Books, 1989.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -82,16 +84,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-c41cee98e9e9",
-            "title": "John: A Commentary. Grand Rapids: Baker Academic, 2016",
+            "id": "BST-S-77307f4d76ee",
+            "title": "The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. Grand Rapids: Eerdmans, 2005",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://bakeracademic.com",
-            "author": "Klink, Edward W",
-            "date": "2016",
-            "why": "Klink provides insights into how John's Gospel fulfills Old Testament expectations.",
-            "description": "Klink provides insights into how John's Gospel fulfills Old Testament expectations.",
-            "citation": "Klink, Edward W. *John: A Commentary*. Grand Rapids: Baker Academic, 2016.",
+            "source_url": "https://www.eerdmans.com/Products/Book/the-conversion-of-the-imagination.aspx",
+            "author": "Hays, Richard B",
+            "date": "2005",
+            "why": "Hays examines the theme of Israel's disobedience and its implications for understanding Jesus' mission.",
+            "description": "Hays examines the theme of Israel's disobedience and its implications for understanding Jesus' mission.",
+            "citation": "Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.* Grand Rapids: Eerdmans, 2005.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -101,92 +103,129 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-2ae96c614fff",
-            "title": "The Gospel According to John. Grand Rapids: Eerdmans, 1995",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com",
-            "author": "Morris, Leon",
-            "date": "1995",
-            "why": "Morris discusses the theological significance of John's portrayal of Jesus in relation to the Old Testament.",
-            "description": "Morris discusses the theological significance of John's portrayal of Jesus in relation to the Old Testament.",
-            "citation": "Morris, Leon. *The Gospel According to John*. Grand Rapids: Eerdmans, 1995.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-da773a92b367",
-            "title": "The Passion of Jesus Christ: Fifty Reasons Why He Came to Die. Wheaton: Crossway, 2004",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.crossway.org",
-            "author": "Piper, John",
-            "date": "2004",
-            "why": "Piper explores the significance of Jesus' resurrection in relation to His mission.",
-            "description": "Piper explores the significance of Jesus' resurrection in relation to His mission.",
-            "citation": "Piper, John. *The Passion of Jesus Christ: Fifty Reasons Why He Came to Die*. Wheaton: Crossway, 2004.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-3557bc76c9d2",
-            "title": "The Good News According to John. Atlanta: John Knox Press, 1980",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.johnknoxpress.com",
-            "author": "Schweizer, Eduard",
-            "date": "1980",
-            "why": "Schweizer examines the themes of love and belief in John's Gospel.",
-            "description": "Schweizer examines the themes of love and belief in John's Gospel.",
-            "citation": "Schweizer, Eduard. *The Good News According to John*. Atlanta: John Knox Press, 1980.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-bdc396ec9ccc",
-            "title": "Stories with Intent: A Comprehensive Guide to the Parables of Jesus. Grand Rapids: Eerdmans, 2008",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com",
-            "author": "Snodgrass, Klyne",
-            "date": "2008",
-            "why": "Snodgrass discusses the parables in relation to Old Testament themes and their fulfillment in Jesus.",
-            "description": "Snodgrass discusses the parables in relation to Old Testament themes and their fulfillment in Jesus.",
-            "citation": "Snodgrass, Klyne. *Stories with Intent: A Comprehensive Guide to the Parables of Jesus*. Grand Rapids: Eerdmans, 2008.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-f4e77da7fb51",
+            "id": "BST-S-03a44bb41c17",
             "title": "The Resurrection of the Son of God. Minneapolis: Fortress Press, 2003",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://fortresspress.com",
-            "author": "Wright, N.T",
+            "source_url": "https://www.fortresspress.com/store/product/9780800626792/The-New-Testament-and-the-People-of-God",
+            "author": "Hays, Richard B",
             "date": "2003",
-            "why": "Wright provides a comprehensive theological exploration of the resurrection's significance.",
-            "description": "Wright provides a comprehensive theological exploration of the resurrection's significance.",
-            "citation": "Wright, N.T. *The Resurrection of the Son of God*. Minneapolis: Fortress Press, 2003.",
+            "why": "Hays discusses the resurrection as a transformative event for believers and the world.",
+            "description": "Hays discusses the resurrection as a transformative event for believers and the world.",
+            "citation": "Hays, Richard B. *The Resurrection of the Son of God.* Minneapolis: Fortress Press, 2003.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-86ea1360c9a3",
+            "title": "The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition. New York: Trinity Press International, 1999",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.trinitypressinternational.com/books/the-prophet-jesus-and-the-renewal-of-israel",
+            "author": "Horsley, Richard A",
+            "date": "1999",
+            "why": "Horsley examines Jesus' role as a prophet and leader in the context of Israel's history.",
+            "description": "Horsley examines Jesus' role as a prophet and leader in the context of Israel's history.",
+            "citation": "Horsley, Richard A. *The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition.* New York: Trinity Press International, 1999.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-8ea5581d7726",
+            "title": "Earle Ellis",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://doi.org/10.1163/9789004267473_003",
+            "author": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology 1 - E",
+            "why": "This source directly addresses Jesus as the fulfillment of Old Testament themes, particularly in relation to Genesis. It also explores the implications of Israel's rejection of Jesus within the larger biblical narrative, making it highly relevant to the claims presented.",
+            "description": "This source directly addresses Jesus as the fulfillment of Old Testament themes, particularly in relation to Genesis. It also explores the implications of Israel's rejection of Jesus within the larger biblical narrative, making it highly relevant to the claims presented.",
+            "citation": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology 1 - E. Earle Ellis",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-658f4c08190c",
+            "title": "Redemption: Accomplished and Applied. Grand Rapids: Eerdmans, 1955",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.eerdmans.com/Products/Book/redemption-accomplished-and-applied.aspx",
+            "author": "Murray, John",
+            "date": "1955",
+            "why": "Murray explores the theological significance of the resurrection in the context of redemption.",
+            "description": "Murray explores the theological significance of the resurrection in the context of redemption.",
+            "citation": "Murray, John. *Redemption: Accomplished and Applied.* Grand Rapids: Eerdmans, 1955.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-4e0e763a1f74",
+            "title": "Jesus and the Victory of God. Minneapolis: Fortress Press, 1996",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.fortresspress.com/store/product/9780800626792/The-New-Testament-and-the-People-of-God",
+            "author": "N. T. Wright",
+            "date": "1996",
+            "why": "Wright explores the implications of Israel's rejection of Jesus within the broader narrative of Scripture.",
+            "description": "Wright explores the implications of Israel's rejection of Jesus within the broader narrative of Scripture.",
+            "citation": "N. T. Wright. *Jesus and the Victory of God.* Minneapolis: Fortress Press, 1996.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-d496e0d9ed2c",
+            "title": "The New Testament and the People of God. Minneapolis: Fortress Press, 1992",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.fortresspress.com/store/product/9780800626792/The-New-Testament-and-the-People-of-God",
+            "author": "Wright, N. T",
+            "date": "1992",
+            "why": "Wright discusses the narrative continuity between the Old and New Testaments, emphasizing Jesus' role in fulfilling Old Testament expectations.",
+            "description": "Wright discusses the narrative continuity between the Old and New Testaments, emphasizing Jesus' role in fulfilling Old Testament expectations.",
+            "citation": "Wright, N. T. *The New Testament and the People of God.* Minneapolis: Fortress Press, 1992.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-3c1e3ee1dbde",
+            "title": "The Resurrection of the Son of God. Minneapolis: Fortress Press, 2003",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.fortresspress.com/store/product/9780800626792/The-New-Testament-and-the-People-of-God",
+            "author": "Wright, N. T",
+            "date": "2003",
+            "why": "Wright provides a comprehensive examination of the resurrection and its implications for new creation.",
+            "description": "Wright provides a comprehensive examination of the resurrection and its implications for new creation.",
+            "citation": "Wright, N. T. *The Resurrection of the Son of God.* Minneapolis: Fortress Press, 2003.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
