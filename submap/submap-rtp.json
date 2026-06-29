@@ -6,7 +6,27 @@
     "Categories": [
       {
         "name": "primary references",
-        "items": []
+        "items": [
+          {
+            "id": "BST-S-fe7d4f4c049c",
+            "title": "T. Wright</i> Minneapolis, Fortress, 2003. 817 pp. $39.00 — Perkins Pheme",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://doi.org/10.1177/004057360406100331",
+            "author": "The Resurrection of the Son of God <i>By N",
+            "date": "2003",
+            "why": "Wright discusses the theological implications of the resurrection in relation to life.",
+            "description": "Wright discusses the theological implications of the resurrection in relation to life.",
+            "citation": "The Resurrection of the Son of God\n                    <i>By N. T. Wright</i>\n                    Minneapolis, Fortress, 2003. 817 pp. $39.00 — Perkins Pheme",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          }
+        ]
       }
     ]
   }
