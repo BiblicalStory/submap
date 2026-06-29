@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-06-28 02:25 UTC_  
+_Generated: 2026-06-29 18:48 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,33 +7,29 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[DEVREF_OBS_AR_FT_1_5_PERM_3_15]]
 **Title:** Argument Summary of John
 
-The argument presented in John emphasizes Jesus as the fulfillment of Old Testament prophecies, particularly in relation to the themes of sacrifice and new birth. It portrays Israel's rejection of Jesus as a continuation of biblical patterns of disobedience, framing the narrative through significant symbols such as the Bridegroom, the Temple, and the concept of living water. The text outlines a progression from Jesus' earthly ministry to the empowerment of His disciples, culminating in the resurrection and ascension, which establish a new covenant relationship between God and humanity. This narrative structure highlights the transition from the law to a faith-based relationship characterized by love and belief.
+The Argument of John presents a theological interpretation of the Gospel of John, emphasizing Jesus as the fulfillment of Old Testament prophecies and figures. It portrays Israel's rejection of Jesus as the greater Moses and the greater Abel, framing this rejection within a narrative of blindness and failure to recognize divine intent. The text highlights key themes such as the transformation of purification rituals, the significance of Jesus' death and resurrection, and the commissioning of the disciples to spread the Word. Ultimately, it underscores the transition from Jesus' physical presence to a Spirit-mediated existence, marking a new phase in the relationship between God and humanity.
 
 ## Suggested Core Reference
 - 
 
 ## Distinctives & Top Support
 
-1. Jesus as the fulfillment of Old Testament prophecies.
+1. Jesus as the fulfillment of Old Testament figures and prophecies.
 
-    - The Gospel according to John — Carson D. A.
-      - Why: Carson discusses the theological significance of Jesus' fulfillment of Old Testament prophecies.
-    - Morris, Leon. *The Gospel According to John*. The New International Commentary on the New Testament. Eerdmans, 1971.
-      - Why: Morris provides a detailed analysis of how John's Gospel relates to Old Testament texts.
-    - Piper, John. *The Passion of Jesus Christ*. Crossway, 2004.
-      - Why: Piper explores the significance of Jesus' death and resurrection in light of Old Testament prophecies.
+    - Käsemann, Ernst. *The Testament of Jesus: The Gospel of John*. New York: Harper & Row, 1968.
+      - Why: Käsemann explores the theological significance of Jesus' identity in relation to Old Testament figures.
 
-2. Israel's rejection of Jesus as a continuation of biblical patterns of disobedience.
+2. The narrative frames Israel's rejection of Jesus as a prophetic pattern of blindness and failure.
 
-    - Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Eerdmans, 2006.
-      - Why: Bauckham discusses the implications of eyewitness testimony in relation to Israel's rejection.
-    - Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Baker Academic, 2002.
-      - Why: Bock analyzes the Gospels' portrayal of Israel's rejection of Jesus.
+    - Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony Richard Bauckham Grand Rapids: Eerdmans, 2006. xxiv + 538 pp. hb. $32 ISBN 9780802831620 — Hurtado L. W.
+      - Why: Bauckham discusses the reliability of the Gospel accounts and the implications of Israel's rejection.
 
-3. The transition from law to a faith-based relationship characterized by love and belief.
+3. The transition from Jesus' physical presence to a Spirit-mediated existence.
 
-    - Gaffin, Richard B. *By Faith, Not by Sight: Paul and the Order of Salvation*. P&R Publishing, 2006.
-      - Why: Gaffin discusses the transition from law to faith in the New Testament.
-    - N. T. Wright. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters*. HarperOne, 2011.
-      - Why: Wright explores the significance of Jesus' ministry in establishing a new covenant.
+    - Pinnock, Clark H. *Flame of Love: A Theology of the Holy Spirit*. Downers Grove: InterVarsity Press, 1996.
+      - Why: Pinnock discusses the role of the Holy Spirit in the life of believers following Jesus' ascension.
+    - Fee, Gordon D. *God's Empowering Presence: The Holy Spirit in the Letters of Paul*. Peabody: Hendrickson Publishers, 1994.
+      - Why: Fee examines the role of the Holy Spirit in empowering believers in the absence of Christ.
+    - Wright, N. T. *Simply Jesus: A New Vision of Who He Was, What He Did, and Why He Matters*. New York: HarperOne, 2011.
+      - Why: Wright discusses the implications of Jesus' ascension and the coming of the Holy Spirit.
 
