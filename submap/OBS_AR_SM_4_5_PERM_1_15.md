@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-08-08 13:45 UTC_  
+_Generated: 2026-08-08 13:46 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,17 +7,18 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[**The Literary Argument of the Book of Psalms (AIS)**]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the figure of the Davidic King, who is seen as the ultimate fulfillment of God's promises. Despite Israel's failures, the Psalter maintains hope in God's lovingkindness and the future restoration of Zion, symbolizing God's eternal kingdom. The themes of righteousness, the Davidic Covenant, and the anticipated Seed converge throughout the Psalms, establishing a framework for understanding Israel's struggles and God's redemptive plan.
+The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness and the anticipation of a future Davidic King who will restore Israel and establish God's kingdom. Central themes include the enduring nature of God's lovingkindness, the significance of Zion as God's dwelling place, and the portrayal of righteousness as a divine gift rather than human achievement. The Psalter articulates the tension between David's sinfulness and the hope placed in his future Seed, culminating in the expectation of a new Exodus led by God Himself. This literary structure reflects a deep interconnection between Israel's history, its covenantal promises, and the ultimate fulfillment of God's purposes through the Messiah.
 
 ## Suggested Core Reference
-- Walter C. Kaiser Jr. — Toward an Old Testament Theology
-  - Verification: unverified (crossref-http-429)
-  - Why: This work provides a comprehensive overview of covenant themes in the Old Testament, particularly relevant to the Psalms.
+- Writing on the Tablet of the Heart - David M Carr
+  - Why: Carr explores the symbolic significance of Zion in biblical literature.
 
-## Distinctives (from cached index)
+## Distinctives & Top Support
 
-- The Psalter emphasizes God's covenant faithfulness as a central theme. / Zion serves as a symbol of God's enduring purposes and future restoration.
-- The Psalter emphasizes God's covenant faithfulness as a central theme.
-- Zion serves as a symbol of God's enduring purposes and future restoration.
-- Righteousness in the Psalter is portrayed as a result of God's forgiveness.
-- The Davidic Covenant is central to understanding the Psalter's message.
+2. Zion is portrayed as the earthly representation of God's eternal kingdom.
+
+    - Writing on the Tablet of the Heart - David M Carr
+      - Why: Carr explores the symbolic significance of Zion in biblical literature.
+    - David A. deSilva — An Introduction to the New Testament: Contexts, Methods & Ministry Formation
+      - Why: DeSilva discusses the theological implications of Zion in both the Old and New Testaments.
+
