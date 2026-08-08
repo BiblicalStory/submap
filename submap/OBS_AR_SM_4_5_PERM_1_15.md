@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-08-08 14:51 UTC_  
+_Generated: 2026-08-08 14:52 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,31 +7,31 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[**The Literary Argument of the Book of Psalms (AIS)**]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the figure of the Davidic King, who embodies the hope for Israel's restoration. Central themes include God's lovingkindness, the significance of Zion as His dwelling place, and the nature of righteousness as dependent on divine forgiveness. The Psalter articulates a tension between David's sinfulness and the expectation of a future descendant who will fulfill God's promises, culminating in a new Exodus led by the LORD Himself. This literary structure reflects a deep engagement with covenantal theology and the unfolding of God's redemptive plan through history.
+The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the Davidic covenant and the anticipated future King. It explores themes of righteousness, the significance of Zion, and the enduring hope in God's lovingkindness despite Israel's failures. The Psalter articulates a tension between David's kingship and his sinfulness, ultimately pointing to a future descendant who will fulfill God's promises. This narrative structure unfolds across five books, each addressing Israel's crises and reaffirming God's sovereignty and the expectation of a new Exodus.
 
 ## Core Reference
-- Calvin's Theology of the Psalms: Herman J. Selderhuis: Grand Rapids: Baker Academic, 2007. 304 pp. $29.99 - Patrick D. Miller
-  - Why: Goldingay's work provides a comprehensive theological exploration of the themes in the Psalms, including lovingkindness, Zion, and the Davidic Covenant.
+- Walter C. Kaiser Jr. — Toward an Old Testament Theology
+  - Why: This work provides a comprehensive overview of the theological themes in the Old Testament, including the significance of the Davidic covenant and God's faithfulness.
 
 ## Distinctives (from DEV doc)
 
-1. The Book of Psalms emphasizes God's covenant faithfulness through the theme of lovingkindness.
+1. The Book of Psalms emphasizes God's covenant faithfulness through the Davidic covenant.
 
-    - Goldingay, John. Psalms Volume 1: Psalms 1-41. Grand Rapids: Baker Academic, 2006
-      - Why: Goldingay provides insights into the themes of lovingkindness and covenant in the Psalms.
+    - David Klingler — The Davidic Covenant: A Theological Perspective
+      - Why: Klingler examines the theological implications of the Davidic covenant in the Psalms.
+    - David M. Carr — Writing on the Tablet of the Heart: Origins of Scripture and the New Testament
+      - Why: Carr explores the implications of covenant faithfulness in the Hebrew Scriptures.
 
-2. Zion is portrayed as the enduring symbol of God's kingdom and His purposes.
+2. The Psalter articulates the tension between David's kingship and his sinfulness.
 
-    - Klein, William W. The Book of Psalms: A Commentary. Grand Rapids: Baker Academic, 2013
-      - Why: Klein provides commentary on the Psalms, emphasizing the importance of Zion.
-    - Baker, David W. The Book of Psalms: A Theological Introduction. Grand Rapids: Baker Academic, 2015
-      - Why: Baker examines the significance of Zion in the Psalms as a representation of God's kingdom.
+    - David A. Hubbard — Psalms: An Introduction and Commentary
+      - Why: Hubbard addresses the duality of David's role as king and sinner.
 
-3. Righteousness in the Psalms is depicted as a result of God's forgiveness rather than human perfection.
+3. The Psalter presents Zion as a symbol of God's enduring purposes and future restoration.
 
     - (no high-confidence supporting references)
 
-4. The Davidic Covenant is central to the Psalter's narrative, emphasizing the future hope in a coming King.
+4. The Psalter emphasizes the theme of righteousness as a result of God's forgiveness.
 
     - (no high-confidence supporting references)
 

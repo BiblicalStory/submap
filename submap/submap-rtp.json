@@ -8,15 +8,15 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-c61e1ce40dbe",
-            "title": "The Book of Psalms: A Theological Introduction. Grand Rapids: Baker Academic, 2015",
+            "id": "BST-S-aa320755954a",
+            "title": "Hubbard — Psalms: An Introduction and Commentary",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "author": "Baker, David W",
-            "date": "2015",
-            "why": "Baker examines the significance of Zion in the Psalms as a representation of God's kingdom.",
-            "description": "Baker examines the significance of Zion in the Psalms as a representation of God's kingdom.",
-            "citation": "Baker, David W. *The Book of Psalms: A Theological Introduction*. Grand Rapids: Baker Academic, 2015.",
+            "source_url": "https://www.ivpbooks.com/psalms-an-introduction-and-commentary",
+            "author": "David A",
+            "why": "Hubbard addresses the duality of David's role as king and sinner.",
+            "description": "Hubbard addresses the duality of David's role as king and sinner.",
+            "citation": "David A. Hubbard — Psalms: An Introduction and Commentary",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -26,16 +26,14 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-b4424d92eefb",
-            "title": "Selderhuis: Grand Rapids: Baker Academic, 2007. 304 pp. $29.99 - Patrick D. Miller",
+            "id": "BST-S-14f26d96d6ac",
+            "title": "David Klingler — The Davidic Covenant: A Theological Perspective",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://doi.org/10.1177/004057360906600209",
-            "author": "Calvin's Theology of the Psalms: Herman J",
-            "date": "2007",
-            "why": "Goldingay's work provides a comprehensive theological exploration of the themes in the Psalms, including lovingkindness, Zion, and the Davidic Covenant.",
-            "description": "Goldingay's work provides a comprehensive theological exploration of the themes in the Psalms, including lovingkindness, Zion, and the Davidic Covenant.",
-            "citation": "Calvin's Theology of the Psalms: Herman J. Selderhuis: Grand Rapids: Baker Academic, 2007. 304 pp. $29.99 - Patrick D. Miller",
+            "source_url": "https://www.academic.oup.com/jts/article/66/2/335/5863072",
+            "why": "Klingler examines the theological implications of the Davidic covenant in the Psalms.",
+            "description": "Klingler examines the theological implications of the Davidic covenant in the Psalms.",
+            "citation": "David Klingler — The Davidic Covenant: A Theological Perspective",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -45,15 +43,15 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-56b4372ab875",
-            "title": "Psalms Volume 1: Psalms 1-41. Grand Rapids: Baker Academic, 2006",
+            "id": "BST-S-404814e20079",
+            "title": "Carr — Writing on the Tablet of the Heart: Origins of Scripture and the New Testament",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "author": "Goldingay, John",
-            "date": "2006",
-            "why": "Goldingay provides insights into the themes of lovingkindness and covenant in the Psalms.",
-            "description": "Goldingay provides insights into the themes of lovingkindness and covenant in the Psalms.",
-            "citation": "Goldingay, John. *Psalms Volume 1: Psalms 1-41*. Grand Rapids: Baker Academic, 2006.",
+            "source_url": "https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195138820.001.0001/acprof-9780195138820",
+            "author": "David M",
+            "why": "Carr explores the implications of covenant faithfulness in the Hebrew Scriptures.",
+            "description": "Carr explores the implications of covenant faithfulness in the Hebrew Scriptures.",
+            "citation": "David M. Carr — Writing on the Tablet of the Heart: Origins of Scripture and the New Testament",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -63,15 +61,15 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-a4248069d503",
-            "title": "The Book of Psalms: A Commentary. Grand Rapids: Baker Academic, 2013",
+            "id": "BST-S-a7c2afe3b8d4",
+            "title": "Kaiser Jr. — Toward an Old Testament Theology",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "author": "Klein, William W",
-            "date": "2013",
-            "why": "Klein provides commentary on the Psalms, emphasizing the importance of Zion.",
-            "description": "Klein provides commentary on the Psalms, emphasizing the importance of Zion.",
-            "citation": "Klein, William W. *The Book of Psalms: A Commentary*. Grand Rapids: Baker Academic, 2013.",
+            "source_url": "https://doi.org/10.5325/j.ctv1bxh0gh.18",
+            "author": "Walter C",
+            "why": "This work provides a comprehensive overview of the theological themes in the Old Testament, including the significance of the Davidic covenant and God's faithfulness.",
+            "description": "This work provides a comprehensive overview of the theological themes in the Old Testament, including the significance of the Davidic covenant and God's faithfulness.",
+            "citation": "Walter C. Kaiser Jr. — Toward an Old Testament Theology",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
