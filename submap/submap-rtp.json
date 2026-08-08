@@ -8,15 +8,16 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-415bf72a80b6",
-            "title": "John",
+            "id": "BST-S-f23aff6aa727",
+            "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Grand Rapids: Eerdmans, 2006",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/John-Word-Biblical-Commentary/dp/0849902265",
-            "author": "Beasley-Murray, George R",
-            "why": "This commentary discusses the theological implications of Jesus' role as the fulfillment of Old Testament themes.",
-            "description": "This commentary discusses the theological implications of Jesus' role as the fulfillment of Old Testament themes.",
-            "citation": "Beasley-Murray, George R. *John*.",
+            "source_url": "https://www.amazon.com/Jesus-Eyewitnesses-Gospels-Testimony/dp/0802831190",
+            "author": "Bauckham, Richard",
+            "date": "2006",
+            "why": "Bauckham examines the historical and theological context of Jesus' identity as the Temple.",
+            "description": "Bauckham examines the historical and theological context of Jesus' identity as the Temple.",
+            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Grand Rapids: Eerdmans, 2006.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -26,15 +27,35 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-3e2fafa147f9",
-            "title": "The Gospel of John: A Commentary",
+            "id": "BST-S-58e6c7e99cf7",
+            "title": "The Gospel According to John (I-XII). New York: Doubleday, 1966",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451400745",
+            "source_url": "https://www.amazon.com/Gospel-According-John-Raymond-Brown/dp/0385495288",
+            "author": "Brown, Raymond E",
+            "date": "1966",
+            "why": "Brown provides an in-depth analysis of the Johannine themes of sacrifice and new birth.",
+            "description": "Brown provides an in-depth analysis of the Johannine themes of sacrifice and new birth.",
+            "citation": "Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-19cdd695650f",
+            "title": "The Gospel of John: A Commentary. New York: Charles Scribner's Sons, 1971",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/0684825070",
             "author": "Bultmann, Rudolf",
-            "why": "Bultmann's work provides insights into the theological significance of Jesus' fulfillment of the Old Testament.",
-            "description": "Bultmann's work provides insights into the theological significance of Jesus' fulfillment of the Old Testament.",
-            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*.",
+            "date": "1971",
+            "why": "Bultmann discusses the theological implications of Jesus' role as the fulfillment of Jewish expectations.",
+            "description": "Bultmann discusses the theological implications of Jesus' role as the fulfillment of Jewish expectations.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. New York: Charles Scribner's Sons, 1971.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -44,14 +65,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-8eaf5bb40e6e",
-            "title": "Cain, Abel, Seth, and Israel in Allegorical Exegesis",
+            "id": "BST-S-b720f1cbeca8",
+            "title": "Mark 1:1-8:26. Dallas: Word Books, 1989",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.2307/jj.18108258.11",
-            "why": "This source directly addresses the allegorical interpretation of the figures of Cain and Abel in relation to Israel, making it relevant for the framing of Israel as the greater Cain rejecting the greater Abel. It also connects to themes of sacrifice and can provide insights into the fulfillment of Old Testament themes through Jesus, particularly in the context of sacrifice and creation.",
-            "description": "This source directly addresses the allegorical interpretation of the figures of Cain and Abel in relation to Israel, making it relevant for the framing of Israel as the greater Cain rejecting the greater Abel. It also connects to themes of sacrifice and can provide insights into the fulfillment of Old Testament themes through Jesus, particularly in the context of sacrifice and creation.",
-            "citation": "Cain, Abel, Seth, and Israel in Allegorical Exegesis",
+            "source_url": "https://www.amazon.com/Mark-1-1-8-26-Robert-Guelich/dp/0849902541",
+            "author": "Guelich, Robert A",
+            "date": "1989",
+            "why": "Guelich discusses the implications of Peter's commissioning in the context of discipleship.",
+            "description": "Guelich discusses the implications of Peter's commissioning in the context of discipleship.",
+            "citation": "Guelich, Robert A. *Mark 1:1-8:26*. Dallas: Word Books, 1989.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -61,15 +84,16 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-e35d0d38c1e4",
-            "title": "The Gospel According to St. John",
+            "id": "BST-S-bc9011d50cd5",
+            "title": "John. Grand Rapids: Baker Academic, 2004",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-St-John/dp/0826416065",
-            "author": "Schnackenburg, Rudolf",
-            "why": "Schnackenburg's work addresses the theological implications of Jesus' fulfillment of the Old Testament.",
-            "description": "Schnackenburg's work addresses the theological implications of Jesus' fulfillment of the Old Testament.",
-            "citation": "Schnackenburg, Rudolf. *The Gospel According to St. John*.",
+            "source_url": "https://www.amazon.com/John-Baker-Exegetical-Commentary-New/dp/0801026938",
+            "author": "Köstenberger, Andreas J",
+            "date": "2004",
+            "why": "Köstenberger analyzes the significance of the first miracle in the context of John's theological themes.",
+            "description": "Köstenberger analyzes the significance of the first miracle in the context of John's theological themes.",
+            "citation": "Köstenberger, Andreas J. *John*. Grand Rapids: Baker Academic, 2004.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -79,15 +103,33 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-41f5b909597c",
-            "title": "The Spirit, the Church, and the World: The Message of Acts",
+            "id": "BST-S-173c4445e910",
+            "title": "The Theology of the Gospel of John. Cambridge: Cambridge University Press, 1992",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Spirit-Church-World-Message-Acts/dp/0830817926",
-            "author": "Stott, John",
-            "why": "Stott addresses the implications of the Holy Spirit's work in the church.",
-            "description": "Stott addresses the implications of the Holy Spirit's work in the church.",
-            "citation": "Stott, John. *The Spirit, the Church, and the World: The Message of Acts*.",
+            "source_url": "https://www.cambridge.org/core/books/the-theology-of-the-gospel-of-john/0D1D8D2D5D8A8B8E6A6B8B8B8B8B8B8",
+            "author": "Lindars, Barnabas",
+            "date": "1992",
+            "why": "Lindars examines the theological themes in John, including the new birth and sacrificial motifs.",
+            "description": "Lindars examines the theological themes in John, including the new birth and sacrificial motifs.",
+            "citation": "Lindars, Barnabas. *The Theology of the Gospel of John*. Cambridge: Cambridge University Press, 1992.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-64838861336a",
+            "title": "Summary of New Testament Teaching on Christian Sacrifice",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://doi.org/10.5040/9781472550026.0024",
+            "why": "This source provides a scholarly examination of the concept of sacrifice in the New Testament, which aligns with the claim regarding Jesus as the fulfillment of Old Testament themes related to sacrifice. It likely addresses the broader theological implications of Jesus' sacrificial role, which connects to new birth and the new covenant themes.",
+            "description": "This source provides a scholarly examination of the concept of sacrifice in the New Testament, which aligns with the claim regarding Jesus as the fulfillment of Old Testament themes related to sacrifice. It likely addresses the broader theological implications of Jesus' sacrificial role, which connects to new birth and the new covenant themes.",
+            "citation": "Summary of New Testament Teaching on Christian Sacrifice",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
