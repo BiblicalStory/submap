@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_1/5_PERM_12/15
-_Generated: 2026-08-08 14:19 UTC_  
+_Generated: 2026-08-08 14:33 UTC_  
 _Cell_: **P33**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -16,17 +16,17 @@ The Book of Joshua emphasizes the importance of humility and reliance on God's h
 ## Distinctives (from DEV doc)
 
 1. The concept of the Ban reflects God's prerogative to judge sin and preserve holiness.
-
-    - Philip D. Stern. The Biblical Herem: A Window in Israel’s Religious Experience
-      - Why: This work discusses the theological implications of the Ban in the context of Israel's religious practices.
+   - Philip D. Stern. The Biblical Herem: A Window in Israel’s Religious Experience
+     - Why: This work discusses the theological implications of the Ban in the context of Israel's religious practices.
 
 2. God's holiness is revealed through His self-giving love and judgment.
-
-    - Silvia Linington. The term berith (covenant) in the Historical and Wisdom Books of the Old Testament
-      - Why: This work discusses the concept of covenant in relation to God's holiness and love.
+   - Silvia Linington. The term berith (covenant) in the Historical and Wisdom Books of the Old Testament
+     - Why: This work discusses the concept of covenant in relation to God's holiness and love.
 
 3. The narrative highlights the failures of Israel's leaders and the need for a Greater Moses.
+   - Philip D. Stern. The Biblical Herem: A Window in Israel’s Religious Experience
+     - Why: This work discusses the implications of leadership failures in the context of Israel's religious narrative.
 
-    - Philip D. Stern. The Biblical Herem: A Window in Israel’s Religious Experience
-      - Why: This work discusses the implications of leadership failures in the context of Israel's religious narrative.
+4. Salvation and inheritance are granted through God's faithfulness rather than human merit.
+   - (no cached supporting references)
 

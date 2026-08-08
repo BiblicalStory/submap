@@ -8,118 +8,99 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-212e840049ae",
-            "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Grand Rapids, MI: Eerdmans, 2006",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.eerdmans.com/",
-            "author": "Bauckham, Richard",
-            "date": "2006",
-            "why": "Bauckham discusses the historical context of the Gospels, including Jesus' role as the Servant.",
-            "description": "Bauckham discusses the historical context of the Gospels, including Jesus' role as the Servant.",
-            "citation": "Bauckham, Richard. _Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony_. Grand Rapids, MI: Eerdmans, 2006.",
+            "id": "BST-S-8d9b686c0445",
+            "title": "Augsburg Old Testament Studies; Minneapolis: Augsburg, 1984. Pp 206. Paper, $10.95 - Irene Nowell",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "source_url": "https://doi.org/10.1177/014610798601600313",
+            "author": "Book Reviews: Walter Brueggemann, The Message of the Psalms: A Theological Commentary",
+            "date": "1984",
+            "why": "Brueggemann's work provides a comprehensive theological framework for understanding the themes of covenant faithfulness, righteousness, and the role of the Davidic King in the Psalms.",
+            "description": "Brueggemann's work provides a comprehensive theological framework for understanding the themes of covenant faithfulness, righteousness, and the role of the Davidic King in the Psalms.",
+            "citation": "Book Reviews: Walter Brueggemann, The Message of the Psalms: A Theological Commentary. Augsburg Old Testament Studies; Minneapolis: Augsburg, 1984. Pp 206. Paper, $10.95 - Irene Nowell",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
+              "OBS_AR_SM_4/5_PERM_1/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-eb0c3ff1a3eb",
-            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids, MI: Baker Academic, 2002",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.bakeracademic.com/",
-            "author": "Bock, Darrell L",
+            "id": "BST-S-9b8474ffa3e9",
+            "title": "Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb",
+            "address": "OBS_AR_FT_1/5_PERM_11/15",
+            "range": "OBS_AR_FT_1/5_PERM_11/15—OBS_R_CF_1/5_PERM_11/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
+            "source_url": "https://doi.org/10.1177/147686900300100210",
             "date": "2002",
-            "why": "Bock discusses the fulfillment of Old Testament prophecies in the Gospels, including the role of Jesus as the Servant.",
-            "description": "Bock discusses the fulfillment of Old Testament prophecies in the Gospels, including the role of Jesus as the Servant.",
-            "citation": "Bock, Darrell L. _Jesus According to Scripture: Restoring the Portrait from the Gospels_. Grand Rapids, MI: Baker Academic, 2002.",
+            "why": "This comprehensive commentary provides an in-depth analysis of the themes, narrative structure, and theological implications of the Book of Acts, making it a foundational resource for understanding the transition from Jewish to Gentile inclusion.",
+            "description": "This comprehensive commentary provides an in-depth analysis of the themes, narrative structure, and theological implications of the Book of Acts, making it a foundational resource for understanding the transition from Jewish to Gentile inclusion.",
+            "citation": "Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_FT_PERM]]",
+              "[[ANCHOR — OBS_R_CF_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
+              "OBS_AR_FT_1/5_PERM_11/15",
+              "OBS_AR_FT_1/5_PERM_13/15",
+              "OBS_R_CF_1/5_PERM_11/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_11/15 OBS_AR_FT_1/5_PERM_13/15 OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]] [[ANCHOR — OBS_R_CF_PERM]]"
           },
           {
-            "id": "BST-S-8db80aa47499",
-            "title": "This Jesus: New Ways to Be Human. London: SPCK, 2018",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.spckpublishing.co.uk/",
-            "author": "Bockmuehl, Markus",
-            "date": "2018",
-            "why": "Bockmuehl explores the implications of Jesus' mission for the formation of a new community.",
-            "description": "Bockmuehl explores the implications of Jesus' mission for the formation of a new community.",
-            "citation": "Bockmuehl, Markus. _This Jesus: New Ways to Be Human_. London: SPCK, 2018.",
+            "id": "BST-S-700525b1ebc5",
+            "title": "Miller - David A Bergen",
+            "address": "OBS_AR_MT_5/5_PERM_13/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
+            "source_url": "https://doi.org/10.1558/rsth.v22i1.116",
+            "author": "Review of The Religion of Ancient Israel by Patrick D",
+            "why": "Miller discusses the theological implications of Israel's narrative structure.",
+            "description": "Miller discusses the theological implications of Israel's narrative structure.",
+            "citation": "Review of The Religion of Ancient Israel by Patrick D. Miller - David A Bergen",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_MT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
+              "OBS_AR_MT_5/5_PERM_13/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
           },
           {
-            "id": "BST-S-39af7f68def7",
-            "title": "The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. Grand Rapids, MI: Eerdmans, 2005",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.eerdmans.com/",
-            "author": "Hays, Richard B",
-            "date": "2005",
-            "why": "Hays discusses the eschatological themes in the New Testament, including Mark's perspective.",
-            "description": "Hays discusses the eschatological themes in the New Testament, including Mark's perspective.",
-            "citation": "Hays, Richard B. _The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture_. Grand Rapids, MI: Eerdmans, 2005.",
+            "id": "BST-S-3cfb2b3472b4",
+            "title": "STERN",
+            "address": "OBS_AR_SM_1/5_PERM_12/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
+            "source_url": "https://doi.org/10.2307/j.ctvzpv53h",
+            "author": "The Biblical Herem - PHILIP D",
+            "why": "This monograph provides a comprehensive exploration of the Ban and its theological implications, making it a key reference for understanding the themes in the Book of Joshua.",
+            "description": "This monograph provides a comprehensive exploration of the Ban and its theological implications, making it a key reference for understanding the themes in the Book of Joshua.",
+            "citation": "The Biblical Herem - PHILIP D. STERN",
             "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
+              "OBS_AR_SM_1/5_PERM_12/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-5cfd62d11168",
-            "title": "The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke. New York: Trinity Press International, 1997",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.trinitypress.com/",
-            "author": "Horsley, Richard A",
-            "date": "1997",
-            "why": "Horsley examines the eschatological implications of the infancy narratives and their connections to the end times.",
-            "description": "Horsley examines the eschatological implications of the infancy narratives and their connections to the end times.",
-            "citation": "Horsley, Richard A. _The Liberation of Christmas: The Infancy Narratives in the Gospels of Matthew and Luke_. New York: Trinity Press International, 1997.",
+            "id": "BST-S-85c681e5b197",
+            "title": "Brown , SS",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://doi.org/10.5040/9780300261967",
+            "author": "The Gospel According to John (I–XII) - Raymond E",
+            "why": "Brown's work is a comprehensive commentary that addresses the theological themes and narrative structure of John's Gospel, making it a foundational text for understanding the argument presented.",
+            "description": "Brown's work is a comprehensive commentary that addresses the theological themes and narrative structure of John's Gospel, making it a foundational text for understanding the argument presented.",
+            "citation": "The Gospel According to John (I–XII) - Raymond E. Brown , SS",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
             "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
+              "OBS_AR_FT_1/5_PERM_3/15"
             ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-770d06ffa620",
-            "title": "The Gospel of Mark: A Socio-Rhetorical Commentary. Grand Rapids, MI: Baker Academic, 2009",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.bakeracademic.com/",
-            "author": "Keener, Craig S",
-            "date": "2009",
-            "why": "Keener discusses the implications of Jesus' resurrection for the early Christian mission.",
-            "description": "Keener discusses the implications of Jesus' resurrection for the early Christian mission.",
-            "citation": "Keener, Craig S. _The Gospel of Mark: A Socio-Rhetorical Commentary_. Grand Rapids, MI: Baker Academic, 2009.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
             "id": "BST-S-90450a9f5f47",
@@ -132,44 +113,6 @@
             "why": "France provides a detailed commentary on the significance of Jesus' death and resurrection in Mark.",
             "description": "France provides a detailed commentary on the significance of Jesus' death and resurrection in Mark.",
             "citation": "The Gospel and Letters of John. By Urban C.vonWahlde. three volumes, pp. lii, 705, xvii, 929, xii, 44, Grand Rapids MI, Eerdmans, 2010, $43.80.The Gospel of John (New International Commentary on the New Testament). By J.Ramsey Michaels. pp. xxvii, 1094, Grand Rapids MI, Eerdmans, 2010, $40.95 - Nicholas King",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-8c162335290f",
-            "title": "The Gospel of Mark: A Socio-Rhetorical Commentary. Grand Rapids, MI: Eerdmans, 2001",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.eerdmans.com/",
-            "author": "Witherington, Ben III",
-            "date": "2001",
-            "why": "Witherington analyzes the narrative structure and theological implications of Mark's account of Jesus' death.",
-            "description": "Witherington analyzes the narrative structure and theological implications of Mark's account of Jesus' death.",
-            "citation": "Witherington, Ben III. _The Gospel of Mark: A Socio-Rhetorical Commentary_. Grand Rapids, MI: Eerdmans, 2001.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-b4cf39704f09",
-            "title": "Jesus and the Victory of God. Minneapolis, MN: Fortress Press, 1996",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://www.fortresspress.com/",
-            "author": "Wright, N. T",
-            "date": "1996",
-            "why": "Wright explores Jesus' identity and mission in light of Jewish expectations of the Servant.",
-            "description": "Wright explores Jesus' identity and mission in light of Jewish expectations of the Servant.",
-            "citation": "Wright, N. T. _Jesus and the Victory of God_. Minneapolis, MN: Fortress Press, 1996.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
