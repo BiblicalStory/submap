@@ -8,16 +8,33 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-60dfc3b7bf9f",
-            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002",
+            "id": "BST-S-415bf72a80b6",
+            "title": "John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.bakeracademic.com",
+            "source_url": "https://www.amazon.com/John-Word-Biblical-Commentary/dp/0310493932",
+            "author": "Beasley-Murray, George R",
+            "why": "Discusses the theological implications of Jesus' fulfillment of Old Testament themes.",
+            "description": "Discusses the theological implications of Jesus' fulfillment of Old Testament themes.",
+            "citation": "Beasley-Murray, George R. *John*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-ee84509bf674",
+            "title": "Jesus: The Great Debate",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Jesus-Great-Debate-Darrell-Bock/dp/0805440180",
             "author": "Bock, Darrell L",
-            "date": "2002",
-            "why": "Bock discusses the implications of Jesus' identity for understanding the new covenant.",
-            "description": "Bock discusses the implications of Jesus' identity for understanding the new covenant.",
-            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*. Grand Rapids: Baker Academic, 2002.",
+            "why": "Analyzes Jesus' claims about being the Temple and its implications.",
+            "description": "Analyzes Jesus' claims about being the Temple and its implications.",
+            "citation": "Bock, Darrell L. *Jesus: The Great Debate*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -27,73 +44,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-95d92dba50d4",
-            "title": "The Gospel of John: A Commentary. Philadelphia: Westminster Press, 1971",
+            "id": "BST-S-3e2fafa147f9",
+            "title": "The Gospel of John: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.westminster.edu",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451411909",
             "author": "Bultmann, Rudolf",
-            "date": "1971",
-            "why": "Bultmann discusses the theological implications of John's portrayal of Jesus in relation to Old Testament narratives.",
-            "description": "Bultmann discusses the theological implications of John's portrayal of Jesus in relation to Old Testament narratives.",
-            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. Philadelphia: Westminster Press, 1971.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-0c5afb44f885",
-            "title": "The Gospel According to John. Leicester: Inter-Varsity Press, 1991",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.ivpress.com",
-            "author": "Carson, D. A",
-            "date": "1991",
-            "why": "Carson analyzes the theological significance of John's portrayal of Jesus in light of Old Testament expectations.",
-            "description": "Carson analyzes the theological significance of John's portrayal of Jesus in light of Old Testament expectations.",
-            "citation": "Carson, D. A. *The Gospel According to John*. Leicester: Inter-Varsity Press, 1991.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-b720f1cbeca8",
-            "title": "Mark 1:1-8:26. Dallas: Word Books, 1989",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.wordbooks.com",
-            "author": "Guelich, Robert A",
-            "date": "1989",
-            "why": "Guelich provides insights into the covenantal themes present in the Gospels, including John's portrayal of Jesus.",
-            "description": "Guelich provides insights into the covenantal themes present in the Gospels, including John's portrayal of Jesus.",
-            "citation": "Guelich, Robert A. *Mark 1:1-8:26*. Dallas: Word Books, 1989.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-53b833d2a621",
-            "title": "The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5. Grand Rapids: Eerdmans, 2002",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com",
-            "author": "Hays, Richard B",
-            "date": "2002",
-            "why": "Hays discusses the narrative implications of Jesus' death and resurrection for believers.",
-            "description": "Hays discusses the narrative implications of Jesus' death and resurrection for believers.",
-            "citation": "Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5*. Grand Rapids: Eerdmans, 2002.",
+            "why": "Analyzes the theological themes in John, including its Old Testament roots.",
+            "description": "Analyzes the theological themes in John, including its Old Testament roots.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -109,8 +68,8 @@
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
             "source_url": "https://doi.org/10.1163/9789004267473_003",
             "author": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology 1 - E",
-            "why": "This source directly addresses the fulfillment of Old Testament themes in relation to Jesus, particularly focusing on the Genesis narrative. It also explores the transition from the old covenant to the new, emphasizing Jesus' role in this transformation, which aligns with the claims regarding the new familial relationship established through Jesus' death and resurrection.",
-            "description": "This source directly addresses the fulfillment of Old Testament themes in relation to Jesus, particularly focusing on the Genesis narrative. It also explores the transition from the old covenant to the new, emphasizing Jesus' role in this transformation, which aligns with the claims regarding the new familial relationship established through Jesus' death and resurrection.",
+            "why": "This source provides a comprehensive examination of how Jesus fulfills Old Testament themes, particularly in relation to Genesis. It addresses the portrayal of Israel in the context of rejection and aligns with the theological implications of Jesus as the true Temple and the commissioning of the disciples, making it highly relevant to the claims presented.",
+            "description": "This source provides a comprehensive examination of how Jesus fulfills Old Testament themes, particularly in relation to Genesis. It addresses the portrayal of Israel in the context of rejection and aligns with the theological implications of Jesus as the true Temple and the commissioning of the disciples, making it highly relevant to the claims presented.",
             "citation": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology 1 - E. Earle Ellis",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
@@ -121,16 +80,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-5a191ab7c8cc",
-            "title": "The Historical Jesus of the Gospels. Grand Rapids: Eerdmans, 2009",
+            "id": "BST-S-59e9da1900b1",
+            "title": "The Gospel According to John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com",
-            "author": "Keener, Craig S",
-            "date": "2009",
-            "why": "Keener provides a historical context for understanding the conflicts in the Gospels.",
-            "description": "Keener provides a historical context for understanding the conflicts in the Gospels.",
-            "citation": "Keener, Craig S. *The Historical Jesus of the Gospels*. Grand Rapids: Eerdmans, 2009.",
+            "source_url": "https://www.amazon.com/Gospel-According-John-Lionel-Morris/dp/0802803507",
+            "author": "Morris, Leon",
+            "why": "Discusses the role of the disciples in the context of Jesus' mission.",
+            "description": "Discusses the role of the disciples in the context of Jesus' mission.",
+            "citation": "Morris, Leon. *The Gospel According to John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -140,73 +98,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-aadcac244797",
-            "title": "Jesus Son of Man: The Interpretation of the Gospel of John. London: SPCK, 1981",
+            "id": "BST-S-b62667b85b1c",
+            "title": "The Gospel of Matthew: A Commentary on the Greek Text",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.spckpublishing.co.uk",
-            "author": "Lindars, Barnabas",
-            "date": "1981",
-            "why": "Lindars explores the significance of Jesus' role as the Bridegroom and its implications for the new covenant.",
-            "description": "Lindars explores the significance of Jesus' role as the Bridegroom and its implications for the new covenant.",
-            "citation": "Lindars, Barnabas. *Jesus Son of Man: The Interpretation of the Gospel of John*. London: SPCK, 1981.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-55d0d31bd1c2",
-            "title": "Early Christian Mission: Volume 1: Jesus and the Twelve. Downers Grove: IVP Academic, 2004",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.ivpress.com",
-            "author": "Schnabel, Eckhard J",
-            "date": "2004",
-            "why": "Schnabel explores the mission of Jesus and the conflicts with Israel's leadership.",
-            "description": "Schnabel explores the mission of Jesus and the conflicts with Israel's leadership.",
-            "citation": "Schnabel, Eckhard J. *Early Christian Mission: Volume 1: Jesus and the Twelve*. Downers Grove: IVP Academic, 2004.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-8fed064d28d3",
-            "title": "Jesus and the Victory of God. Minneapolis: Fortress Press, 1996",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.fortresspress.com",
-            "author": "Wright, N. T",
-            "date": "1996",
-            "why": "Wright discusses Jesus' mission in the context of Israel's history and the fulfillment of Scripture.",
-            "description": "Wright discusses Jesus' mission in the context of Israel's history and the fulfillment of Scripture.",
-            "citation": "Wright, N. T. *Jesus and the Victory of God*. Minneapolis: Fortress Press, 1996.",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-39b71de59232",
-            "title": "The Resurrection of the Son of God. Minneapolis: Fortress Press, 2003",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.fortresspress.com",
-            "author": "Wright, N. T",
-            "date": "2003",
-            "why": "Wright discusses the significance of the resurrection in establishing new relationships in the covenant.",
-            "description": "Wright discusses the significance of the resurrection in establishing new relationships in the covenant.",
-            "citation": "Wright, N. T. *The Resurrection of the Son of God*. Minneapolis: Fortress Press, 2003.",
+            "source_url": "https://www.amazon.com/Gospel-Matthew-Commentary-Greek-Text/dp/1844740170",
+            "author": "Nolland, John",
+            "why": "Provides insights into the rejection of Jesus in the context of Israel's history.",
+            "description": "Provides insights into the rejection of Jesus in the context of Israel's history.",
+            "citation": "Nolland, John. *The Gospel of Matthew: A Commentary on the Greek Text*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
