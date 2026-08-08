@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-08-08 14:44 UTC_  
+_Generated: 2026-08-08 14:57 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,47 +7,45 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - Reference: [[Narrative Framework]]
 **Title:** Narrative Framework
 
-The Acts Argument by S. Baylis explores the theological implications of the Book of Acts, emphasizing the transition from a Jewish-centric faith to a more inclusive community that embraces Gentiles. It highlights the role of the apostles as witnesses empowered by the Spirit, the conflict with Jewish leaders, and the significance of Paul's missionary journeys. The narrative structure illustrates the fulfillment of Old Testament prophecies and the establishment of a new Temple community, culminating in the proclamation of the gospel in Rome. This work underscores the themes of grace, inclusion, and the transformative power of God in the early church.
+The Acts Argument by S. Baylis and GPT-5 presents a narrative framework that illustrates the transition from the Jewish apostles' ministry to the inclusion of Gentiles in the new Temple community. It emphasizes the fulfillment of Old Testament prophecies and the significance of events such as Pentecost and Paul's missionary journeys. The work highlights the conflict between the temple leaders and the apostles, culminating in the rejection of the message by many Jews, while also showcasing God's plan for salvation through grace. Ultimately, the narrative resolves with Paul's unhindered preaching in Rome, symbolizing the new Temple's expansion among the nations.
 
 ## Core Reference
 - Bock, Darrell L. Acts. Baker Academic, 2007
-  - Why: This comprehensive commentary provides a thorough analysis of the theological themes and narrative structure of the Book of Acts, making it a foundational resource for understanding the transition to a Gentile-inclusive community.
+  - Why: This comprehensive commentary provides an in-depth analysis of the themes and narrative structure of Acts, making it a foundational resource for understanding the transition from Jewish to Gentile inclusion.
 
 ## Distinctives (from DEV doc)
 
-1. The transition from a Jewish-centric faith to a Gentile-inclusive community is central to the narrative of Acts.
+1. The narrative framework of Acts illustrates the transition from Jewish exclusivity to Gentile inclusion in the new Temple community.
 
     - Bock, Darrell L. Acts. Baker Academic, 2007
-      - Why: Provides a comprehensive commentary on the Book of Acts, focusing on its theological themes.
-    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
-      - Why: Examines Paul's missionary strategies and their impact on the inclusion of Gentiles.
+      - Why: Provides a comprehensive commentary on the book of Acts, focusing on its themes of inclusion.
+    - Stott, John. The Spirit, the Church, and the World: The Message of Acts. InterVarsity Press, 1990
+      - Why: Explores the role of the Holy Spirit in the early church and the expansion to Gentiles.
+    - Keener, Craig S. Acts: An Exegetical Commentary. Baker Academic, 2012
+      - Why: Examines the cultural and historical context of Acts, emphasizing its narrative of inclusion.
+
+2. The significance of Pentecost as a fulfillment of the Feast of Harvest and its role in the establishment of the new Temple community.
+
+    - Stott, John. The Spirit, the Church, and the World: The Message of Acts. InterVarsity Press, 1990
+      - Why: Discusses the implications of Pentecost for the early church's mission.
     - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
-      - Why: Discusses the implications of Paul's mission to the Gentiles within the context of the Roman Empire.
+      - Why: Discusses the socio-political context of Pentecost and its implications for the early church.
 
-2. The empowerment of the apostles by the Spirit is a key theme in the narrative.
-
-    - Gaventa, Beverly Roberts. The Acts of the Apostles. Abingdon Press, 2003
-      - Why: Examines the role of the Holy Spirit in empowering the apostles throughout Acts.
-    - Bock, Darrell L. Acts. Baker Academic, 2007
-      - Why: Provides insights into the role of the Holy Spirit in the narrative of Acts.
-    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
-      - Why: Examines how the Spirit's empowerment influenced Paul's missionary work.
-
-3. The conflict between the apostles and Jewish leaders illustrates the theme of rejection and inclusion.
+3. The conflict between the apostles and temple leaders highlights the theme of rejection and the fulfillment of prophecy.
 
     - Bock, Darrell L. Acts. Baker Academic, 2007
-      - Why: Analyzes the conflicts in Acts, particularly between apostles and Jewish authorities.
-    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
-      - Why: Explores the conflicts faced by Paul and the apostles in their missions.
-    - Gaventa, Beverly Roberts. The Acts of the Apostles. Abingdon Press, 2003
-      - Why: Focuses on the theological implications of the conflicts in Acts.
-
-4. Paul's missionary journeys are depicted as a fulfillment of God's plan for the Gentiles.
-
-    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
-      - Why: Examines Paul's journeys and their significance for Gentile inclusion.
-    - Bock, Darrell L. Acts. Baker Academic, 2007
-      - Why: Provides a detailed analysis of Paul's missionary activities in Acts.
+      - Why: Analyzes the conflict between the apostles and Jewish leaders in Acts.
+    - Keener, Craig S. Acts: An Exegetical Commentary. Baker Academic, 2012
+      - Why: Examines the theological implications of the conflict in Acts.
     - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
-      - Why: Discusses the implications of Paul's missions in the context of the Roman Empire.
+      - Why: Discusses the socio-political implications of the rejection theme.
+
+4. Paul's missionary journeys exemplify the theme of salvation by grace through faith, contrasting with the law.
+
+    - Hays, Richard B. The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. Eerdmans, 2005
+      - Why: Discusses Paul's understanding of grace in the context of his mission.
+    - Bock, Darrell L. Acts. Baker Academic, 2007
+      - Why: Discusses Paul's teachings on grace and faith in the context of his journeys.
+    - Stott, John. The Spirit, the Church, and the World: The Message of Acts. InterVarsity Press, 1990
+      - Why: Explores the theme of grace in the early church's mission.
 

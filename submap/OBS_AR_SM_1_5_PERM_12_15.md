@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_1/5_PERM_12/15
-_Generated: 2026-08-08 14:45 UTC_  
+_Generated: 2026-08-08 14:58 UTC_  
 _Cell_: **P33**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,35 +7,25 @@ _Cell_: **P33**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[**The Literary Argument of the Book of Joshua**]]
 **Title:** **The Literary Argument of the Book of Joshua**
 
-The Book of Joshua emphasizes the importance of humility and reliance on God's holiness rather than human strength. It presents a theological narrative where God's true image is revealed through His Word, and the concept of the Ban illustrates His prerogative to judge sin while preserving holiness. The text highlights the failures of Israel's leaders and the necessity of a Greater Moses, underscoring that salvation and righteousness stem from God's faithfulness and not from human merit. The narrative structure reinforces these themes through key events and characters, culminating in the recognition that true unity and peace among Israel depend on acknowledging God's holiness.
+The Book of Joshua emphasizes the importance of humility and reliance on God's holiness rather than human strength. It portrays the Word of the LORD as the true Image of God, which Israel must follow to honor divine holiness. The narrative illustrates the consequences of self-righteousness through characters like Achan and Rahab, highlighting that salvation is rooted in God's grace. Ultimately, the text conveys that Israel's identity and unity are found in acknowledging God's holiness, which is central to their covenant relationship.
 
 ## Core Reference
 - The Biblical Herem - PHILIP D. STERN
-  - Why: This work provides a comprehensive exploration of the theological implications of the Ban, which is central to understanding the themes of holiness and divine judgment in the Book of Joshua.
+  - Why: This work provides a comprehensive analysis of the concept of the ban and its theological implications, aligning closely with the themes of holiness and divine judgment discussed in the summary.
 
 ## Distinctives (from DEV doc)
 
-1. The Word of the LORD serves as the true image of God, reflecting His character and purpose.
+1. The Word of the LORD is presented as the true Image of God, essential for Israel's understanding of holiness.
 
-    - Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative
-      - Why: Analyzes the overarching narrative of God's character throughout Scripture.
-    - Goldingay, John. Old Testament Theology: Israel's Gospel
-      - Why: Explores the theological implications of God's revelation in the Old Testament.
+    - Hays, Richard B. 'The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture
+      - Why: Explores the interpretation of God's word in the context of Israel's narrative.
 
-2. The concept of the Ban illustrates God's prerogative to judge sin and preserve holiness.
+2. The concept of the Ban (חרם) illustrates God's prerogative to judge sin and preserve holiness.
 
-    - Stern, Philip D. The Biblical Herem: A Window in Israel’s Religious Experience
-      - Why: Explores the theological implications of the Ban in the Old Testament.
+    - Stern, Philip D. 'The Biblical Herem: A Window in Israel’s Religious Experience
+      - Why: Analyzes the concept of the ban in the context of Israel's religious practices.
 
-3. The narrative highlights the failures of Israel's leaders and the need for a Greater Moses.
+3. The narrative emphasizes that Israel's identity and unity are rooted in acknowledging God's holiness.
 
-    - Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative
-      - Why: Analyzes the overarching narrative of leadership and God's mission.
-
-4. The narrative structure of Joshua reinforces the themes of humility and reliance on God's faithfulness.
-
-    - Wright, Christopher J. H. The Mission of God: Unlocking the Bible's Grand Narrative
-      - Why: Analyzes the narrative structure and themes of God's mission.
-    - Goldingay, John. Old Testament Theology: Israel's Gospel
-      - Why: Discusses the narrative structure and theological implications of the Old Testament.
+    - (no high-confidence supporting references)
 

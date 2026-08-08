@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-08-08 14:52 UTC_  
+_Generated: 2026-08-08 14:56 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,31 +7,34 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[**The Literary Argument of the Book of Psalms (AIS)**]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the Davidic covenant and the anticipated future King. It explores themes of righteousness, the significance of Zion, and the enduring hope in God's lovingkindness despite Israel's failures. The Psalter articulates a tension between David's kingship and his sinfulness, ultimately pointing to a future descendant who will fulfill God's promises. This narrative structure unfolds across five books, each addressing Israel's crises and reaffirming God's sovereignty and the expectation of a new Exodus.
+The Book of Psalms presents a theological narrative where God's covenant faithfulness, embodied in the concept of lovingkindness, underpins Israel's hope despite the failures of its kings. The Psalter emphasizes the significance of Zion as a symbol of God's eternal kingdom and the expectation of a Davidic King who will fulfill divine promises. Throughout the text, righteousness is portrayed as a gift from God rather than human achievement, and the Davidic Covenant is central to understanding the future restoration of Israel. The Psalms articulate a tension between human sinfulness and divine faithfulness, ultimately pointing to a new Exodus led by God Himself.
 
 ## Core Reference
-- Walter C. Kaiser Jr. — Toward an Old Testament Theology
-  - Why: This work provides a comprehensive overview of the theological themes in the Old Testament, including the significance of the Davidic covenant and God's faithfulness.
+- The Narrative Effect of Psalms 84–89 - Robert E. Wallace
+  - Why: Wallace's work provides a comprehensive analysis of the narrative structure and theological themes in the Psalms, particularly focusing on the covenant and its implications for Israel's hope.
 
 ## Distinctives (from DEV doc)
 
-1. The Book of Psalms emphasizes God's covenant faithfulness through the Davidic covenant.
+1. The concept of lovingkindness is central to understanding God's covenant faithfulness in the Psalms.
 
-    - David Klingler — The Davidic Covenant: A Theological Perspective
-      - Why: Klingler examines the theological implications of the Davidic covenant in the Psalms.
-    - David M. Carr — Writing on the Tablet of the Heart: Origins of Scripture and the New Testament
-      - Why: Carr explores the implications of covenant faithfulness in the Hebrew Scriptures.
+    - H. C. Leupold — Exposition of the Psalms
+      - Why: Leupold discusses the significance of lovingkindness in the context of God's covenant.
+    - Nancy deClaissé-Walford — The Book of Psalms: A Study of the Psalms
+      - Why: DeClaissé-Walford discusses the role of lovingkindness in the Psalms.
+    - Gerald H. Wilson — The Editing of the Hebrew Psalter
+      - Why: Wilson examines the editorial choices that highlight lovingkindness in the Psalms.
 
-2. The Psalter articulates the tension between David's kingship and his sinfulness.
-
-    - David A. Hubbard — Psalms: An Introduction and Commentary
-      - Why: Hubbard addresses the duality of David's role as king and sinner.
-
-3. The Psalter presents Zion as a symbol of God's enduring purposes and future restoration.
+2. Zion serves as a key symbol of God's eternal kingdom in the Psalms.
 
     - (no high-confidence supporting references)
 
-4. The Psalter emphasizes the theme of righteousness as a result of God's forgiveness.
+3. Righteousness in the Psalms is depicted as a gift from God rather than a human achievement.
 
-    - (no high-confidence supporting references)
+    - John N. Oswalt — The Book of Isaiah: Chapters 1-39
+      - Why: Oswalt discusses the concept of righteousness in relation to divine grace.
+
+4. The Davidic Covenant is crucial for understanding the future restoration of Israel.
+
+    - David M. Carr — The Formation of the Hebrew Bible: A New Reconstruction
+      - Why: Carr examines the implications of the Davidic Covenant for Israel's future.
 

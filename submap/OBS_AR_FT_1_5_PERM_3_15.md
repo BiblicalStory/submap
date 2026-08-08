@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-08-08 14:43 UTC_  
+_Generated: 2026-08-08 14:56 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,39 +7,38 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[Argument Summary of John]]
 **Title:** Argument Summary of John
 
-The argument presented in the Gospel of John portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to Israel's rejection of divine revelation. The narrative unfolds through various motifs, such as Jesus as the Word made flesh, the true Temple, and the greater Moses, highlighting the transition from the old covenant to the new. Key scenes illustrate the conflict between Jesus and Israel's leaders, culminating in His sacrificial death and resurrection, which establish Him as the source of eternal life. The conclusion emphasizes the disciples' mission to spread this message, embodying the Word made flesh and fulfilling the prophetic expectations of Scripture.
+The argument of the Gospel of John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to the crises introduced in Genesis. It portrays Israel as the greater Cain, rejecting Jesus, the greater Abel, while simultaneously fulfilling the prophetic Scriptures. The narrative unfolds through various motifs, including the transformation of purification rituals, the significance of Jesus' death and resurrection, and the commissioning of the disciples to spread the Word. Ultimately, the Gospel emphasizes the transition from physical presence to a Spirit-mediated relationship with God, culminating in the disciples' mission to testify to the life of Christ.
 
 ## Core Reference
-- The Gospel According to John (I–XII) - Raymond E. Brown , SS
-  - Why: Brown's work provides a comprehensive theological analysis of the Gospel of John, addressing key themes such as the Word made flesh and the implications of Jesus' ministry.
+- The Politics of South India, 1920–1937. By Christopher John Baker. Cambridge University Press: Cambridge, 1976. Pp. 363. £11.00 - Eugene F. Irschick
+  - Why: Baker provides a theological introduction that discusses the Old Testament themes in John's Gospel.
 
 ## Distinctives (from DEV doc)
 
-1. Jesus as the Word made flesh fulfills Old Testament themes.
+1. John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to Genesis.
 
-    - Hurtado, Larry W. Lord Jesus Christ: Devotion to Jesus in Earliest Christianity. Grand Rapids: Eerdmans, 2003
-      - Why: Hurtado discusses early Christian devotion to Jesus as the fulfillment of Jewish expectations.
-    - Käsemann, Ernst. New Testament Theology. London: SCM Press, 1973
-      - Why: Käsemann discusses the significance of the Word in relation to the Old Testament.
-    - Bultmann, Rudolf. The Gospel of John: A Commentary. Philadelphia: Westminster Press, 1971
-      - Why: Bultmann analyzes the Johannine prologue and its Old Testament connections.
+    - The Politics of South India, 1920–1937. By Christopher John Baker. Cambridge University Press: Cambridge, 1976. Pp. 363. £11.00 - Eugene F. Irschick
+      - Why: Baker provides a theological introduction that discusses the Old Testament themes in John's Gospel.
+    - Carson, D. A. The Gospel According to John. Inter-Varsity Press, 1991
+      - Why: Carson's commentary highlights the theological significance of Old Testament fulfillment in John's narrative.
+    - Beasley-Murray, George R. John. Word Books, 1987
+      - Why: Beasley-Murray provides a comprehensive commentary on the Gospel of John, emphasizing its connections to the Old Testament.
 
-2. The narrative illustrates Israel's rejection of Jesus as the greater Moses.
+2. The narrative frames Israel as the greater Cain, rejecting the greater Abel.
 
-    - Bock, Darrell L. Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002
-      - Why: Bock analyzes the portrayal of Jesus in relation to Moses and the law.
+    - Horsley, Richard A. The Prophet Jesus and the Renewal of Israel: A New Look at the Jesus Tradition. Trinity Press International, 1999
+      - Why: Horsley examines the prophetic tradition and Israel's rejection of Jesus.
+    - Bauckham, Richard. Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Eerdmans, 2006
+      - Why: Bauckham discusses the role of eyewitness testimony in the Gospels, including themes of rejection.
+    - Bock, Darrell L. Jesus According to Scripture: Restoring the Portrait from the Gospels. Baker Academic, 2002
+      - Why: Bock discusses the narrative structure of the Gospels, including the themes of rejection and fulfillment.
 
-3. The resurrection of Jesus is portrayed as the embodiment of life.
+3. The Gospel emphasizes the transition from physical presence to a Spirit-mediated relationship with God.
 
-    - Bock, Darrell L. Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002
-      - Why: Bock analyzes the resurrection as a fulfillment of Jesus' mission.
-
-4. The Upper Room Discourse emphasizes love and belief as the new covenant markers.
-
-    - Lindars, Barnabas. The Theology of the Gospel of John. Cambridge: Cambridge University Press, 1992
-      - Why: Lindars explores the theological implications of the Upper Room Discourse.
-    - Bock, Darrell L. Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002
-      - Why: Bock examines the implications of love and belief in the Upper Room teachings.
-    - Keener, Craig S. The Gospel of John: A Commentary. Peabody: Hendrickson Publishers, 2003
-      - Why: Keener discusses the new covenant markers of love and belief in John's Gospel.
+    - Murray, John. Redemption: Accomplished and Applied. Eerdmans, 1955
+      - Why: Murray discusses the application of redemption through the Spirit, relevant to John's Gospel.
+    - Wright, N. T. The Spirit and the Authority of the Christian Life. SPCK, 2016
+      - Why: Wright explores the authority of the Spirit in the life of believers, relevant to John's narrative.
+    - Gaffin, Richard B. Perspectives on Pentecost: New Testament Teaching on the Gifts of the Holy Spirit. P&R Publishing, 1979
+      - Why: Gaffin explores the New Testament's teaching on the Holy Spirit, including its implications for believers.
 
