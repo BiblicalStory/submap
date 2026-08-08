@@ -8,82 +8,6 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-9616dbab2746",
-            "title": "Crain",
-            "address": "OBS_AR_MT_5/5_PERM_13/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_MT_5_5_PERM_13_15.md",
-            "source_url": "https://doi.org/10.1093/gmo/9781561592630.article.a2227656",
-            "author": "Baker, David - Timothy M",
-            "why": "This monograph provides a comprehensive analysis of the theological themes and literary structure of Deuteronomy, making it a foundational text for understanding the arguments presented in the summary.",
-            "description": "This monograph provides a comprehensive analysis of the theological themes and literary structure of Deuteronomy, making it a foundational text for understanding the arguments presented in the summary.",
-            "citation": "Baker, David - Timothy M. Crain",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_MT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_MT_5/5_PERM_13/15"
-            ],
-            "tags": "OBS_AR_MT_5/5_PERM_13/15 [[ANCHOR — OBS_AR_MT_PERM]]"
-          },
-          {
-            "id": "BST-S-9b8474ffa3e9",
-            "title": "Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb",
-            "address": "OBS_AR_FT_1/5_PERM_11/15",
-            "range": "OBS_AR_FT_1/5_PERM_11/15—OBS_R_CF_1/5_PERM_11/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_11_15.md",
-            "source_url": "https://doi.org/10.1177/147686900300100210",
-            "date": "2002",
-            "why": "This comprehensive commentary provides a thorough examination of the themes and narrative structure of Acts, making it a foundational text for understanding the transition from Jewish to Gentile inclusion.",
-            "description": "This comprehensive commentary provides a thorough examination of the themes and narrative structure of Acts, making it a foundational text for understanding the transition from Jewish to Gentile inclusion.",
-            "citation": "Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]",
-              "[[ANCHOR — OBS_R_CF_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_11/15",
-              "OBS_AR_FT_1/5_PERM_13/15",
-              "OBS_R_CF_1/5_PERM_11/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_11/15 OBS_AR_FT_1/5_PERM_13/15 OBS_R_CF_1/5_PERM_11/15 [[ANCHOR — OBS_AR_FT_PERM]] [[ANCHOR — OBS_R_CF_PERM]]"
-          },
-          {
-            "id": "BST-S-ff309e2e3336",
-            "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony Richard Bauckham Grand Rapids: Eerdmans, 2006. xxiv + 538 pp. hb. $32 ISBN 9780802831620 - L. W. Hurtado",
-            "address": "OBS_AR_FT_1/5_PERM_7/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_7_15.md",
-            "source_url": "https://doi.org/10.1163/27725472-07904019",
-            "date": "2006",
-            "why": "Bauckham discusses the historical context of the Gospels and their connection to Old Testament prophecy.",
-            "description": "Bauckham discusses the historical context of the Gospels and their connection to Old Testament prophecy.",
-            "citation": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony Richard Bauckham Grand Rapids: Eerdmans, 2006. xxiv + 538 pp. hb. $32 ISBN 9780802831620 - L. W. Hurtado",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_7/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_7/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-3cfb2b3472b4",
-            "title": "STERN",
-            "address": "OBS_AR_SM_1/5_PERM_12/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_1_5_PERM_12_15.md",
-            "source_url": "https://doi.org/10.2307/j.ctvzpv53h",
-            "author": "The Biblical Herem - PHILIP D",
-            "why": "This monograph provides a comprehensive exploration of the concept of the Ban and its theological implications, making it a foundational text for understanding the themes presented in the Book of Joshua.",
-            "description": "This monograph provides a comprehensive exploration of the concept of the Ban and its theological implications, making it a foundational text for understanding the themes presented in the Book of Joshua.",
-            "citation": "The Biblical Herem - PHILIP D. STERN",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_1/5_PERM_12/15"
-            ],
-            "tags": "OBS_AR_SM_1/5_PERM_12/15 [[ANCHOR — OBS_AR_SM_PERM]]"
-          },
-          {
             "id": "BST-S-e6768e274792",
             "title": "A. Carson",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
@@ -100,23 +24,6 @@
               "OBS_AR_FT_1/5_PERM_3/15"
             ],
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-86210ad5e579",
-            "title": "Writing on the Tablet of the Heart - David M Carr",
-            "address": "OBS_AR_SM_4/5_PERM_1/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://doi.org/10.1093/oso/9780195172973.001.0001",
-            "why": "Carr explores the symbolic significance of Zion in biblical literature.",
-            "description": "Carr explores the symbolic significance of Zion in biblical literature.",
-            "citation": "Writing on the Tablet of the Heart - David M Carr",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_SM_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_SM_4/5_PERM_1/15"
-            ],
-            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           }
         ]
       }
