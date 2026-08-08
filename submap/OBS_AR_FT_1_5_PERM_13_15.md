@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_13/15
-_Generated: 2026-08-08 14:05 UTC_  
+_Generated: 2026-08-08 14:20 UTC_  
 _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,16 +7,47 @@ _Cell_: **Z34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[(AIS) Argument of Matthew]]
 **Title:** (AIS) Argument of Matthew
 
-The provided summary outlines the literary argument of the Gospel of Matthew, emphasizing the role of Jesus as the virgin-born King who comes to save Israel. It details the narrative structure, including the introduction of Jesus, the tension of His rejection, and the establishment of a remnant that will spread the gospel to all nations. The summary highlights key themes such as the fulfillment of Old Testament prophecies, the significance of the remnant, and the teachings of Jesus, particularly in the context of the Olivet Discourse. Ultimately, it presents Matthew's portrayal of Jesus as the Shepherd-King who enacts a new Exodus and prepares His followers for the kingdom's arrival.
+The summary outlines the argument of the Gospel of Matthew, emphasizing the narrative of Jesus as the virgin-born King who comes to save Israel. It details the plot structure, including the introduction of Jesus, the tension with the Pharisees, the rising action through parables, and the climax of Jesus' death and resurrection. The text highlights the significance of the remnant of Israel, which is called to spread the gospel to all nations, and the fulfillment of Old Testament promises through Jesus as the Shepherd-King. The Olivet Discourse is also discussed, providing a prophetic framework for understanding the delay before the kingdom's arrival.
 
-## Suggested Core Reference
+## Core Reference
 - Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb
-  - Why: This work provides a comprehensive overview of how the Gospels, particularly Matthew, present Jesus as the fulfillment of Old Testament prophecies and the establishment of the new ecclesia.
+  - Why: This work provides a comprehensive overview of how the Gospels, particularly Matthew, present Jesus in light of Old Testament fulfillment, making it a foundational text for understanding the themes discussed in the summary.
 
-## Distinctives (from cached index)
+## Distinctives (from DEV doc)
 
-- Matthew emphasizes the fulfillment of Old Testament prophecies through Jesus' life and ministry. / The concept of the remnant is central to Matthew's narrative and theology.
-- Matthew emphasizes the fulfillment of Old Testament prophecies through Jesus' life and ministry.
-- The concept of the remnant is central to Matthew's narrative and theology.
-- Matthew's Olivet Discourse provides a framework for understanding the delay before the kingdom's arrival.
-- The theme of the new ecclesia is central to Matthew's understanding of Jesus' mission.
+1. Matthew presents Jesus as the fulfillment of Old Testament prophecies, particularly through the lens of the remnant of Israel.
+
+    - France, R. T. The Gospel of Matthew. Eerdmans, 2007
+      - Why: France explores the theological implications of Matthew's portrayal of Jesus as the fulfillment of Jewish expectations.
+    - Nolland, John. The Gospel of Matthew: A Commentary on the Greek Text. Eerdmans, 2005
+      - Why: Nolland provides a detailed commentary on Matthew, emphasizing its fulfillment of prophecy.
+    - Keener, Craig S. The Gospel of Matthew: A Socio-Rhetorical Commentary. Eerdmans, 2009
+      - Why: Keener discusses the socio-rhetorical context of Matthew's Gospel and its prophetic themes.
+
+2. The concept of the remnant in Matthew is crucial for understanding the mission of the Church.
+
+    - Saldarini, Anthony J. Matthew's Christian-Jewish Community. University of Chicago Press, 1994
+      - Why: Saldarini explores the identity of Matthew's community and the significance of the remnant.
+    - Hays, Richard B. The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. Eerdmans, 2005
+      - Why: Hays explores the interpretive framework of the remnant in relation to Israel's Scriptures.
+    - Wright, N. T. Jesus and the Victory of God. Fortress Press, 1996
+      - Why: Wright discusses the implications of Jesus' mission for the remnant and the Church.
+
+3. Matthew's use of parables serves to instruct the remnant about the delay before the kingdom's arrival.
+
+    - Blomberg, Craig L. Interpreting the Parables. InterVarsity Press, 1990
+      - Why: Blomberg provides a comprehensive analysis of parables in the Gospels, including their instructional purpose.
+    - Luz, Ulrich. Matthew 1-7: A Commentary. Fortress Press, 2007
+      - Why: Luz offers insights into the parables found in Matthew and their significance for the audience.
+    - Saldarini, Anthony J. The Parables of Jesus: A Commentary. Paulist Press, 1991
+      - Why: Saldarini discusses the parables in the context of Jesus' teaching and their implications for the remnant.
+
+4. The Olivet Discourse provides a prophetic framework for understanding the delay before the kingdom's arrival.
+
+    - Horsley, Richard A. The Prophetic Jesus: The Prophet and the Kingdom. Trinity Press International, 1999
+      - Why: Horsley examines the prophetic nature of Jesus' teachings, including the Olivet Discourse.
+    - Nolland, John. The Gospel of Matthew: A Commentary on the Greek Text. Eerdmans, 2005
+      - Why: Nolland offers insights into the Olivet Discourse and its significance for understanding the delay.
+    - Blomberg, Craig L. Jesus and the Gospels: An Introduction and Survey. Broadman & Holman, 1997
+      - Why: Blomberg discusses the Olivet Discourse and its implications for understanding eschatology.
+

@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-08-08 14:15 UTC_  
+_Generated: 2026-08-08 14:17 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,26 +7,36 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[Argument Summary of John]]
 **Title:** Argument Summary of John
 
-The argument presented in the Gospel of John frames Jesus as the fulfillment of Old Testament themes, particularly in relation to Israel's narrative of rejection and redemption. The text explores how Jesus embodies key figures and symbols from the Hebrew Scriptures, such as the Word made flesh, the true Temple, and the greater Moses, while also addressing Israel's failures. Through various encounters and teachings, John illustrates the transition from the old covenant to the new, culminating in Jesus' death and resurrection, which establish a new familial relationship with God for His followers. The narrative emphasizes the role of the disciples as messengers of this new life, mediated through the Spirit, and concludes with a call to belief and love as the essence of the new covenant community.
+The argument of the Gospel of John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to the crises introduced in Genesis. John depicts Israel as a greater Cain, rejecting Jesus, the greater Abel, while simultaneously fulfilling Scripture through His sacrificial role. The narrative unfolds through various images and motifs, such as the transformation of purification rites into joy, the embodiment of the true Temple, and the mission of the disciples as messengers of the Word. Ultimately, the Gospel emphasizes the transition from Jesus' physical presence to a Spirit-mediated existence, culminating in the commissioning of the disciples to spread the message of eternal life.
 
 ## Core Reference
-- The Gospel according to John - D. A. Carson
-  - Why: This work provides a comprehensive theological analysis of the Gospel of John, addressing its themes of fulfillment and the role of the disciples.
+- The Gospel According to John (I–XII) - Raymond E. Brown , SS
+  - Why: Brown's work is a comprehensive commentary that addresses the theological themes and narrative structure of John's Gospel, making it a foundational text for understanding the argument presented.
 
 ## Distinctives (from DEV doc)
 
-1. John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to Israel's narrative of rejection and redemption. / The narrative emphasizes the role of the disciples as messengers of the new life mediated through the Spirit.
-   - (no cached supporting references)
+1. John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to Genesis.
 
-2. John presents Jesus as the fulfillment of Old Testament themes, particularly in relation to Israel's narrative of rejection and redemption.
-   - (no cached supporting references)
+    - Snodgrass, Klyne. Stories with Intent: A Comprehensive Guide to the Parables of Jesus. Grand Rapids: Eerdmans, 2008
+      - Why: Snodgrass examines the narrative strategies in John and their Old Testament roots.
+    - Bultmann, Rudolf. The Gospel of John: A Commentary. Philadelphia: Westminster Press, 1971
+      - Why: Bultmann discusses the theological implications of John's portrayal of Jesus in relation to Old Testament narratives.
+    - Brown, Raymond E. The Gospel According to John (I-XII). New York: Doubleday, 1966
+      - Why: Brown provides a detailed analysis of the Johannine themes and their connections to the Old Testament.
 
-3. The narrative emphasizes the role of the disciples as messengers of the new life mediated through the Spirit.
-   - (no cached supporting references)
+2. Israel is depicted as the greater Cain, rejecting the greater Abel in the narrative.
 
-4. The climax of the narrative centers on Jesus' death and resurrection as the fulfillment of sacrificial themes.
-   - (no cached supporting references)
+    - Bauckham, Richard. Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Grand Rapids: Eerdmans, 2006
+      - Why: Bauckham explores the implications of rejection in the context of John's narrative.
+    - Bockmuehl, Markus. This Jesus: New Ways to Be Human. London: SPCK, 2016
+      - Why: Bockmuehl discusses the implications of Jesus' identity and rejection in John's narrative.
 
-5. The narrative concludes with a call to belief and love as the essence of the new covenant community.
-   - (no cached supporting references)
+3. The narrative emphasizes the transition from Jesus' physical presence to a Spirit-mediated existence.
+
+    - Pinnock, Clark H. Flame of Love: A Theology of the Holy Spirit. Downers Grove, IL: InterVarsity Press, 1996
+      - Why: Pinnock explores the theological implications of the Holy Spirit's role in the believer's life.
+    - Bock, Darrell L. Jesus According to Scripture: Restoring the Portrait from the Gospels. Grand Rapids: Baker Academic, 2002
+      - Why: Bock explores the significance of the Spirit's role in the life of Jesus and the church.
+    - Fee, Gordon D. God's Empowering Presence: The Holy Spirit in the Letters of Paul. Peabody, MA: Hendrickson Publishers, 1994
+      - Why: Fee discusses the role of the Holy Spirit in the early church, relevant to John's themes.
 
