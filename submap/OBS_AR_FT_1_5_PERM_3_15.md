@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-08-08 15:53 UTC_  
+_Generated: 2026-08-08 15:55 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,48 +7,45 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[Argument Summary of John]]
 **Title:** Argument Summary of John
 
-The argument presented in the Gospel of John portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to the concepts of sacrifice and new birth. It illustrates how Israel's rejection of Jesus mirrors the narrative of Cain and Abel, while also emphasizing the transformative roles of Jesus as the Word made flesh, the true Temple, and the ultimate source of life. The narrative structure of John unfolds through various conflicts and resolutions, culminating in the commissioning of the disciples to spread the message of Jesus, who embodies the new covenant and the promise of the Spirit.
+The argument presented in the Gospel of John portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to the crises introduced in Genesis. It emphasizes Israel's rejection of Jesus, who is depicted as the greater Moses and the true source of life, culminating in His sacrificial death and resurrection. The narrative structure of John highlights the transition from the old covenant to the new, showcasing the disciples' mission to spread the Word after Jesus' ascension. The text concludes with a focus on belief and love as the new markers of God's covenant people, establishing a theological resolution that connects the beginning and end of the Gospel.
 
 ## Core Reference
-- Word Made Flesh
-  - URL: https://doi.org/10.1515/9780823293599-003
-  - Why: This source directly addresses the concept of Jesus as the Word made flesh, exploring its implications within Christian faith and relating it to Old Testament themes, making it relevant to the claim about fulfillment of Old Testament narratives.
+- [PDF] Jesus and the Law of Moses: The Gospels and the Restoration of Israel within First-Century Judaism by Paul T. Sloan - Rafael Smith
+  - URL: https://doi.org/10.55277/researchhub.re05qosj.1
+  - Why: This source directly addresses the themes of Jesus as the fulfillment of Old Testament expectations, discusses Israel's rejection of Jesus as a significant narrative element, and provides insights into the covenant relationship established through belief and love. It also touches on the resurrection theme, making it a comprehensive fit for the claims presented.
 
 ## Distinctives (from DEV doc)
 
-1. Jesus as the Word made flesh fulfills Old Testament themes.
+1. Jesus is portrayed as the fulfillment of Old Testament themes, particularly resolving the crisis of Genesis.
 
-    - Bultmann, Rudolf. The Gospel of John: A Commentary
-      - URL: https://doi.org/10.1177/004057367202800420
-      - Why: Bultmann discusses the theological implications of the Word becoming flesh in John's Gospel.
-    - The Gospel According to John (I–XII) - Raymond E. Brown , SS
-      - URL: https://doi.org/10.5040/9780300261967
-      - Why: Brown explores the Johannine understanding of Jesus as the fulfillment of the Old Testament.
-    - John by Edward W. Klink III - Christopher W. Skinner
-      - URL: https://doi.org/10.1353/cbq.2018.0073
-      - Why: Klink examines the connections between Jesus' identity and Old Testament expectations.
+    - Richard Bauckham, Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony - Adam Gilbert Bartholomew
+      - URL: https://doi.org/10.15695/hmltc.v34i1.3320
+      - Access URL: https://www.eerdmans.com/Products/Book/jesus-and-the-eyewitnesses.aspx
+      - Why: Bauckham examines the historical context of Jesus' life and its fulfillment of Scripture.
+    - The Gospel according to John - D. A. Carson
+      - URL: https://doi.org/10.5040/bci-000i
+      - Access URL: https://www.ivpress.com/the-gospel-according-to-john
+      - Why: Carson discusses the theological implications of Jesus as the fulfillment of Old Testament prophecies.
+    - The Gospel of John: A Commentary. 2 volumes. By Craig S. Keener. Pp. xlviii + 1636. Peabody, MA: Hendrickson Publishers, 2003. isbn 1 56563 378 4. £57.95 - Ruth B. Edwards
+      - URL: https://doi.org/10.1093/jts/fli131
+      - Access URL: https://www.eerdmans.com/Products/Book/the-gospel-of-john.aspx
+      - Why: Keener provides insights into the theological themes of John's Gospel, including its Old Testament connections.
 
-2. Israel's rejection of Jesus parallels the Cain and Abel narrative.
+2. The narrative emphasizes Israel's rejection of Jesus as the greater Moses.
 
-    - What Victory? What God? A Review Debate with N. T. Wright on Jesus and the Victory of God - John Dominic Crossan
-      - URL: https://doi.org/10.1017/s0036930600049620
-      - Why: Wright explores the themes of rejection and fulfillment in the life of Jesus.
-    - The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. By Richard B. Hays
-      - URL: https://doi.org/10.1111/j.1468-2265.2007.00333_48.x
-      - Why: Hays discusses the implications of Israel's rejection of Jesus in light of the Cain and Abel story.
+    - (no high-confidence supporting references)
 
-3. The Upper Room Discourse redefines the markers of God's covenant people.
+3. The Upper Room Discourse highlights belief and love as the new markers of God's covenant people.
 
-    - John – By Andreas J. Köstenberger - Casimir Bernas
-      - URL: https://doi.org/10.1111/j.1748-0922.2006.00034_12.x
-      - Why: Köstenberger analyzes the themes of love and belief in the Upper Room Discourse.
-    - The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John – By Richard Bauckham - Stan Harstine
-      - URL: https://doi.org/10.1111/j.1748-0922.2011.01578_7.x
-      - Why: Bauckham analyzes the narrative structure of the Upper Room Discourse.
+    - The Gospel According to St. John (chapter in St. John : Volume 1: 1-7)
+      - URL: https://doi.org/10.5040/9781472556394.0006
+      - Access URL: https://www.hymnswithoutwords.com/2020/09/30/the-gospel-according-to-st-john/
+      - Why: Barrett analyzes the significance of the Upper Room Discourse in establishing new covenant markers.
 
-4. The resurrection of Jesus signifies the new creation.
+4. The resurrection of Jesus is portrayed as the embodiment of life and victory over death.
 
-    - The Resurrection of the Son of God By N. T. Wright Minneapolis, Fortress, 2003. 817 pp. $39.00 - Pheme Perkins
-      - URL: https://doi.org/10.1177/004057360406100331
-      - Why: Wright discusses the theological implications of the resurrection as new creation.
+    - The Gospel according to John - D. A. Carson
+      - URL: https://doi.org/10.5040/bci-000i
+      - Access URL: https://www.ivpress.com/the-gospel-according-to-john
+      - Why: Carson examines the resurrection narrative and its role in the theological framework of John's Gospel.
 
