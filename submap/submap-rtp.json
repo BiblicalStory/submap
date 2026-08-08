@@ -8,16 +8,15 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-f23aff6aa727",
-            "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony. Grand Rapids: Eerdmans, 2006",
+            "id": "BST-S-773b6bcb7b70",
+            "title": "The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-Eyewitnesses-Gospels-Testimony/dp/0802831190",
+            "source_url": "https://www.amazon.com/Testimony-Beloved-Disciple-Narrative-Theology/dp/0802839826",
             "author": "Bauckham, Richard",
-            "date": "2006",
-            "why": "Bauckham examines the historical and theological context of Jesus' identity as the Temple.",
-            "description": "Bauckham examines the historical and theological context of Jesus' identity as the Temple.",
-            "citation": "Bauckham, Richard. *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*. Grand Rapids: Eerdmans, 2006.",
+            "why": "Bauckham analyzes the narrative structure of the Upper Room Discourse.",
+            "description": "Bauckham analyzes the narrative structure of the Upper Room Discourse.",
+            "citation": "Bauckham, Richard. *The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -27,16 +26,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-58e6c7e99cf7",
-            "title": "The Gospel According to John (I-XII). New York: Doubleday, 1966",
+            "id": "BST-S-f26715e742d3",
+            "title": "The Gospel According to John (I-XII)",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-John-Raymond-Brown/dp/0385495288",
+            "source_url": "https://www.amazon.com/Gospel-According-John-XII/dp/0300140169",
             "author": "Brown, Raymond E",
-            "date": "1966",
-            "why": "Brown provides an in-depth analysis of the Johannine themes of sacrifice and new birth.",
-            "description": "Brown provides an in-depth analysis of the Johannine themes of sacrifice and new birth.",
-            "citation": "Brown, Raymond E. *The Gospel According to John (I-XII)*. New York: Doubleday, 1966.",
+            "why": "Brown explores the Johannine understanding of Jesus as the fulfillment of the Old Testament.",
+            "description": "Brown explores the Johannine understanding of Jesus as the fulfillment of the Old Testament.",
+            "citation": "Brown, Raymond E. *The Gospel According to John (I-XII).*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -46,16 +44,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-19cdd695650f",
-            "title": "The Gospel of John: A Commentary. New York: Charles Scribner's Sons, 1971",
+            "id": "BST-S-9d303b385612",
+            "title": "The Gospel of John: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/0684825070",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/145149012X",
             "author": "Bultmann, Rudolf",
-            "date": "1971",
-            "why": "Bultmann discusses the theological implications of Jesus' role as the fulfillment of Jewish expectations.",
-            "description": "Bultmann discusses the theological implications of Jesus' role as the fulfillment of Jewish expectations.",
-            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*. New York: Charles Scribner's Sons, 1971.",
+            "why": "Bultmann discusses the theological implications of the Word becoming flesh in John's Gospel.",
+            "description": "Bultmann discusses the theological implications of the Word becoming flesh in John's Gospel.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -65,16 +62,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-b720f1cbeca8",
-            "title": "Mark 1:1-8:26. Dallas: Word Books, 1989",
+            "id": "BST-S-35bba2bab7cf",
+            "title": "The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Mark-1-1-8-26-Robert-Guelich/dp/0849902541",
-            "author": "Guelich, Robert A",
-            "date": "1989",
-            "why": "Guelich discusses the implications of Peter's commissioning in the context of discipleship.",
-            "description": "Guelich discusses the implications of Peter's commissioning in the context of discipleship.",
-            "citation": "Guelich, Robert A. *Mark 1:1-8:26*. Dallas: Word Books, 1989.",
+            "source_url": "https://www.amazon.com/Conversion-Imagination-Interpreter-Israels-Scripture/dp/0195131228",
+            "author": "Hays, Richard B",
+            "why": "Hays discusses the implications of Israel's rejection of Jesus in light of the Cain and Abel story.",
+            "description": "Hays discusses the implications of Israel's rejection of Jesus in light of the Cain and Abel story.",
+            "citation": "Hays, Richard B. *The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -84,16 +80,33 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-bc9011d50cd5",
-            "title": "John. Grand Rapids: Baker Academic, 2004",
+            "id": "BST-S-b2654867bcdc",
+            "title": "John: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/John-Baker-Exegetical-Commentary-New/dp/0801026938",
+            "source_url": "https://www.amazon.com/John-Commentary-Edward-W-Klink/dp/0801049293",
+            "author": "Klink, Edward W",
+            "why": "Klink examines the connections between Jesus' identity and Old Testament expectations.",
+            "description": "Klink examines the connections between Jesus' identity and Old Testament expectations.",
+            "citation": "Klink, Edward W. *John: A Commentary.*",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-fdf59ed3a77d",
+            "title": "John",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/John-Andreas-J-Kostenberger/dp/0825427888",
             "author": "Köstenberger, Andreas J",
-            "date": "2004",
-            "why": "Köstenberger analyzes the significance of the first miracle in the context of John's theological themes.",
-            "description": "Köstenberger analyzes the significance of the first miracle in the context of John's theological themes.",
-            "citation": "Köstenberger, Andreas J. *John*. Grand Rapids: Baker Academic, 2004.",
+            "why": "Köstenberger analyzes the themes of love and belief in the Upper Room Discourse.",
+            "description": "Köstenberger analyzes the themes of love and belief in the Upper Room Discourse.",
+            "citation": "Köstenberger, Andreas J. *John.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -103,16 +116,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-173c4445e910",
-            "title": "The Theology of the Gospel of John. Cambridge: Cambridge University Press, 1992",
+            "id": "BST-S-290f9a5f3210",
+            "title": "The Passion of Jesus Christ: Fifty Reasons Why He Came to Die",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.cambridge.org/core/books/the-theology-of-the-gospel-of-john/0D1D8D2D5D8A8B8E6A6B8B8B8B8B8B8",
-            "author": "Lindars, Barnabas",
-            "date": "1992",
-            "why": "Lindars examines the theological themes in John, including the new birth and sacrificial motifs.",
-            "description": "Lindars examines the theological themes in John, including the new birth and sacrificial motifs.",
-            "citation": "Lindars, Barnabas. *The Theology of the Gospel of John*. Cambridge: Cambridge University Press, 1992.",
+            "source_url": "https://www.amazon.com/Passion-Jesus-Christ-Reasons-Came/dp/158134735X",
+            "author": "Piper, John",
+            "why": "Piper discusses the implications of Jesus' commands in the context of covenant.",
+            "description": "Piper discusses the implications of Jesus' commands in the context of covenant.",
+            "citation": "Piper, John. *The Passion of Jesus Christ: Fifty Reasons Why He Came to Die.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -122,14 +134,50 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-64838861336a",
-            "title": "Summary of New Testament Teaching on Christian Sacrifice",
+            "id": "BST-S-af3c031e0a45",
+            "title": "Word Made Flesh",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.5040/9781472550026.0024",
-            "why": "This source provides a scholarly examination of the concept of sacrifice in the New Testament, which aligns with the claim regarding Jesus as the fulfillment of Old Testament themes related to sacrifice. It likely addresses the broader theological implications of Jesus' sacrificial role, which connects to new birth and the new covenant themes.",
-            "description": "This source provides a scholarly examination of the concept of sacrifice in the New Testament, which aligns with the claim regarding Jesus as the fulfillment of Old Testament themes related to sacrifice. It likely addresses the broader theological implications of Jesus' sacrificial role, which connects to new birth and the new covenant themes.",
-            "citation": "Summary of New Testament Teaching on Christian Sacrifice",
+            "source_url": "https://doi.org/10.1515/9780823293599-003",
+            "why": "This source directly addresses the concept of Jesus as the Word made flesh, exploring its implications within Christian faith and relating it to Old Testament themes, making it relevant to the claim about fulfillment of Old Testament narratives.",
+            "description": "This source directly addresses the concept of Jesus as the Word made flesh, exploring its implications within Christian faith and relating it to Old Testament themes, making it relevant to the claim about fulfillment of Old Testament narratives.",
+            "citation": "Word Made Flesh",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-100ebd51f621",
+            "title": "Jesus and the Victory of God",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Jesus-Victory-God-Christian-Origins/dp/0281051634",
+            "author": "Wright, N. T",
+            "why": "Wright explores the themes of rejection and fulfillment in the life of Jesus.",
+            "description": "Wright explores the themes of rejection and fulfillment in the life of Jesus.",
+            "citation": "Wright, N. T. *Jesus and the Victory of God.*",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-e21b48beeb21",
+            "title": "The Resurrection of the Son of God",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Resurrection-Son-God-Christian-Origins/dp/145149928X",
+            "author": "Wright, N. T",
+            "why": "Wright discusses the theological implications of the resurrection as new creation.",
+            "description": "Wright discusses the theological implications of the resurrection as new creation.",
+            "citation": "Wright, N. T. *The Resurrection of the Son of God.*",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],

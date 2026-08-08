@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_3/15
-_Generated: 2026-08-08 15:50 UTC_  
+_Generated: 2026-08-08 15:53 UTC_  
 _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,40 +7,48 @@ _Cell_: **Z24**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[Argument Summary of John]]
 **Title:** Argument Summary of John
 
-The argument presented in the Gospel of John portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to the concepts of sacrifice, new birth, and the role of Israel. The narrative unfolds through various images and events, such as the transformation of water into wine and the healing of the blind man, which illustrate the transition from the old covenant to the new. Central to this argument is the depiction of Jesus as the true Temple and the embodiment of life, culminating in His death and resurrection, which provide the basis for the disciples' mission and the establishment of a new community of faith. The Gospel concludes with the commissioning of Peter and the affirmation of belief in the unseen, emphasizing the continuity of God's plan from Genesis through to the New Testament.
+The argument presented in the Gospel of John portrays Jesus as the fulfillment of Old Testament themes, particularly in relation to the concepts of sacrifice and new birth. It illustrates how Israel's rejection of Jesus mirrors the narrative of Cain and Abel, while also emphasizing the transformative roles of Jesus as the Word made flesh, the true Temple, and the ultimate source of life. The narrative structure of John unfolds through various conflicts and resolutions, culminating in the commissioning of the disciples to spread the message of Jesus, who embodies the new covenant and the promise of the Spirit.
 
 ## Core Reference
-- Summary of New Testament Teaching on Christian Sacrifice
-  - URL: https://doi.org/10.5040/9781472550026.0024
-  - Why: This source provides a scholarly examination of the concept of sacrifice in the New Testament, which aligns with the claim regarding Jesus as the fulfillment of Old Testament themes related to sacrifice. It likely addresses the broader theological implications of Jesus' sacrificial role, which connects to new birth and the new covenant themes.
+- Word Made Flesh
+  - URL: https://doi.org/10.1515/9780823293599-003
+  - Why: This source directly addresses the concept of Jesus as the Word made flesh, exploring its implications within Christian faith and relating it to Old Testament themes, making it relevant to the claim about fulfillment of Old Testament narratives.
 
 ## Distinctives (from DEV doc)
 
-1. Jesus as the fulfillment of Old Testament themes, particularly in relation to sacrifice and new birth.
+1. Jesus as the Word made flesh fulfills Old Testament themes.
 
-    - The Theology of the Second Letter to the Corinthians by Jerome Murphy-O’Connor OP (Cambridge: University Press, 1991, xii + 166 pp., hb. £22.50, pb. £7.95)/The Theology of the Letter to the Hebrews by Barnabas Lindars SSF (Cambridge: University Press, 1991, xiv + 155 pp., hb. £22.50, pb. £7.95)/The Theology of the Joh
-      - URL: https://doi.org/10.1163/27725472-06502012
-      - Access URL: https://www.cambridge.org/core/books/the-theology-of-the-gospel-of-john/0D1D8D2D5D8A8B8E6A6B8B8B8B8B8B8
-      - Why: Lindars examines the theological themes in John, including the new birth and sacrificial motifs.
+    - Bultmann, Rudolf. The Gospel of John: A Commentary
+      - URL: https://doi.org/10.1177/004057367202800420
+      - Why: Bultmann discusses the theological implications of the Word becoming flesh in John's Gospel.
     - The Gospel According to John (I–XII) - Raymond E. Brown , SS
       - URL: https://doi.org/10.5040/9780300261967
-      - Why: Brown provides an in-depth analysis of the Johannine themes of sacrifice and new birth.
+      - Why: Brown explores the Johannine understanding of Jesus as the fulfillment of the Old Testament.
+    - John by Edward W. Klink III - Christopher W. Skinner
+      - URL: https://doi.org/10.1353/cbq.2018.0073
+      - Why: Klink examines the connections between Jesus' identity and Old Testament expectations.
 
-2. The transformation of water into wine as a symbol of the new covenant.
+2. Israel's rejection of Jesus parallels the Cain and Abel narrative.
 
-    - HANDBOOK ON HEBREWS THROUGH REVELATION. By Andreas J.Köstenberger. Handbooks on the New Testament. Grand Rapids, MI: Baker Academic, 2020. Pp. xviii + 286. Hardback. $34.99
-      - URL: https://doi.org/10.1111/rsr.15100
-      - Why: Köstenberger analyzes the significance of the first miracle in the context of John's theological themes.
+    - What Victory? What God? A Review Debate with N. T. Wright on Jesus and the Victory of God - John Dominic Crossan
+      - URL: https://doi.org/10.1017/s0036930600049620
+      - Why: Wright explores the themes of rejection and fulfillment in the life of Jesus.
+    - The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture. By Richard B. Hays
+      - URL: https://doi.org/10.1111/j.1468-2265.2007.00333_48.x
+      - Why: Hays discusses the implications of Israel's rejection of Jesus in light of the Cain and Abel story.
 
-3. The portrayal of Jesus as the true Temple and the embodiment of life.
+3. The Upper Room Discourse redefines the markers of God's covenant people.
 
-    - Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony Richard Bauckham Grand Rapids: Eerdmans, 2006. xxiv + 538 pp. hb. $32 ISBN 9780802831620 - L. W. Hurtado
-      - URL: https://doi.org/10.1163/27725472-07904019
-      - Why: Bauckham examines the historical and theological context of Jesus' identity as the Temple.
+    - John – By Andreas J. Köstenberger - Casimir Bernas
+      - URL: https://doi.org/10.1111/j.1748-0922.2006.00034_12.x
+      - Why: Köstenberger analyzes the themes of love and belief in the Upper Room Discourse.
+    - The Testimony of the Beloved Disciple: Narrative, History, and Theology in the Gospel of John – By Richard Bauckham - Stan Harstine
+      - URL: https://doi.org/10.1111/j.1748-0922.2011.01578_7.x
+      - Why: Bauckham analyzes the narrative structure of the Upper Room Discourse.
 
-4. The commissioning of Peter as a model for the disciples' mission.
+4. The resurrection of Jesus signifies the new creation.
 
-    - Mark 1-8:26 by Robert Guelich (Word Biblical Commentary 34a. Dallas: Word, 1989. 499 pp.) - K. E. Brower
-      - URL: https://doi.org/10.1163/27725472-06402010
-      - Why: Guelich discusses the implications of Peter's commissioning in the context of discipleship.
+    - The Resurrection of the Son of God By N. T. Wright Minneapolis, Fortress, 2003. 817 pp. $39.00 - Pheme Perkins
+      - URL: https://doi.org/10.1177/004057360406100331
+      - Why: Wright discusses the theological implications of the resurrection as new creation.
 
