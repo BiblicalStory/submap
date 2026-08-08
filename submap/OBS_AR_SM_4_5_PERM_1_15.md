@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-08-08 14:42 UTC_  
+_Generated: 2026-08-08 14:48 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,38 +7,33 @@ _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[**The Literary Argument of the Book of Psalms (AIS)**]]
 **Title:** **The Literary Argument of the Book of Psalms (AIS)**
 
-The Book of Psalms presents a theological narrative that emphasizes God's covenant faithfulness, particularly through the Davidic lineage, despite Israel's failures. It articulates the significance of Zion as a symbol of God's enduring kingdom and the role of righteousness as a gift from God rather than human achievement. The Psalter's structure reflects a progression from David's personal struggles to a collective national crisis, ultimately leading to the hope of a future King who will fulfill God's promises and lead a new Exodus. This narrative culminates in the expectation of restoration and the establishment of God's kingdom among all nations.
+The Book of Psalms presents a theological narrative centered on God's covenant faithfulness, particularly through the figure of the Davidic King, who embodies God's purposes and leads His people towards a promised restoration. The Psalter emphasizes key themes such as lovingkindness, righteousness, and the significance of Zion, while portraying the tension between human sinfulness and divine promise. Ultimately, the text anticipates a new Exodus led by God Himself, culminating in the establishment of His eternal kingdom and the fulfillment of His covenant with David's future Seed.
 
 ## Core Reference
-- The Psalms in Theological Use: On Incommensurability and Mutuality - Walter Brueggemann
-  - Why: Brueggemann's work provides a comprehensive theological framework for understanding the themes of covenant faithfulness and the significance of Zion in the Psalms.
+- Walter C. Kaiser Jr - Walter C. Kaiser
+  - Why: This work provides a comprehensive overview of the theological themes, including covenant faithfulness, that are central to the understanding of the Psalms.
 
 ## Distinctives (from DEV doc)
 
-1. The Book of Psalms emphasizes God's covenant faithfulness through the Davidic lineage.
+1. The Psalter emphasizes God's covenant faithfulness as a central theme.
 
-    - David Klingler — The Psalms and the Davidic Covenant
-      - Why: Klingler explores the relationship between the Psalms and the Davidic covenant.
-    - David M. Howard Jr. — The Psalms: An Introduction
-      - Why: Howard provides insights into the covenant themes present in the Psalms.
-    - Walter Brueggemann — The Message of the Psalms: A Theological Introduction
-      - Why: Brueggemann discusses the theological implications of the Psalms, including the Davidic covenant.
+    - John Goldingay — Psalms Volume 1: Psalms 1-41
+      - Why: Goldingay explores the themes of covenant and faithfulness in the Psalms.
 
-2. Zion serves as a symbol of God's enduring kingdom throughout the Psalter.
-
-    - John Goldingay — Psalms 1-41: Volume 1
-      - Why: Goldingay provides an in-depth analysis of the Psalms, including the theme of Zion.
-    - David M. Carr — Writing on the Tablet of the Heart: Origins of Scripture and Literature
-      - Why: Carr discusses the significance of Zion in the context of biblical literature.
-
-3. Righteousness in the Psalter is portrayed as a gift from God rather than human achievement.
+2. The concept of Zion as a representation of God's eternal kingdom is pivotal in the Psalter.
 
     - (no high-confidence supporting references)
 
-4. The Psalter narrates a progression from individual struggles to collective national crises.
+3. Righteousness in the Psalter is portrayed as a result of God's forgiveness rather than human perfection.
 
-    - Robert Alter — The Book of Psalms: A Translation with Commentary
-      - Why: Alter provides a literary analysis of the Psalms, highlighting their narrative structure.
-    - J. Clinton McCann Jr. — The Book of Psalms: A Theological Introduction
-      - Why: McCann discusses the thematic progression in the Psalter.
+    - C. S. Lewis — Reflections on the Psalms
+      - Why: Lewis discusses the nature of righteousness as depicted in the Psalms.
+
+4. The Davidic Covenant is central to the theological framework of the Psalter.
+
+    - (no high-confidence supporting references)
+
+5. The Psalter anticipates a new Exodus led by God Himself.
+
+    - (no high-confidence supporting references)
 
