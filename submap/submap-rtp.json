@@ -8,14 +8,15 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-c42ca9453079",
-            "title": "C. K. Barrett, The Gospel According to St. John",
+            "id": "BST-S-415bf72a80b6",
+            "title": "John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.hymnswithoutwords.com/2020/09/30/the-gospel-according-to-st-john/",
-            "why": "Barrett analyzes the significance of the Upper Room Discourse in establishing new covenant markers.",
-            "description": "Barrett analyzes the significance of the Upper Room Discourse in establishing new covenant markers.",
-            "citation": "C. K. Barrett, *The Gospel According to St. John*",
+            "source_url": "https://www.amazon.com/John-Word-Biblical-Commentary/dp/0310493929",
+            "author": "Beasley-Murray, George R",
+            "why": "Discusses the theological implications of Jesus' role in relation to Old Testament narratives.",
+            "description": "Discusses the theological implications of Jesus' role in relation to Old Testament narratives.",
+            "citation": "Beasley-Murray, George R. *John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -25,15 +26,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-a35a5543625c",
-            "title": "Keener, The Gospel of John: A Commentary",
+            "id": "BST-S-dddb27a79101",
+            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com/Products/Book/the-gospel-of-john.aspx",
-            "author": "Craig S",
-            "why": "Keener provides insights into the theological themes of John's Gospel, including its Old Testament connections.",
-            "description": "Keener provides insights into the theological themes of John's Gospel, including its Old Testament connections.",
-            "citation": "Craig S. Keener, *The Gospel of John: A Commentary*",
+            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0805440141",
+            "author": "Bock, Darrell L",
+            "why": "Analyzes the rejection of Jesus in light of Old Testament typology.",
+            "description": "Analyzes the rejection of Jesus in light of Old Testament typology.",
+            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -43,14 +44,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-66c5f33aeadd",
-            "title": "D. A. Carson, The Gospel According to John",
+            "id": "BST-S-3e2fafa147f9",
+            "title": "The Gospel of John: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.ivpress.com/the-gospel-according-to-john",
-            "why": "Carson discusses the theological implications of Jesus as the fulfillment of Old Testament prophecies.",
-            "description": "Carson discusses the theological implications of Jesus as the fulfillment of Old Testament prophecies.",
-            "citation": "D. A. Carson, *The Gospel According to John*",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary/dp/1451491752",
+            "author": "Bultmann, Rudolf",
+            "why": "Discusses the theological implications of Israel's rejection of Jesus.",
+            "description": "Discusses the theological implications of Israel's rejection of Jesus.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -60,14 +62,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-c3081472cabb",
-            "title": "Richard Bauckham, Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony",
+            "id": "BST-S-19d9d26e9bf2",
+            "title": "The Gospel According to John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.eerdmans.com/Products/Book/jesus-and-the-eyewitnesses.aspx",
-            "why": "Bauckham examines the historical context of Jesus' life and its fulfillment of Scripture.",
-            "description": "Bauckham examines the historical context of Jesus' life and its fulfillment of Scripture.",
-            "citation": "Richard Bauckham, *Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony*",
+            "source_url": "https://www.amazon.com/Gospel-According-John-Pillar-New/dp/0830822010",
+            "author": "Carson, D.A",
+            "why": "Analyzes the Gospel's theological depth and its connections to the Old Testament.",
+            "description": "Analyzes the Gospel's theological depth and its connections to the Old Testament.",
+            "citation": "Carson, D.A. *The Gospel According to John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -77,14 +80,51 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-6ea49795c164",
-            "title": "[PDF] Jesus and the Law of Moses: The Gospels and the Restoration of Israel within First-Century Judaism by Paul T. Sloan - Rafael Smith",
+            "id": "BST-S-aea32089f2b0",
+            "title": "EARLE ELLIS",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.55277/researchhub.re05qosj.1",
-            "why": "This source directly addresses the themes of Jesus as the fulfillment of Old Testament expectations, discusses Israel's rejection of Jesus as a significant narrative element, and provides insights into the covenant relationship established through belief and love. It also touches on the resurrection theme, making it a comprehensive fit for the claims presented.",
-            "description": "This source directly addresses the themes of Jesus as the fulfillment of Old Testament expectations, discusses Israel's rejection of Jesus as a significant narrative element, and provides insights into the covenant relationship established through belief and love. It also touches on the resurrection theme, making it a comprehensive fit for the claims presented.",
-            "citation": "[PDF] Jesus and the Law of Moses: The Gospels and the Restoration of Israel within First-Century Judaism by Paul T. Sloan - Rafael Smith",
+            "source_url": "https://doi.org/10.2307/26422179",
+            "author": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology - E",
+            "why": "This source directly addresses the fulfillment of Old Testament themes in relation to Jesus, making it highly relevant to the claims regarding Jesus' relationship to Genesis. It likely explores the broader theological implications, which may include Israel's rejection of Jesus and the transition from his physical presence to a Spirit-mediated presence, making it a comprehensive resource for the argument presented.",
+            "description": "This source directly addresses the fulfillment of Old Testament themes in relation to Jesus, making it highly relevant to the claims regarding Jesus' relationship to Genesis. It likely explores the broader theological implications, which may include Israel's rejection of Jesus and the transition from his physical presence to a Spirit-mediated presence, making it a comprehensive resource for the argument presented.",
+            "citation": "Jesus' Use of the Old Testament and the Genesis of New Testament Theology - E. EARLE ELLIS",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-44556b1c398b",
+            "title": "John",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/John-Baker-Exegetical-Commentary-New/dp/0801026358",
+            "author": "Köstenberger, Andreas J",
+            "why": "Examines the theological themes in John, including fulfillment of Old Testament prophecies.",
+            "description": "Examines the theological themes in John, including fulfillment of Old Testament prophecies.",
+            "citation": "Köstenberger, Andreas J. *John*.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_FT_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_FT_1/5_PERM_3/15"
+            ],
+            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
+          },
+          {
+            "id": "BST-S-59e9da1900b1",
+            "title": "The Gospel According to John",
+            "address": "OBS_AR_FT_1/5_PERM_3/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
+            "source_url": "https://www.amazon.com/Gospel-According-John-Lion-Morris/dp/0802801280",
+            "author": "Morris, Leon",
+            "why": "Provides insights into the rejection of Jesus in the context of the narrative.",
+            "description": "Provides insights into the rejection of Jesus in the context of the narrative.",
+            "citation": "Morris, Leon. *The Gospel According to John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
