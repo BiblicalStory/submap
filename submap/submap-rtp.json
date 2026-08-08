@@ -8,15 +8,15 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-5eaa90974c6e",
-            "title": "The Gospel According to St. John",
+            "id": "BST-S-415bf72a80b6",
+            "title": "John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-St-John/dp/0684102028",
-            "author": "Barrett, C. K",
-            "why": "Barrett discusses the theological implications of John's narrative in relation to the Old Testament.",
-            "description": "Barrett discusses the theological implications of John's narrative in relation to the Old Testament.",
-            "citation": "Barrett, C. K. *The Gospel According to St. John.*",
+            "source_url": "https://www.amazon.com/John-Word-Biblical-Commentary/dp/0849902265",
+            "author": "Beasley-Murray, George R",
+            "why": "This commentary discusses the theological implications of Jesus' role as the fulfillment of Old Testament themes.",
+            "description": "This commentary discusses the theological implications of Jesus' role as the fulfillment of Old Testament themes.",
+            "citation": "Beasley-Murray, George R. *John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -26,51 +26,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-8e7fcf21a2b1",
-            "title": "Jesus According to Scripture: Restoring the Portrait from the Gospels",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-According-Scripture-Restoring-Portrait/dp/0801026949",
-            "author": "Bock, Darrell L",
-            "why": "Bock discusses the transition to Spirit-mediated presence in the context of Jesus' teachings.",
-            "description": "Bock discusses the transition to Spirit-mediated presence in the context of Jesus' teachings.",
-            "citation": "Bock, Darrell L. *Jesus According to Scripture: Restoring the Portrait from the Gospels.*",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-860c178d97e8",
-            "title": "Jesus: The Great Debate",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-Great-Debate-Darrell-Bock/dp/0801026949",
-            "author": "Bock, Darrell L",
-            "why": "Bock examines the implications of the resurrection for the disciples' mission.",
-            "description": "Bock examines the implications of the resurrection for the disciples' mission.",
-            "citation": "Bock, Darrell L. *Jesus: The Great Debate.*",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-9d303b385612",
+            "id": "BST-S-3e2fafa147f9",
             "title": "The Gospel of John: A Commentary",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451494117",
+            "source_url": "https://www.amazon.com/Gospel-John-Commentary-Rudolf-Bultmann/dp/1451400745",
             "author": "Bultmann, Rudolf",
-            "why": "Bultmann discusses the theological implications of John's portrayal of Jesus in relation to Old Testament narratives.",
-            "description": "Bultmann discusses the theological implications of John's portrayal of Jesus in relation to Old Testament narratives.",
-            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary.*",
+            "why": "Bultmann's work provides insights into the theological significance of Jesus' fulfillment of the Old Testament.",
+            "description": "Bultmann's work provides insights into the theological significance of Jesus' fulfillment of the Old Testament.",
+            "citation": "Bultmann, Rudolf. *The Gospel of John: A Commentary*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -80,15 +44,14 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-dc74959cf1d0",
-            "title": "The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5",
+            "id": "BST-S-8eaf5bb40e6e",
+            "title": "Cain, Abel, Seth, and Israel in Allegorical Exegesis",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Faith-Jesus-Christ-Narrative-Substructure/dp/0802846475",
-            "author": "Hays, Richard B",
-            "why": "Hays discusses the implications of resurrection faith for the early church's mission.",
-            "description": "Hays discusses the implications of resurrection faith for the early church's mission.",
-            "citation": "Hays, Richard B. *The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-5.*",
+            "source_url": "https://doi.org/10.2307/jj.18108258.11",
+            "why": "This source directly addresses the allegorical interpretation of the figures of Cain and Abel in relation to Israel, making it relevant for the framing of Israel as the greater Cain rejecting the greater Abel. It also connects to themes of sacrifice and can provide insights into the fulfillment of Old Testament themes through Jesus, particularly in the context of sacrifice and creation.",
+            "description": "This source directly addresses the allegorical interpretation of the figures of Cain and Abel in relation to Israel, making it relevant for the framing of Israel as the greater Cain rejecting the greater Abel. It also connects to themes of sacrifice and can provide insights into the fulfillment of Old Testament themes through Jesus, particularly in the context of sacrifice and creation.",
+            "citation": "Cain, Abel, Seth, and Israel in Allegorical Exegesis",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -98,15 +61,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-48c047f498f2",
-            "title": "The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World",
+            "id": "BST-S-e35d0d38c1e4",
+            "title": "The Gospel According to St. John",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Message-Kingdom-Jesus-Transformed-Revolution/dp/1598150953",
-            "author": "Horsley, Richard A",
-            "why": "Horsley discusses the revolutionary aspects of Jesus' message in the context of Jewish scripture.",
-            "description": "Horsley discusses the revolutionary aspects of Jesus' message in the context of Jewish scripture.",
-            "citation": "Horsley, Richard A. *The Message and the Kingdom: How Jesus and Paul Ignited a Revolution and Transformed the World.*",
+            "source_url": "https://www.amazon.com/Gospel-According-St-John/dp/0826416065",
+            "author": "Schnackenburg, Rudolf",
+            "why": "Schnackenburg's work addresses the theological implications of Jesus' fulfillment of the Old Testament.",
+            "description": "Schnackenburg's work addresses the theological implications of Jesus' fulfillment of the Old Testament.",
+            "citation": "Schnackenburg, Rudolf. *The Gospel According to St. John*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
@@ -116,87 +79,15 @@
             "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
           },
           {
-            "id": "BST-S-2cdf835101c7",
-            "title": "Reynolds",
+            "id": "BST-S-41f5b909597c",
+            "title": "The Spirit, the Church, and the World: The Message of Acts",
             "address": "OBS_AR_FT_1/5_PERM_3/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://doi.org/10.1093/oso/9780198784241.003.0006",
-            "author": "John’s Gospel as “Apocalyptic” Gospel - Benjamin E",
-            "why": "This chapter discusses the Gospel of John in the context of its apocalyptic themes, which includes the fulfillment of Old Testament prophecies and the implications of Jesus' rejection by Israel. It also addresses the resurrection as a pivotal moment in Jesus' mission, aligning well with the claims regarding the Upper Room Discourse and the transition to a Spirit-mediated presence.",
-            "description": "This chapter discusses the Gospel of John in the context of its apocalyptic themes, which includes the fulfillment of Old Testament prophecies and the implications of Jesus' rejection by Israel. It also addresses the resurrection as a pivotal moment in Jesus' mission, aligning well with the claims regarding the Upper Room Discourse and the transition to a Spirit-mediated presence.",
-            "citation": "John’s Gospel as “Apocalyptic” Gospel - Benjamin E. Reynolds",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-0971523dcf17",
-            "title": "The Historical Jesus of the Gospels",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Historical-Jesus-Gospels-Craig-Keener/dp/0801048979",
-            "author": "Keener, Craig S",
-            "why": "Keener provides insights into the resurrection's role in shaping the disciples' understanding and mission.",
-            "description": "Keener provides insights into the resurrection's role in shaping the disciples' understanding and mission.",
-            "citation": "Keener, Craig S. *The Historical Jesus of the Gospels.*",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-8ce5f25b542e",
-            "title": "The Gospel According to John",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Gospel-According-John-Lon-Morris/dp/0802801280",
-            "author": "Morris, Leon",
-            "why": "Morris provides insights into the significance of the Upper Room Discourse for understanding the Spirit's role.",
-            "description": "Morris provides insights into the significance of the Upper Room Discourse for understanding the Spirit's role.",
-            "citation": "Morris, Leon. *The Gospel According to John.*",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-b3900e79f1f7",
-            "title": "The Trial and Crucifixion of Jesus: A Study of the Gospel of John",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Trial-Crucifixion-Jesus-Study-Gospel/dp/1629951928",
-            "author": "Schnabel, Eckhard J",
-            "why": "Schnabel examines the rejection of Jesus in the context of Jewish expectations of Moses.",
-            "description": "Schnabel examines the rejection of Jesus in the context of Jewish expectations of Moses.",
-            "citation": "Schnabel, Eckhard J. *The Trial and Crucifixion of Jesus: A Study of the Gospel of John.*",
-            "codemap_links": [
-              "[[ANCHOR — OBS_AR_FT_PERM]]"
-            ],
-            "address_codes": [
-              "OBS_AR_FT_1/5_PERM_3/15"
-            ],
-            "tags": "OBS_AR_FT_1/5_PERM_3/15 [[ANCHOR — OBS_AR_FT_PERM]]"
-          },
-          {
-            "id": "BST-S-100ebd51f621",
-            "title": "Jesus and the Victory of God",
-            "address": "OBS_AR_FT_1/5_PERM_3/15",
-            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_FT_1_5_PERM_3_15.md",
-            "source_url": "https://www.amazon.com/Jesus-Victory-God-Christian-Origins/dp/0281051633",
-            "author": "Wright, N. T",
-            "why": "Wright discusses Jesus' role in relation to Jewish expectations and the implications of His rejection.",
-            "description": "Wright discusses Jesus' role in relation to Jewish expectations and the implications of His rejection.",
-            "citation": "Wright, N. T. *Jesus and the Victory of God.*",
+            "source_url": "https://www.amazon.com/Spirit-Church-World-Message-Acts/dp/0830817926",
+            "author": "Stott, John",
+            "why": "Stott addresses the implications of the Holy Spirit's work in the church.",
+            "description": "Stott addresses the implications of the Holy Spirit's work in the church.",
+            "citation": "Stott, John. *The Spirit, the Church, and the World: The Message of Acts*.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_FT_PERM]]"
             ],
