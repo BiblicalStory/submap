@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_FT_1/5_PERM_11/15
-_Generated: 2026-08-08 14:33 UTC_  
+_Generated: 2026-08-08 14:44 UTC_  
 _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,26 +7,28 @@ _Cell_: **Z32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP25072
 - Reference: [[Narrative Framework]]
 **Title:** Narrative Framework
 
-The argument presented in Luke emphasizes Jesus as the ultimate Israelite who identifies with the unworthy to offer forgiveness through the New Covenant. The narrative unfolds through a structured framework, highlighting Jesus' role as a humble savior, the conflict with prideful Israel, and the training of His followers. The climax reveals Jesus' sacrificial death and resurrection, which opens the path to salvation for all nations. Additionally, the eschatological themes in Luke are explored through the immediacy of the Son of Man's return and the tribulation period, urging believers to maintain readiness and perseverance.
+The argument presented in Luke emphasizes Jesus as the quintessential Israelite who identifies with the unworthy to extend forgiveness through the New Covenant. The narrative framework outlines key elements such as the setting, conflict, rising action, climax, falling action, resolution, and denouement, illustrating Jesus' mission and the apostles' role in proclaiming forgiveness to all nations. Additionally, the eschatological themes in Luke highlight the immediacy of the Son of Man's return and the tribulation period, urging believers to maintain an expectation of deliverance amidst trials.
 
 ## Core Reference
-- Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb
-  - Why: This work provides a comprehensive analysis of Jesus' identity and mission, aligning closely with the themes presented in Luke.
+- Bock, Darrell L. Jesus According to Scripture. Grand Rapids, MI: Baker Academic, 2017
+  - Why: This work provides a comprehensive overview of Jesus' identity, mission, and the fulfillment of Old Testament themes, making it a foundational text for understanding the argument of Luke.
 
 ## Distinctives (from DEV doc)
 
-1. Jesus is portrayed as the ultimate Israelite who identifies with the unworthy to bring forgiveness.
-   - Bock, Darrell L. Jesus According to Scripture. Grand Rapids, MI: Baker Academic, 2017
-     - Why: Bock discusses the significance of Jesus' identity and mission in relation to Israel.
-   - Wright, N. T. Jesus and the Victory of God. Minneapolis: Fortress Press, 1996
-     - Why: Wright explores Jesus' mission and its implications for Israel and the world.
-   - Fitzmyer, Joseph A. The Gospel According to Luke I-IX: Introduction, Translation, and Notes. Yale University Press, 1998
-     - Why: Fitzmyer offers a detailed commentary on the themes of Luke, including forgiveness.
+1. Jesus as the embodiment of the ideal Israelite who brings forgiveness to the unworthy.
 
-2. The narrative structure of Luke emphasizes Jesus' training of His followers in humility and forgiveness.
-   - (no cached supporting references)
+    - Schnabel, Eckhard J. Early Christian Mission: Volume 1: Jesus and the Twelve. Downers Grove, IL: IVP Academic, 2004
+      - Why: Schnabel discusses Jesus' mission and its implications for the early church.
+    - Bock, Darrell L. Jesus According to Scripture. Grand Rapids, MI: Baker Academic, 2017
+      - Why: This work discusses Jesus' role in fulfilling the expectations of Israel and his mission of forgiveness.
+    - Horsley, Richard A. Jesus and Empire: The Kingdom of God and the New World Disorder. Trinity Press International, 2003
+      - Why: This book examines Jesus' role in relation to the socio-political context of Israel.
 
-3. Luke presents a coherent eschatological voice regarding the Son of Man's return and the tribulation period.
-   - Wright, N. T. Jesus and the Victory of God. Minneapolis: Fortress Press, 1996
-     - Why: Wright explores the eschatological themes in the context of Jesus' mission.
+2. The narrative structure of Luke emphasizes key moments in Jesus' ministry and the apostles' mission.
+
+    - (no high-confidence supporting references)
+
+3. Eschatological themes in Luke highlight the immediacy of the Son of Man’s return and the tribulation period.
+
+    - (no high-confidence supporting references)
 

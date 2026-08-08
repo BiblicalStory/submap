@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_R_CF_1/5_PERM_11/15
-_Generated: 2026-08-08 14:33 UTC_  
+_Generated: 2026-08-08 14:44 UTC_  
 _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -7,43 +7,47 @@ _Cell_: **AE32**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP2507
 - Reference: [[Narrative Framework]]
 **Title:** Narrative Framework
 
-The Acts Argument by S. Baylis, summarized by GPT-5, presents a narrative framework that illustrates the transition from the Jewish apostles' ministry to the inclusion of Gentiles in the new Temple community. It emphasizes the fulfillment of Old Testament prophecies and the significance of events such as Pentecost and Paul's missionary journeys. The narrative highlights the conflict between the temple leaders and the apostles, culminating in Paul's vindication and the unhindered spread of the gospel. The work underscores the themes of grace, divine power, and the rejection of the message by many Jews, paralleling the story of Jonah.
+The Acts Argument by S. Baylis explores the theological implications of the Book of Acts, emphasizing the transition from a Jewish-centric faith to a more inclusive community that embraces Gentiles. It highlights the role of the apostles as witnesses empowered by the Spirit, the conflict with Jewish leaders, and the significance of Paul's missionary journeys. The narrative structure illustrates the fulfillment of Old Testament prophecies and the establishment of a new Temple community, culminating in the proclamation of the gospel in Rome. This work underscores the themes of grace, inclusion, and the transformative power of God in the early church.
 
 ## Core Reference
-- Books on Subjects Related to the Historical Jesus BOCK, Darrell L., Jesus according to Scripture: Restoring the Portrait from the Gospels (Grand Rapids: Baker Academic, 2002), hb, 704 pp. ISBN 0-8010-2370-X. $39.99 - Robert Webb
-  - Why: This comprehensive commentary provides an in-depth analysis of the themes, narrative structure, and theological implications of the Book of Acts, making it a foundational resource for understanding the transition from Jewish to Gentile inclusion.
+- Bock, Darrell L. Acts. Baker Academic, 2007
+  - Why: This comprehensive commentary provides a thorough analysis of the theological themes and narrative structure of the Book of Acts, making it a foundational resource for understanding the transition to a Gentile-inclusive community.
 
 ## Distinctives (from DEV doc)
 
-1. The narrative framework of Acts illustrates the transition from Jewish to Gentile inclusion in the new Temple community.
-   - Bock, Darrell L. Acts. Baker Academic, 2007
-     - Why: Provides a comprehensive commentary on Acts, focusing on the transition from Jewish to Gentile believers.
-   - Witherington, Ben III. The Acts of the Apostles: A Socio-Rhetorical Commentary. Eerdmans, 1998
-     - Why: Analyzes the narrative structure of Acts and its implications for understanding the early church's mission.
-   - Schnabel, Eckhard J. Acts. Zondervan, 2012
-     - Why: Discusses the mission of the apostles and the inclusion of Gentiles in the early church.
+1. The transition from a Jewish-centric faith to a Gentile-inclusive community is central to the narrative of Acts.
 
-2. The conflict between the temple leaders and the apostles highlights the theme of rejection and idolatry.
-   - Witherington, Ben III. The Acts of the Apostles: A Socio-Rhetorical Commentary. Eerdmans, 1998
-     - Why: Explores the socio-rhetorical aspects of the conflict in Acts.
-   - Bock, Darrell L. Acts. Baker Academic, 2007
-     - Why: Analyzes the conflict between Jewish leaders and the apostles, focusing on themes of rejection.
-   - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
-     - Why: Discusses the implications of the rejection of the apostles' message in the context of power dynamics.
+    - Bock, Darrell L. Acts. Baker Academic, 2007
+      - Why: Provides a comprehensive commentary on the Book of Acts, focusing on its theological themes.
+    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
+      - Why: Examines Paul's missionary strategies and their impact on the inclusion of Gentiles.
+    - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
+      - Why: Discusses the implications of Paul's mission to the Gentiles within the context of the Roman Empire.
 
-3. Paul's missionary journeys exemplify the theme of grace and the empowerment of the Spirit.
-   - Bock, Darrell L. Acts. Baker Academic, 2007
-     - Why: Discusses the role of grace in Paul's missionary work.
-   - Witherington, Ben III. The Acts of the Apostles: A Socio-Rhetorical Commentary. Eerdmans, 1998
-     - Why: Examines the narrative of Paul's journeys and the theme of grace.
-   - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
-     - Why: Analyzes the implications of grace in Paul's ministry.
+2. The empowerment of the apostles by the Spirit is a key theme in the narrative.
 
-4. The climax of Acts reveals the rejection of the resurrection and Gentile inclusion by temple leaders.
-   - Bock, Darrell L. Acts. Baker Academic, 2007
-     - Why: Analyzes the climax of Acts and its implications for resurrection and inclusion.
-   - Witherington, Ben III. The Acts of the Apostles: A Socio-Rhetorical Commentary. Eerdmans, 1998
-     - Why: Explores the climax of the narrative and its theological significance.
-   - Stott, John R.W. The Spirit, the Church, and the World: The Message of Acts. InterVarsity Press, 1990
-     - Why: Discusses the rejection of the resurrection by the Jewish leaders.
+    - Gaventa, Beverly Roberts. The Acts of the Apostles. Abingdon Press, 2003
+      - Why: Examines the role of the Holy Spirit in empowering the apostles throughout Acts.
+    - Bock, Darrell L. Acts. Baker Academic, 2007
+      - Why: Provides insights into the role of the Holy Spirit in the narrative of Acts.
+    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
+      - Why: Examines how the Spirit's empowerment influenced Paul's missionary work.
+
+3. The conflict between the apostles and Jewish leaders illustrates the theme of rejection and inclusion.
+
+    - Bock, Darrell L. Acts. Baker Academic, 2007
+      - Why: Analyzes the conflicts in Acts, particularly between apostles and Jewish authorities.
+    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
+      - Why: Explores the conflicts faced by Paul and the apostles in their missions.
+    - Gaventa, Beverly Roberts. The Acts of the Apostles. Abingdon Press, 2003
+      - Why: Focuses on the theological implications of the conflicts in Acts.
+
+4. Paul's missionary journeys are depicted as a fulfillment of God's plan for the Gentiles.
+
+    - Schnabel, Eckhard J. Paul the Missionary: Realities, Strategies and Methods. IVP Academic, 2008
+      - Why: Examines Paul's journeys and their significance for Gentile inclusion.
+    - Bock, Darrell L. Acts. Baker Academic, 2007
+      - Why: Provides a detailed analysis of Paul's missionary activities in Acts.
+    - Horsley, Richard A. Paul and Empire: Religion and Power in Roman Imperial Society. Trinity Press International, 1997
+      - Why: Discusses the implications of Paul's missions in the context of the Roman Empire.
 
