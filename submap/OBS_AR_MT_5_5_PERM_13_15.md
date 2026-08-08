@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_MT_5/5_PERM_13/15
-_Generated: 2026-08-08 13:49 UTC_  
+_Generated: 2026-08-08 14:05 UTC_  
 _Cell_: **O34**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -13,22 +13,10 @@ The work explores Deuteronomy as a theological reinterpretation of Israel's wild
 - Baker, David - Timothy M. Crain
   - Why: This monograph provides a comprehensive analysis of the theological themes and literary structure of Deuteronomy, making it a foundational text for understanding the arguments presented in the summary.
 
-## Distinctives & Top Support
+## Distinctives (from cached index)
 
-1. Deuteronomy presents a prophetic retelling of Israel's wilderness journey emphasizing divine grace amidst rebellion.
-
-    - Hays, Richard B. The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture
-      - Why: Analyzes how New Testament writers reinterpret Israel's story, including themes from Deuteronomy.
-    - Sweeney, Marvin A. The Prophetic Literature: An Introduction
-      - Why: Discusses the prophetic nature of biblical texts, including Deuteronomy.
-
-3. Deuteronomy emphasizes the need for a 'circumcision of heart' as a transformative process rather than mere legal adherence.
-
-    - Hays, Richard B. The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture
-      - Why: Analyzes the New Testament understanding of heart transformation.
-
-4. The text argues that true blessing is a result of God's salvific action rather than human merit.
-
-    - Hays, Richard B. The Conversion of the Imagination: Paul as Interpreter of Israel's Scripture
-      - Why: Discusses the New Testament perspective on grace and salvation.
-
+- Deuteronomy presents a prophetic retelling of Israel's wilderness journey emphasizing divine grace amidst rebellion. / The 'Assembly of the LORD' serves as a central theme, representing a consecrated community mediating between God and humanity.
+- Deuteronomy presents a prophetic retelling of Israel's wilderness journey emphasizing divine grace amidst rebellion.
+- The 'Assembly of the LORD' serves as a central theme, representing a consecrated community mediating between God and humanity.
+- Deuteronomy emphasizes the need for a 'circumcision of heart' as a transformative process rather than mere legal adherence.
+- The text argues that true blessing is a result of God's salvific action rather than human merit.
