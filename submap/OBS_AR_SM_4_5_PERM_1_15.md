@@ -1,5 +1,5 @@
 # Submap Bibliographic Support — OBS_AR_SM_4/5_PERM_1/15
-_Generated: 2026-08-08 13:46 UTC_  
+_Generated: 2026-08-08 14:05 UTC_  
 _Cell_: **S22**   |   _Basemap_: **BASEMAP250722**   |   _Submap_: **SUBMAP250722**
 
 ## DEV Reference (Summary)
@@ -13,12 +13,9 @@ The Book of Psalms presents a theological narrative that emphasizes God's covena
 - Writing on the Tablet of the Heart - David M Carr
   - Why: Carr explores the symbolic significance of Zion in biblical literature.
 
-## Distinctives & Top Support
+## Distinctives (from cached index)
 
-2. Zion is portrayed as the earthly representation of God's eternal kingdom.
-
-    - Writing on the Tablet of the Heart - David M Carr
-      - Why: Carr explores the symbolic significance of Zion in biblical literature.
-    - David A. deSilva — An Introduction to the New Testament: Contexts, Methods & Ministry Formation
-      - Why: DeSilva discusses the theological implications of Zion in both the Old and New Testaments.
-
+- Zion is portrayed as the earthly representation of God's eternal kingdom.
+- The Book of Psalms emphasizes God's covenant faithfulness as a central theme.
+- Righteousness in the Psalms is depicted as a result of God's forgiveness rather than human perfection.
+- The Psalter articulates the tension between David's sinfulness and the hope in his future Seed.
