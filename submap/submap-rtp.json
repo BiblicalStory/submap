@@ -8,14 +8,15 @@
         "name": "primary references",
         "items": [
           {
-            "id": "BST-S-ce1350e04388",
-            "title": "C. S. Lewis — Reflections on the Psalms",
+            "id": "BST-S-c61e1ce40dbe",
+            "title": "The Book of Psalms: A Theological Introduction. Grand Rapids: Baker Academic, 2015",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.harpercollins.com/products/reflections-on-the-psalms-c-s-lewis",
-            "why": "Lewis discusses the nature of righteousness as depicted in the Psalms.",
-            "description": "Lewis discusses the nature of righteousness as depicted in the Psalms.",
-            "citation": "C. S. Lewis — Reflections on the Psalms",
+            "author": "Baker, David W",
+            "date": "2015",
+            "why": "Baker examines the significance of Zion in the Psalms as a representation of God's kingdom.",
+            "description": "Baker examines the significance of Zion in the Psalms as a representation of God's kingdom.",
+            "citation": "Baker, David W. *The Book of Psalms: A Theological Introduction*. Grand Rapids: Baker Academic, 2015.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -25,14 +26,16 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-57e2930696fd",
-            "title": "John Goldingay — Psalms Volume 1: Psalms 1-41",
+            "id": "BST-S-b4424d92eefb",
+            "title": "Selderhuis: Grand Rapids: Baker Academic, 2007. 304 pp. $29.99 - Patrick D. Miller",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://www.eerdmans.com/Products/CategoryCenter.aspx?CategoryId=OT",
-            "why": "Goldingay explores the themes of covenant and faithfulness in the Psalms.",
-            "description": "Goldingay explores the themes of covenant and faithfulness in the Psalms.",
-            "citation": "John Goldingay — Psalms Volume 1: Psalms 1-41",
+            "source_url": "https://doi.org/10.1177/004057360906600209",
+            "author": "Calvin's Theology of the Psalms: Herman J",
+            "date": "2007",
+            "why": "Goldingay's work provides a comprehensive theological exploration of the themes in the Psalms, including lovingkindness, Zion, and the Davidic Covenant.",
+            "description": "Goldingay's work provides a comprehensive theological exploration of the themes in the Psalms, including lovingkindness, Zion, and the Davidic Covenant.",
+            "citation": "Calvin's Theology of the Psalms: Herman J. Selderhuis: Grand Rapids: Baker Academic, 2007. 304 pp. $29.99 - Patrick D. Miller",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
@@ -42,15 +45,33 @@
             "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
           },
           {
-            "id": "BST-S-48042b24073e",
-            "title": "Kaiser Jr - Walter C. Kaiser",
+            "id": "BST-S-56b4372ab875",
+            "title": "Psalms Volume 1: Psalms 1-41. Grand Rapids: Baker Academic, 2006",
             "address": "OBS_AR_SM_4/5_PERM_1/15",
             "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
-            "source_url": "https://doi.org/10.5325/j.ctv1bxh0gh.18",
-            "author": "Walter C",
-            "why": "This work provides a comprehensive overview of the theological themes, including covenant faithfulness, that are central to the understanding of the Psalms.",
-            "description": "This work provides a comprehensive overview of the theological themes, including covenant faithfulness, that are central to the understanding of the Psalms.",
-            "citation": "Walter C. Kaiser Jr - Walter C. Kaiser",
+            "author": "Goldingay, John",
+            "date": "2006",
+            "why": "Goldingay provides insights into the themes of lovingkindness and covenant in the Psalms.",
+            "description": "Goldingay provides insights into the themes of lovingkindness and covenant in the Psalms.",
+            "citation": "Goldingay, John. *Psalms Volume 1: Psalms 1-41*. Grand Rapids: Baker Academic, 2006.",
+            "codemap_links": [
+              "[[ANCHOR — OBS_AR_SM_PERM]]"
+            ],
+            "address_codes": [
+              "OBS_AR_SM_4/5_PERM_1/15"
+            ],
+            "tags": "OBS_AR_SM_4/5_PERM_1/15 [[ANCHOR — OBS_AR_SM_PERM]]"
+          },
+          {
+            "id": "BST-S-a4248069d503",
+            "title": "The Book of Psalms: A Commentary. Grand Rapids: Baker Academic, 2013",
+            "address": "OBS_AR_SM_4/5_PERM_1/15",
+            "url": "https://raw.githubusercontent.com/BiblicalStory/submap/main/submap/OBS_AR_SM_4_5_PERM_1_15.md",
+            "author": "Klein, William W",
+            "date": "2013",
+            "why": "Klein provides commentary on the Psalms, emphasizing the importance of Zion.",
+            "description": "Klein provides commentary on the Psalms, emphasizing the importance of Zion.",
+            "citation": "Klein, William W. *The Book of Psalms: A Commentary*. Grand Rapids: Baker Academic, 2013.",
             "codemap_links": [
               "[[ANCHOR — OBS_AR_SM_PERM]]"
             ],
